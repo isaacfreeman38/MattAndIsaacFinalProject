@@ -1,0 +1,19 @@
+---
+title: "Stat 380 Final Project"
+author: "Isaac Freeman and Matt Secen"
+date: "Due: May 1, 2019"
+output: html_notebook
+---
+
+# Front matter
+
+```{r echo=TRUE, message=FALSE}
+# always clean up R environment
+rm(list = ls())
+
+# load all packages here
+
+# user-defined functions here (if any)
+
+```
+
