@@ -1,0 +1,1695 @@
+Agency,MMR Goal,Critical,Performance Indicator,FY12,FY13,FY14,FY15,FY16,TGT16,TGT17,Desired direction,5yr trend
+3-1-1,1a,TRUE,311 calls (000),"18,957","19,917","21,346","21,079","18,799",*,*,Neutral,Neutral
+3-1-1,1a,FALSE,311 mobile app contacts (000),NA,NA,NA,705,"1,010",*,*,Up,NA
+3-1-1,1a,FALSE,311-NYC (text) contacts (000),NA,NA,234,175,156,*,*,Neutral,NA
+3-1-1,1a,FALSE,Calls handled in languages other than English (%),2.2%,2.1%,1.8%,2.5%,3.0%,*,*,Neutral,Up
+3-1-1,1a,FALSE,Call takers time occupied (%),80%,78%,79%,77%,74%,*,*,Up,Neutral
+3-1-1,1a,FALSE,Calls resolved at 311 without transfer to agency for resolution (%),90%,91%,93%,94%,93%,*,*,Up,Neutral
+3-1-1,1a,FALSE,Complaints about 311 per million calls,30.0,26.0,23.0,26.0,32.0,*,*,Down,Neutral
+3-1-1,2a,FALSE,Completed requests for interpretation,"425,157","421,839","392,759","531,194","556,576",*,*,Neutral,Up
+3-1-1,2a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Neutral,Neutral
+3-1-1,2a,FALSE,Customer satisfaction index,82,84,83,84,85,*,*,Up,Neutral
+ACS,1a,TRUE,Number of State Central Register consolidated investigations,"57,453","54,039","55,529","54,926","55,329",*,*,Neutral,Neutral
+ACS,1a,FALSE,Substantiation rate,39.6%,39.8%,39.5%,38.7%,36.1%,*,*,Neutral,Neutral
+ACS,1a,FALSE,Children in complete investigations with repeat investigations within a year (%),23.8%,24.3%,24.2%,24.4%,23.8%,*,*,Down,Neutral
+ACS,1b,FALSE,Families entering child welfare specialized teen preventive services,NA,NA,"1,572","1,570","1,455",*,*,Up,NA
+ACS,1b,FALSE,Children receiving child welfare preventive services (daily average),"22,594","24,127","23,725","24,889","23,545",*,*,Up,Neutral
+ACS,1b,FALSE,Children who received child welfare preventive services during the year (annual total),"40,805","43,455","44,456","47,001","46,207",*,*,Up,Up
+ACS,1c,FALSE,All children entering foster care (preliminary),"5,698","4,779","4,501","4,233","3,702",*,*,Neutral,Down
+ACS,1c,TRUE,Children in foster care (average),"13,820","12,958","11,750","11,098","9,926",*,*,Neutral,Down
+ACS,1c,FALSE,- Children in foster kinship homes,"4,843","4,461","3,929","3,636","3,223",*,*,Neutral,Down
+ACS,1c,FALSE,- Children in nonrelative foster boarding homes,"7,896","7,398","6,915","6,533","5,845",*,*,Down,Down
+ACS,1c,FALSE,- Children in residential care,"1,081","1,099",923,929,859,*,*,Down,Down
+ACS,1c,FALSE,School Attendance Rate - Children in Foster Care (%),NA,NA,82.1%,82.5%,82.5%,*,*,Up,NA
+ACS,1c,FALSE,Total days all children spent in foster care,"5,971,122","5,502,471","4,976,399","4,710,116","4,381,890",*,*,Neutral,Down
+ACS,1d,FALSE,Siblings placed simultaneously in the same foster home (%)(preliminary),86.3%,87.9%,88.2%,88.9%,91.0%,*,*,Up,Neutral
+ACS,1e,FALSE,Children adopted,"1,295","1,310","1,101","1,004","1,052",*,*,Up,Down
+ACS,1e,FALSE,Children eligible for adoption (average),"1,675","1,446","1,248","1,092","1,053",*,*,Neutral,Down
+ACS,1e,FALSE,Kinship Guardianship Assistance discharges,NA,119,251,275,323,*,*,Up,NA
+ACS,1e,FALSE,Children returned to parents (reunifications),"4,039","3,393","2,940","2,506","2,499",*,*,Neutral,Down
+ACS,2a,FALSE,Average child care voucher enrollment,"69,020","71,756","67,541","66,801","67,527",*,*,Neutral,Neutral
+ACS,2a,TRUE,Average mandated children voucher enrollment,NA,"56,649","54,852","55,000","54,761",*,*,Neutral,NA
+ACS,2a,TRUE,Average other eligible children voucher enrollment,NA,"15,107","12,689","11,801","12,659",*,*,Neutral,NA
+ACS,2a,TRUE,Average center-based child care voucher enrollment,NA,"27,552","26,401","27,052","27,132",*,*,Neutral,NA
+ACS,2a,TRUE,Average family child care voucher enrollment,NA,"21,503","21,507","22,177","24,119",*,*,Neutral,NA
+ACS,2a,TRUE,Average informal (home-based) child care voucher enrollment,NA,"22,700","19,633","17,572","15,976",*,*,Neutral,NA
+ACS,2a,FALSE,EarlyLearn - Fiscal year spending per child based on average enrollment in Contract Family Child Care,NA,"$9,084","$8,629","$8,577","$8,715",*,*,Neutral,NA
+ACS,2a,FALSE,EarlyLearn - Budget per slot in contract family child care,NA,"$9,329","$9,340","$9,347","$9,522",*,*,Neutral,NA
+ACS,2a,FALSE,EarlyLearn - Fiscal Year Spending per Child based on Average Enrollment in Contract Centers,NA,"$14,568","$14,302","$15,598","$16,754",*,*,Neutral,NA
+ACS,2a,FALSE,Fiscal year spending per child - Center-based child care vouchers,NA,"$8,478","$8,524","$8,936","$9,280",*,*,Neutral,NA
+ACS,2a,FALSE,Fiscal year spending per child - Family child care vouchers,NA,"$7,385","$7,500","$7,575","$7,659",*,*,Neutral,NA
+ACS,2a,FALSE,Fiscal year spending per child - Legally exempt (informal child care) vouchers,NA,"$4,169","$4,144","$4,119","$4,140",*,*,Neutral,NA
+ACS,2a,FALSE,Abuse and/or neglect reports for children in child care,322,357,413,492,584,*,*,Neutral,Up
+ACS,2a,FALSE,Abuse and/or neglect reports for children in child care that are substantiated (%),24.8%,23.5%,21.8%,27.6%,15.1%,*,*,Down,Down
+ACS,3a,TRUE,Total admissions to detention,"4,416","3,419","3,126","2,755","2,528",*,*,Neutral,Down
+ACS,3a,TRUE,"Average daily population (ADP), detention",326.5,266.0,234.1,169.9,156.6,*,*,Neutral,Down
+ACS,3a,FALSE,Secure detention - ADP,188.4,150.1,130.2,94.7,91.7,*,*,Neutral,Down
+ACS,3a,FALSE,Non-secure detention - ADP,138.1,115.9,103.5,74.4,64.9,*,*,Neutral,Down
+ACS,3a,TRUE,"Average length of stay, detention (days)",27,29,29,23,21,*,*,Neutral,Down
+ACS,3a,TRUE,"Weapon recovery rate (average per 100 total ADP), detention",0.10,0.02,0.04,0.08,0.07,*,*,Neutral,Neutral
+ACS,3a,TRUE,"Illegal substance/prescription or OTC medication recovery rate (average per 100 total ADP), detention",0.08,0.04,0.07,0.09,0.07,*,*,Neutral,Up
+ACS,3a,FALSE,"Child abuse/neglect allegations cases (internal) reported as substantiated, detention",5.0,17.0,22.0,27.0,17.0,*,*,Down,Up
+ACS,3a,TRUE,"Average daily cost per youth per day, detention ($)",$634,$729,$773,"$1,065","$1,431",*,*,Neutral,Up
+ACS,3a,FALSE,Admissions to Close to Home placement,NA,NA,348,258,238,*,*,Neutral,NA
+ACS,3a,TRUE,Number in Close to Home placement,NA,NA,195,176,151,*,*,Neutral,NA
+ACS,3a,FALSE,Discharges from Close to Home placement (dispositional order complete),NA,NA,222.0,260.0,227.0,*,*,Neutral,NA
+ACS,3b,TRUE,"In-care youth who were referred for mental health services, detention (%)",43%,51%,48%,61%,62%,*,*,Neutral,Up
+ACS,3b,TRUE,In-Care Youth who received mental health services (%),55%,58%,57%,50%,50%,*,*,Neutral,Down
+ACS,3b,TRUE,"General health care cost per youth per day, detention ($)",$52,$60,$62,$80,$121,*,*,Neutral,Up
+ACS,3c,TRUE,Youth admitted to detention with previous admission(s) to detention (%),59.5%,60.5%,60.9%,63.3%,56.1%,*,*,Neutral,Neutral
+ACS,3c,FALSE,Number of releases from Close to Home placement to aftercare,NA,NA,274,283,201,*,*,Neutral,NA
+ACS,3c,TRUE,Number in Close to Home aftercare (average),NA,NA,93,122,121,*,*,Neutral,NA
+ACS,4a,FALSE,Collisions involving City vehicles,22,16,35,46,34,*,*,Down,Up
+ACS,4a,FALSE,Workplace injuries reported,NA,191,217,184,226,*,*,Down,NA
+ACS,5a,FALSE,Completed requests for interpretation,"65,025","66,577","63,351","79,347","87,775",*,*,Neutral,Up
+ACS,5a,FALSE,Letters responded to in 14 days (%),73.6%,92.3%,87.4%,85.4%,97.1%,*,*,Up,Up
+ACS,5a,FALSE,E-mails responded to in 14 days (%),92.9%,95.6%,92.6%,89.7%,97.8%,*,*,Up,Neutral
+BIC,1a,TRUE,Violations issued to private waste haulers,"1,601","1,145",888,"1,166",892,*,*,Neutral,Down
+BIC,1a,TRUE,Violations issued to legally operating private waste haulers,"1,330",897,733,827,709,*,*,Neutral,Down
+BIC,1a,TRUE,Violations issued to illegally operating private waste haulers,271,248,155,339,183,*,*,Neutral,Down
+BIC,1a,TRUE,Total waste hauling applications denied (%),3.6%,3.9%,3.9%,4.2%,4.4%,*,*,Neutral,Up
+BIC,1a,FALSE,Waste hauling complaints received,594,534,519,513,449,*,*,Neutral,Down
+BIC,1a,FALSE,Violations admitted to or upheld at the Office of Administrative Trials and Hearings (%),94.1%,92.3%,90.5%,91.5%,98.0%,*,*,Up,Neutral
+BIC,1b,FALSE,Waste hauling applications approved - New and Renewal,850,"1,106",770,737,994,*,*,Up,Neutral
+BIC,1b,FALSE,Waste hauling applications approved - New,194,209,128,166,187,*,*,Up,Down
+BIC,1b,FALSE,Waste hauling applications approved - Renewal,656,897,642,571,807,*,*,Up,Neutral
+BIC,2a,FALSE,Violations issued at public wholesale markets,323,134,79,45,97,*,*,Neutral,Down
+BIC,2a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),93.8%,88.5%,94.0%,99.4%,98.3%,*,*,Up,Neutral
+BIC,2a,TRUE,Public wholesale market applications denied (%),2.2%,3.0%,3.2%,2.5%,2.5%,*,*,Neutral,Neutral
+BIC,2b,FALSE,Average age of pending public wholesale market applications (days),243,246,256,324,215,*,*,Down,Neutral
+BIC,2b,FALSE,Public wholesale market applications approved,50,85,68,49,62,*,*,Up,Neutral
+BIC,3a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+BIC,3a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+BIC,3a,FALSE,Completed customer requests for interpretation,218,109,56,26,93,*,*,Neutral,Down
+BIC,3a,FALSE,Average wait time to speak with a customer service agent (minutes),2:51,3:02,2:07,3:42,3:02,*,*,Down,Up
+BIC,3a,FALSE,CORE facility rating,98,95,93,93,100,*,*,Up,Neutral
+BOE,1a,FALSE,Voter turnout - general election (000),NA,"2,467","1,102","1,042",236,*,*,Neutral,NA
+BOE,1a,FALSE,Voter Registration forms processed,"131,071","345,834","254,404","145,809","166,961",*,*,Neutral,Down
+BOE,1a,FALSE,Total registered voters (000),NA,"4,640","4,610","4,568","4,552",*,*,Up,NA
+BOE,1a,FALSE,Total active voters (000),NA,"4,225","4,276","4,160","4,108",*,*,Up,NA
+BOE,1a,FALSE,Eligible voters registered (%),NA,NA,NA,NA,NA,*,*,Up,NA
+BOE,1a,FALSE,Poll worker attendance on Election Day (%),NA,95.6%,87.5%,84.8%,89.1%,*,*,Up,NA
+BOE,1a,FALSE,Voter complaints regarding poll workers,NA,434,422,446,304,*,*,Down,NA
+BOE,1a,FALSE,Voter complaints regarding poll workers - service,NA,146,253,213,243,*,*,Down,NA
+BOE,1a,FALSE,Voter complaints regarding poll workers - procedure,NA,288,169,233,61,*,*,Down,NA
+BOE,1a,FALSE,Voting equipment replacement rate - ballot scanners (%),NA,3.2%,0.4%,0.4%,0.3%,*,*,Down,NA
+BOE,1a,FALSE,Voting equipment replacement rate - ballot marking devices (%),NA,5.6%,0.9%,2.3%,0.5%,*,*,Down,NA
+BOE,1a,FALSE,Election results reporting timeliness (hours),NA,NA,NA,NA,NA,*,*,Down,NA
+BOE,1a,FALSE,Precision of unofficial election results (%),NA,1.0%,1.8%,2.1%,1.8%,*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day,NA,"1,917","1,908","2,051","1,874",*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day - Bronx,NA,156,138,148,155,*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day - Brooklyn,NA,511,530,539,500,*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day - Queens,NA,836,832,924,830,*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day - Manhattan,NA,374,366,394,351,*,*,Neutral,NA
+BOE,1a,FALSE,Interpreters deployed on election day - Staten Island,NA,40,42,46,38,*,*,Neutral,NA
+BPL,1a,FALSE,Active library cards (000),684,681,761,696,630,*,*,Neutral,Neutral
+BPL,1a,FALSE,New library card registrations,"137,670","167,467","205,089","192,156","126,082",*,*,Neutral,Neutral
+CCHR,1a,FALSE,Cases successfully mediated,11,5,21,0,0,*,*,Up,Down
+CCHR,1a,FALSE,Pre-complaint resolutions,190,163,189,165,200,*,*,Up,Neutral
+CCHR,1a,TRUE,Cases filed,335,522,497,697,908,*,*,Neutral,Up
+CCHR,1a,TRUE,Cases closed,440,480,602,608,336,*,*,Neutral,Neutral
+CCHR,1a,FALSE,- Cases closed (%) - no probable cause determination,45%,43%,45%,43%,5%,*,*,Neutral,Down
+CCHR,1a,TRUE,- Cases closed (%) - probable cause determination,5%,12%,8%,15%,6%,*,*,Neutral,Up
+CCHR,1a,FALSE,- Cases closed (%) - administrative cause,24%,25%,21%,20%,62%,*,*,Neutral,Up
+CCHR,1a,FALSE,Cases referred to the Office of Administrative Trials and Hearings,23,59,47,89,21,*,*,Neutral,Up
+CCHR,1a,TRUE,Average value of cash settlement for complainant ($),"$15,173","$14,273","$15,250","$10,755","$34,775",*,*,Neutral,Up
+CCHR,1a,FALSE,Modifications for accessibility for disabled,193,156,185,155,191,*,*,Neutral,Neutral
+CCHR,3a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,98%,*,*,Up,Neutral
+CCHR,3a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+CCHR,3a,FALSE,Completed customer requests for interpretation,"1,425","1,515","1,097","1,126","1,671",*,*,Neutral,Neutral
+CCHR,3a,FALSE,Average wait time to speak with a customer service agent (minutes),10,10,10,10,11,*,*,Down,Neutral
+CCHR,3a,FALSE,CORE customer experience rating (0-100),85,94,97,98,100,*,*,Up,Up
+CCRB,1a,FALSE,Total civilian complaints against uniformed members of the New York City Police Department,"5,724","5,455","5,573","4,165","4,711",*,*,Neutral,Down
+CCRB,1a,FALSE,Average age of open docket (days),NA,147,135,106,62,*,*,Down,NA
+CCRB,1a,FALSE,Cases closed,"5,637","5,506","5,810","5,347","4,970",*,*,Neutral,Down
+CCRB,1a,TRUE,Officers disciplined (excluding pending and filed cases) (%),83%,62%,60%,87%,82%,*,*,Neutral,Up
+CCRB,1b,FALSE,Cases with mutual agreement to mediate,315,244,446,394,444,*,*,Up,Up
+CCRB,1b,FALSE,Officers who accepted mediation (%),NA,79%,83%,84%,87%,*,*,Up,NA
+CCRB,1b,FALSE,Civilians who accepted mediation (%),NA,57%,51%,48%,45%,*,*,Up,NA
+CCRB,1b,FALSE,Cases successfully mediated,112,61,179,183,222,*,*,Up,Up
+CCRB,2a,FALSE,Completed requests for interpretation,843,525,613,591,695,*,*,Neutral,Down
+CCRB,2a,FALSE,Letters responded to in 14 days (%),76%,70%,73%,84%,88%,*,*,Up,Up
+CCRB,2a,FALSE,E-mails responded to in 14 days (%),93%,79%,94%,98%,100%,*,*,Up,Up
+CCRB,2a,FALSE,CORE facility rating,69,81,100,98,100,*,*,Up,Up
+CUNY,1a,FALSE,Instructional full-time equivalents (FTEs) taught by full-time faculty (%) - Senior Colleges,44.6%,42.3%,41.8%,43.9%,43.4%,*,*,Up,Neutral
+CUNY,1a,FALSE,Instructional full-time equivalents (FTEs) taught by full-time faculty (%) - Community Colleges,49.5%,44.8%,50.8%,53.4%,53.6%,*,*,Up,Up
+CUNY,1a,FALSE,Student/faculty ratio - Overall,17:1,17:1,17:0,17:0,17:0,*,*,Down,Neutral
+CUNY,1a,FALSE,Number of full-time faculty employed by CUNY community colleges,"1,824","1,891","2,011","2,092","2,165",*,*,Up,Up
+CUNY,1a,FALSE,Students earning Grade C or better in Freshman Composition Courses (%),84.8%,84.7%,84.9%,83.8%,84.1%,*,*,Up,Neutral
+CUNY,1a,FALSE,Students earning Grade C or better in Math Gateway Courses (%),67.1%,67.2%,68.9%,68.6%,68.4%,*,*,Up,Neutral
+CUNY,1a,FALSE,Students passing the National Council Licensure Examination for Registered Nurse (%),81.6%,86.9%,74.8%,76.4%,80.1%,*,*,Up,Neutral
+CUNY,1a,FALSE,CUNY associate degree recipients who continue their education or are working (%),91.9%,92.4%,92.5%,95.3%,92.4%,*,*,Up,Neutral
+CUNY,1a,FALSE,High school students participating in college preparation program (College Now),"28,530","28,415","30,025","30,606","31,105",*,*,Neutral,Up
+CUNY,1a,FALSE,Total headcount enrollment,"272,178","269,114","269,897","275,132","274,357",*,*,Neutral,Neutral
+CUNY,1a,FALSE,Total full-time equivalent enrollment (FTEs),"202,452","200,036","199,958","203,996","204,418",*,*,Neutral,Neutral
+CUNY,1a,FALSE,Total headcount enrollment at CUNY community colleges,"97,712","96,500","97,751","99,958","99,045",*,*,Neutral,Neutral
+CUNY,1a,FALSE,Enrollment of first-time freshmen in CUNY community colleges,"19,362","18,434","17,742","19,322","19,022",*,*,Neutral,Neutral
+CUNY,1a,FALSE,Enrollment of first-time freshmen in CUNY community colleges who are recent graduates of NYC public high schools,"13,627","13,476","12,758","13,790","13,769",*,*,Neutral,Neutral
+CUNY,1a,FALSE,Annual tuition at CUNY community colleges (full-time NYS resident),"$3,900","$4,200","$4,500","$4,800","$4,800",*,*,Neutral,Up
+CUNY,1a,FALSE,Annual tuition at CUNY senior colleges (full-time NYS resident),"$5,430","$5,730","$6,030","$6,330","$6,330",*,*,Neutral,Up
+CUNY,1a,FALSE,Expenditures per student (full-time equivalent) at CUNY community colleges,"$10,201","$11,193","$11,818","$12,058","$12,443",*,*,Neutral,Up
+CUNY,1a,FALSE,Percentage of CUNY community college students receiving federal financial aid (Pell) (%),62.2%,55.7%,63.1%,64.0%,61.9%,*,*,Neutral,Neutral
+DCA,1a,FALSE,Total docketed complaints,"4,610","3,907","3,853","3,702","3,650",*,*,Neutral,Down
+DCA,1a,FALSE,Resolved consumer complaints,"4,622","3,800","3,873","3,495","3,691",*,*,Neutral,Down
+DCA,1b,FALSE,Total inspections,"76,848","74,029","73,035","65,506","76,996",*,*,Up,Neutral
+DCA,1b,FALSE,Total violations issued,"24,835","23,326","19,888","11,923","14,291",*,*,Neutral,Down
+DCA,1c,FALSE,Total settlements ($000),"$8,707","$9,270","$9,395","$7,542","$8,324",*,*,Neutral,Down
+DCA,2a,FALSE,License applications received online (%),23%,27%,19%,20%,18%,*,*,Up,Down
+DCA,2b,FALSE,Businesses educated through direct outreach,NA,"11,217","34,865","22,659","17,072",*,*,Up,NA
+DCA,3a,FALSE,Financial Empowerment Center clients  - Percent achieving measurable success (%),NA,NA,NA,34.0%,40.0%,*,*,Up,NA
+DCA,3a,FALSE,- Total debt reduced ($000) (cumulative),"$7,049","$14,497","$23,893","$33,088","$43,125",*,*,Up,Up
+DCA,3a,FALSE,- Total savings accumulated ($) (cumulative),"$870,297","$1,995,846","$2,987,936","$3,596,836","$4,094,324",*,*,Up,Up
+DCA,3a,FALSE,Tax returns filed through citywide Tax Credit Campaign,NA,NA,"96,611","153,365","162,583",*,*,Up,NA
+DCA,4a,FALSE,Paid Sick Leave (PSL) complaints received,NA,NA,NA,583,335,*,*,Neutral,NA
+DCA,4a,FALSE,PSL complaints closed,NA,NA,NA,369,403,*,*,Neutral,NA
+DCA,4a,FALSE,Employees receiving restitution,NA,NA,NA,97,"13,675",*,*,Neutral,NA
+DCA,4a,FALSE,Total amount of employee restitution ($),NA,NA,NA,"$54,961","$2,123,391",*,*,Neutral,NA
+DCA,4a,FALSE,Total amount of PSL fines ($),NA,NA,NA,"$50,050","$1,201,468",*,*,Neutral,NA
+DCA,5a,FALSE,Completed customer requests for interpretation,"2,022","1,611","2,536","3,377","3,861",*,*,Neutral,Up
+DCAS,1a,FALSE,Applications received for open competitive civil service exams,"112,906","75,825","74,700","184,849","79,878",*,*,Neutral,Up
+DCAS,1a,FALSE,Employment applications received via NYC Jobs,"44,723","299,351","679,785","925,054","952,641",*,*,Up,Up
+DCAS,1b,TRUE,New hires - White (%),26.2%,26.0%,23.2%,23.9%,23.0%,*,*,Neutral,Down
+DCAS,1b,TRUE,New hires - Black (%),38.9%,38.5%,38.8%,40.8%,36.8%,*,*,Neutral,Neutral
+DCAS,1b,TRUE,New hires - Hispanic (%),19.6%,19.2%,19.4%,19.8%,19.5%,*,*,Neutral,Neutral
+DCAS,1b,TRUE,New hires - Asian/Pacific Islander (%),6.2%,6.2%,6.7%,7.0%,7.5%,*,*,Neutral,Up
+DCAS,1b,TRUE,New hires - Native American (%),0.3%,0.4%,0.4%,0.4%,0.4%,*,*,Neutral,Up
+DCAS,1b,FALSE,New hires - Unspecified (%),8.8%,9.7%,11.6%,7.9%,12.9%,*,*,Neutral,Up
+DCAS,1b,TRUE,New hires - Male (%),50.9%,55.5%,57.1%,53.6%,59.3%,*,*,Neutral,Up
+DCAS,1b,TRUE,New hires - Female (%),49.1%,44.5%,42.8%,46.4%,40.7%,*,*,Neutral,Down
+DCAS,1c,TRUE,Median time from exam administration to exam results completion (days),NA,NA,251,209,343,*,*,Neutral,NA
+DCAS,2c,FALSE,Lease-in agreements executed,32,32,56,53,66,*,*,Neutral,Up
+DCAS,2c,FALSE,Square footage associated with executed lease-in agreements (000),"1,888",969,"1,957","1,712","3,011",*,*,Neutral,Up
+DCAS,2c,FALSE,Vacant desks (%),15%,15%,13%,14%,14%,*,*,Down,Neutral
+DCAS,3a,FALSE,Real estate auction bids received ($000),"$5,600",NA,"$17,500",NA,"$12,990",*,*,Neutral,NA
+DCAS,4a,FALSE,Mayoral agency spending against DCAS master contracts (%),NA,NA,NA,41%,55%,*,*,Neutral,NA
+DCAS,4b,FALSE,"Value of goods and services purchased ($000,000)",$886,"$1,118","$1,191","$1,169","$1,353",*,*,Neutral,Up
+DCAS,4b,FALSE,- Value of Central Storehouse requisitions ($000),"$25,200","$24,300","$24,000","$23,370","$22,600",*,*,Neutral,Neutral
+DCAS,5a,FALSE,Electricity purchased (kilowatt hours) (billions),4.2,4.2,4.3,4.3,4.2,*,*,Down,Neutral
+DCAS,5a,FALSE,Total energy purchased (British Thermal Units) (trillions),26.2,27.5,28.9,29.5,28.4,*,*,Down,Neutral
+DCAS,5a,FALSE,- Electricity (%),55.2%,52.1%,50.4%,49.3%,51.0%,*,*,Neutral,Neutral
+DCAS,5a,FALSE,- Natural gas (%),37.5%,40.5%,41.5%,42.4%,42.0%,*,*,Neutral,Up
+DCAS,5a,FALSE,- Steam (%),7.3%,7.4%,8.1%,8.3%,7.0%,*,*,Neutral,Neutral
+DCAS,5b,TRUE,Annual estimated reduction in greenhouse gas emissions from all energy projects (metric tons),"6,156","5,690","7,893","40,984","14,459",*,*,Neutral,Up
+DCAS,5b,TRUE,"Annual estimated avoided energy cost from all energy projects ($000,000)",$2.15,$2.12,$2.79,$12.46,$6.56,*,*,Neutral,Up
+DCAS,5b,FALSE,Annual energy retrofit/conservation projects completed,48,29,37,109,158,*,*,Neutral,Up
+DCAS,5b,FALSE,Cumulative energy retrofit/conservation projects completed,48,77,114,223,381,*,*,Up,Up
+DCAS,5b,FALSE,Annual Energy Efficiency Reports (EER) completed,101,87,70,145,141,*,*,Neutral,Up
+DCAS,5b,FALSE,Cumulative Energy Efficiency Reports (EER) completed,101,188,258,403,544,*,*,Up,Up
+DCAS,7a,FALSE,Collisions involving City vehicles citywide,NA,NA,"5,886","5,726","6,344",*,*,Down,NA
+DCAS,7a,FALSE,- Collisions involving City vehicles in the DCAS-managed fleet,NA,NA,402,449,400,*,*,Down,NA
+DCAS,7a,FALSE,Workplace injuries reported,60,64,60,65,46,*,*,Down,Down
+DCAS,7a,FALSE,Accidents involving the public in DCAS-managed properties,35,17,18,18,21,*,*,Down,Down
+DCAS,7a,FALSE,Average cost of training per employee ($),$253,$225,$215,$163,$112,*,*,Neutral,Down
+DCAS,7a,FALSE,Average cost of cleaning per square foot ($),$2.8,$2.8,$2.9,$2.9,$3.0,*,*,Neutral,Neutral
+DCAS,8a,FALSE,Letters responded to in 14 days (%),47%,77%,54%,50%,66%,*,*,Up,Neutral
+DCAS,8a,FALSE,E-mails responded to in 14 days (%),79%,89%,80%,74%,81%,*,*,Up,Neutral
+DCAS,8a,FALSE,Average wait time to speak with a customer service agent (minutes),1:25,1:15,1:09,1:00,1:39,*,*,Down,Neutral
+DCLA,1a,FALSE,"Total financial support provided to qualifying organizations ($000,000)",$140.3,$139.3,$144.3,$152.6,$152.7,*,*,Neutral,Up
+DCLA,1b,FALSE,Capital projects authorized to proceed,69,69,45,41,48,*,*,Neutral,Down
+DCLA,1c,FALSE,"Schools, non-profits and City/State agencies served by Materials for the Arts (MFTA)","1,901","1,884","2,025","2,105","2,117",*,*,Up,Up
+DCLA,2a,FALSE,Total visitors to the Cultural Institutions Group (000),"20,188","20,264","20,957","21,609","23,236",*,*,Up,Up
+DCLA,2a,FALSE,- Visitors using free admission and/or tickets (%),21%,22%,26%,26%,31%,*,*,Up,Up
+DCP,1a,FALSE,Economic development and housing proposals completed and presented to the public,11,16,10,29,42,*,*,Up,Up
+DCP,1a,FALSE,Neighborhood enhancement proposals completed and presented to the public,4,13,8,30,14,*,*,Up,Up
+DCP,2a,FALSE,Planning information and policy analysis initiatives presented to the public,NA,NA,87,85,145,*,*,Up,NA
+DCP,3a,FALSE,Zoning actions (simple) certified/referred,NA,NA,41,60,31,*,*,Neutral,NA
+DCP,3a,FALSE,Zoning actions (complex) certified/referred,NA,NA,38,40,55,*,*,Neutral,NA
+DCP,3a,FALSE,City projects (non-zoning) certified/referred,NA,NA,62,47,50,*,*,Neutral,NA
+DCP,3a,FALSE,Renewals and natural area approvals certified/referred,NA,NA,133,117,94,*,*,Neutral,NA
+DCP,4a,FALSE,Completed customer requests for interpretation,1,4,1,2,6,*,*,Neutral,Up
+DDC,1a,FALSE,Projects completed within budget (%),92%,94%,89%,89%,82%,*,*,Up,Down
+DDC,1c,FALSE,Eligible projects with completed post-construction surveys (%),67%,42%,47%,28%,56%,*,*,Up,Down
+DDC,1c,FALSE,Post-construction satisfaction - Surveys returned,52,47,46,27,54,*,*,Up,Down
+DEP,1a,FALSE,Samples testing positive for coliform bacteria (%),0.4%,0.3%,0.3%,0.3%,0.5%,*,*,Down,Up
+DEP,1a,FALSE,Acres of land solicited in watershed area,"69,789","62,481","44,316","32,865","47,800",*,*,Neutral,Down
+DEP,1b,FALSE,Water supply - Critical equipment out of service (%),1.6%,1.2%,1.4%,1.3%,1.0%,*,*,Down,Down
+DEP,1b,FALSE,Overall enforcement activity,"1,777",983,"1,207","1,206","1,658",*,*,Neutral,Neutral
+DEP,2a,FALSE,Sewer backup complaints received,"13,933","14,911","11,637","11,435","10,469",*,*,Neutral,Down
+DEP,2a,FALSE,Sewer backup complaints resolved - Confirmed (on City infrastructure),"4,567","4,221","3,224","2,846","2,503",*,*,Down,Down
+DEP,2a,FALSE,- Unconfirmed (not on City infrastructure or unfounded),"8,982","10,685","8,417","8,589","7,960",*,*,Neutral,Down
+DEP,2a,FALSE,Street segments with confirmed sewer backup in the last 12 months (% of total segments),1.9%,1.7%,1.4%,1.2%,1.1%,*,*,Down,Down
+DEP,2a,FALSE,Street cave-in complaints received,"3,467","2,926","3,737","4,073","4,175",*,*,Down,Up
+DEP,2a,FALSE,Average time to respond to street cave-in complaints and make safe (days),3.2,2.5,2.5,2.5,4.6,*,*,Down,Up
+DEP,2a,FALSE,Water main breaks,370,406,513,563,395,*,*,Down,Up
+DEP,2a,FALSE,Water main breaks per 100 miles of main in the last 12 months,5.3,5.8,7.3,8.0,5.6,*,*,Down,Up
+DEP,2a,FALSE,Catch basin complaints received,"12,357","10,548","8,576","8,851","8,026",*,*,Down,Down
+DEP,2a,FALSE,Catch basins cleaned,"24,828","31,097","29,730","31,086","30,534",*,*,Neutral,Up
+DEP,2a,FALSE,Leak complaints received,"3,751","4,077","3,718","2,640","2,620",*,*,Neutral,Down
+DEP,4b,FALSE,"Accounts receivable - Total balance ($000,000)","$1,487","$1,561","$1,750","$1,640","$1,666",*,*,Down,Up
+DEP,4b,FALSE,Billed amount collected in 30 days (%),54.6%,55.4%,56.7%,61.8%,63.1%,*,*,Up,Up
+DEP,5a,FALSE,Air complaints received,"7,931","7,628","7,896","8,776","9,858",*,*,Neutral,Up
+DEP,5a,FALSE,Noise complaints received,"35,363","36,130","45,584","53,862","61,784",*,*,Neutral,Up
+DEP,5a,FALSE,Asbestos complaints received,"1,461","1,486","1,414","1,674","1,855",*,*,Neutral,Up
+DEP,6a,FALSE,Total violations issued,"13,332","13,262","14,077","15,284","14,753",*,*,Neutral,Up
+DEP,6a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),87.8%,88.2%,89.7%,90.9%,93.8%,*,*,Up,Neutral
+DEP,6a,FALSE,Collisions involving City vehicles,NA,296,301,337,380,*,*,Down,NA
+DEP,6a,FALSE,Workplace injuries reported,NA,515,493,478,352,*,*,Down,NA
+DEP,7a,FALSE,Completed customer requests for interpretation,"7,497","11,023","13,870","12,976","13,685",*,*,Neutral,Up
+DHS,6a,FALSE,Average wait time to speak with a customer service agent (minutes),22,NA,24,15,10,*,*,Down,NA
+DFTA,1a,TRUE,Total meals served (000),"11,276","11,521","11,597","11,671","12,102",*,*,Neutral,Neutral
+DFTA,2a,TRUE,Persons who received information and/or supportive services through DFTA's in-house and contracted Caregiver programs,NA,NA,"9,296","11,033","11,342",*,*,Neutral,NA
+DFTA,2b,FALSE,Total recipients of case management services,"16,899","17,499","28,233","28,898","32,773",*,*,Neutral,Up
+DFTA,3a,FALSE,Completed requests for interpretation,547,485,523,428,892,*,*,Neutral,Up
+DFTA,3a,FALSE,Letters responded to in 14 days (%),72.9%,52.8%,59.4%,77.2%,86.5%,*,*,Up,Up
+DFTA,3a,FALSE,E-mails responded to in 14 days (%),89.6%,83.7%,96.5%,75.7%,81.4%,*,*,Up,Down
+DFTA,3a,FALSE,CORE facility rating,91,95,100,100,96,*,*,Up,Neutral
+DFTA,3b,FALSE,SLA - Housing Options-% of SRs Meeting Time to Action,96%,95%,99%,94%,90%,*,*,Neutral,Neutral
+DFTA,3b,FALSE,SLA - Home Delivered Meals for Seniors - Missed Delivery - % of SRs Meeting Time to Action,100%,99%,100%,100%,100%,*,*,Neutral,Neutral
+DFTA,3b,FALSE,SLA - Elder Abuse-% of SRs Meeting Time to Action,82%,75%,72%,76%,67%,*,*,Neutral,Down
+DFTA,3b,FALSE,SLA - Alzheimers Care Information-% of SRs Meeting Time to Action,89%,86%,87%,95%,85%,*,*,Neutral,Neutral
+DFTA,3b,FALSE,SLA - Senior Center Complaint-% of SRs Meeting Time to Action,69%,40%,96%,97%,99%,*,*,Neutral,Up
+DHS,2a,FALSE,Families with children receiving public assistance (average) (%),NA,87.7%,81.8%,85.4%,81.6%,*,*,Neutral,NA
+DHS,2a,FALSE,Average school attendance rate for children in the DHS shelter services system (%),82.7%,83.6%,85.4%,83.9%,82.0%,*,*,Up,Neutral
+DHS,6a,FALSE,CORE facility rating,81,91,89,95,100,*,*,Up,Up
+DHS,2b,FALSE,"Violent critical incidents in the adult shelter system, per 1,000 residents",NA,NA,NA,NA,1.3,*,*,Down,NA
+DHS,2b,FALSE,"Violent critical incidents in the adult family shelter system, per 1,000 residents",NA,NA,NA,NA,2.5,*,*,Down,NA
+DHS,2b,FALSE,"Violent critical incidents in the families with children shelter system, per 1,000 residents",NA,NA,NA,NA,0.9,*,*,Neutral,NA
+DHS,2b,FALSE,Cost per day for shelter facilities - Single adult facilities ($) (annual),$77.58,$74.80,$78.38,$78.80,$94.57,*,*,Neutral,Up
+DHS,2b,FALSE,- Family facilities ($) (annual),$100.82,$102.74,$101.50,$105.37,$120.22,*,*,Neutral,Up
+DHS,2b,FALSE,"Evaluations for human services contracts completed on time, as compared to the goal (%)",97.8%,97.2%,98.9%,99.4%,97.5%,*,*,Up,Neutral
+DHS,3a,FALSE,"Exits from the adult family shelter system, as compared to monthly goal (%)",70%,104%,78%,75%,82%,*,*,Up,Neutral
+DHS,3a,FALSE,"Exits from the families with children shelter system, as compared to monthly goal (%)",99%,103%,90%,107%,107%,*,*,Up,Neutral
+DHS,4a,FALSE,Number of chronically homeless individuals placed into permanent and temporary housing by outreach teams,545,720,562,"1,101",878,*,*,Up,Up
+DHS,4a,FALSE,Response rate to 311 calls for homeless person assistance from constituents requesting a call back,100.0%,100.0%,100.0%,100.0%,100.0%,*,*,Up,Neutral
+DHS,5a,FALSE,Collisions involving City vehicles,NA,48,27,58,60,*,*,Down,NA
+DHS,5a,FALSE,Workplace injuries reported,NA,119,112,39,48,*,*,Down,NA
+DHS,6a,FALSE,Completed requests for interpretation,"3,230","4,087","4,195","5,787","6,054",*,*,Neutral,Up
+DHS,6a,FALSE,Letters responded to in 14 days (%),70.0%,67.4%,83.5%,70.4%,64.8%,*,*,Up,Neutral
+DHS,6a,FALSE,E-mails responded to in 14 days (%),88%,66.7%,80.5%,68.6%,61.37%,*,*,Up,Down
+DOB,1a,FALSE,Jobs filed,"68,911","72,288","82,551","91,933","93,130",*,*,Neutral,Up
+DOB,1a,FALSE,Building permits issued -  Initial,"87,190","88,290","98,302","104,087","109,277",*,*,Neutral,Up
+DOB,1a,FALSE,Building permits issued - Renewals,"39,321","41,230","44,538","44,774","52,244",*,*,Neutral,Up
+DOB,1a,FALSE,Certificates of Occupancy issued,"6,642","5,949","5,694","5,289","5,893",*,*,Neutral,Down
+DOB,1b,FALSE,First plan reviews completed,"63,130","69,380","76,669","84,449","88,542",*,*,Neutral,Up
+DOB,1b,FALSE,Average days to complete first plan review (Hub projects) - New buildings,11.5,11.6,12.7,17.9,9.9,*,*,Down,Up
+DOB,1b,FALSE,Average days to complete first plan review (Hub projects) -  Major renovation (Alteration I),9.5,11.9,11.9,16.2,9.0,*,*,Down,Up
+DOB,1b,FALSE,Average days to complete first plan review (Hub projects) - Minor renovation (Alterations II and III),NA,1.4,1.1,2.6,2.7,*,*,Down,NA
+DOB,1b,FALSE,Jobs professionally certified (%),50.3%,55.2%,57.8%,58.8%,61.9%,*,*,Up,Up
+DOB,1b,FALSE,- Audits that resulted in revocation notices (%),9.8%,10.4%,13.1%,14.6%,7.7%,*,*,Down,Neutral
+DOB,2a,FALSE,Priority A (emergency) complaints received,"14,662","14,511","14,654","15,827","17,629",*,*,Neutral,Up
+DOB,2a,FALSE,Priority B (nonemergency) complaints received,"64,402","58,983","70,089","63,160","70,661",*,*,Neutral,Up
+DOB,2a,FALSE,Priority A complaints responded to,"14,540","14,542","14,468","15,420","16,927",*,*,Neutral,Up
+DOB,2a,FALSE,Priority B complaints responded to,"59,236","51,990","63,215","54,688","60,716",*,*,Neutral,Neutral
+DOB,2a,FALSE,- Access obtained and violations were written (%),53.5%,50.2%,44.7%,37.4%,40.4%,*,*,Neutral,Down
+DOB,2a,FALSE,Work without a permit complaints where access was obtained and violations were written (%),61.0%,43.9%,32.7%,33.3%,29.5%,*,*,Neutral,Down
+DOB,2b,FALSE,Construction inspections resulting in violations (%),20.7%,21.3%,19.1%,18.6%,24.9%,*,*,Neutral,Up
+DOB,2b,FALSE,DOB violations issued,"82,606","65,189","82,753","65,215","61,393",*,*,Neutral,Down
+DOB,2b,FALSE,Environmental Control Board violations issued,"53,293","43,320","47,768","52,315","55,121",*,*,Neutral,Up
+DOB,2c,FALSE,Construction-related incidents,405,403,459,736,979,*,*,Down,Up
+DOB,2c,FALSE,- Construction-related accidents,157,173,207,314,500,*,*,Down,Up
+DOB,2c,FALSE,Incident inspections resulting in violations (%),77.1%,79.6%,75.2%,70.4%,63.1%,*,*,Neutral,Down
+DOB,3a,FALSE,Collisions involving City vehicles,36,22,33,41,44,*,*,Down,Up
+DOB,3a,FALSE,Workplace injuries reported,16,17,15,12,10,*,*,Down,Down
+DOB,4a,FALSE,Calls answered in 30 seconds (%),91%,NA,NA,NA,NA,*,*,Up,NA
+DOB,4a,FALSE,Average customer in-person wait time (minutes),20,NA,NA,NA,NA,*,*,Down,NA
+DOB,4a,FALSE,Completed customer requests for interpretation,61,36,17,66,68,*,*,Neutral,Up
+DOC,1a,FALSE,Admissions,"84,754","81,758","77,141","67,672","63,758",*,*,Neutral,Down
+DOC,1a,FALSE,Average daily population,"12,287","11,827","11,408","10,240","9,790",*,*,Down,Down
+DOC,1a,FALSE,Average daily population - adolescent inmates,NA,681,489,216,187,*,*,Down,NA
+DOC,1a,FALSE,Inmates in Security Risk Group (% ADP),NA,9.9%,8.2%,11.8%,13.3%,*,*,Down,NA
+DOC,1a,FALSE,Fight/assault infractions,"7,552","7,622","8,827","9,424","11,240",*,*,Down,Up
+DOC,1a,FALSE,Jail-based arrests of inmates,650,798,995,795,"1,538",*,*,Down,Up
+DOC,1a,FALSE,Searches,"225,501","247,868","251,343","255,776","237,757",*,*,Neutral,Neutral
+DOC,1a,FALSE,Weapons recovered,"2,324","2,162","2,348","2,240","3,396",*,*,Neutral,Up
+DOC,1b,FALSE,Incidents of use of force - total,NA,"2,977","3,779","4,409","4,756",*,*,Down,NA
+DOC,1b,FALSE,Incidents of use of force - adolescent inmates,NA,715,624,378,594,*,*,Down,NA
+DOC,1b,FALSE,"Department use of force incidents with minor injury (rate per 1,000 ADP)",8.15,10.95,13.23,15.59,15.40,*,*,Down,Up
+DOC,1b,FALSE,"Department use of force incidents with no injury (rate per 1,000 ADP)",7.20,9.11,13.19,19.14,24.42,*,*,Down,Up
+DOC,1b,FALSE,Incidents and allegations of use of force,"2,837","3,413","4,221","4,822","5,269",*,*,Down,Up
+DOC,1c,FALSE,Inmates with a mental health diagnosis (% ADP),34.0%,37.0%,38.0%,41.0%,42.0%,*,*,Neutral,Up
+DOC,1c,FALSE,Inmates with a serious mental health diagnosis (% ADP),NA,9.5%,10.2%,11.1%,11.0%,*,*,Neutral,NA
+DOC,1c,FALSE,Inmate health clinic visits,"83,914","75,664","77,825","81,873","78,499",*,*,Neutral,Neutral
+DOC,2a,FALSE,I-CAN Referrals,NA,"1,420","4,117","3,588","6,194",*,*,Neutral,NA
+DOC,2a,TRUE,I-CAN Enrollments,NA,634,"2,408","2,321","4,278",*,*,Neutral,NA
+DOC,2a,FALSE,I-CAN Workshops,NA,333,"1,580","2,065","6,505",*,*,Neutral,NA
+DOC,2b,FALSE,Average daily number of inmates in vocational skills training programs,148,204,216,256,226,*,*,Up,Up
+DOC,2b,FALSE,Average daily attendance in school programs,713,693,526,330,256,*,*,Neutral,Down
+DOC,3a,FALSE,Victim Identification Notification Everyday (VINE) system registrations,"16,111","14,929","15,291","15,159","15,440",*,*,Up,Neutral
+DOC,3a,FALSE,VINE confirmed notifications,"16,925","17,396","18,445","19,330","21,993",*,*,Up,Up
+DOC,4a,FALSE,Collisions involving City vehicles,69,60,104,103,107,*,*,Down,Up
+DOC,4a,FALSE,Workplace injuries reported,NA,"2,545","3,599","2,417","2,222",*,*,Down,NA
+DOC,4a,FALSE,Accidents involving inmates,38,43,38,44,43,*,*,Down,Up
+DOC,5a,FALSE,Letters responded to in 14 days (%),91.4%,82.7%,99.6%,99.4%,99.3%,*,*,Up,Up
+DOC,5a,FALSE,E-mails responded to in 14 days (%),100.0%,99.9%,100.0%,100.0%,100.0%,*,*,Up,Neutral
+DOE,1a,FALSE,Student enrollment as of October 31 in grades pre-kindergarten to 12 (000),"1,041.5","1,094.9","1,104.5","1,122.8","1,134.0",*,*,Neutral,Neutral
+DOE,1a,FALSE,Student Enrollment as of October 31 in full day pre-kindergarten,"15,834","15,917","19,287","53,120","68,547",*,*,Neutral,Up
+DOE,1a,FALSE,Students in grades 3 to 8 scoring below standards progressing into a higher level - English language arts (%),46.2%,7.7%,28.0%,29.5%,38.3%,*,*,Up,Neutral
+DOE,1a,FALSE,- Math (%),52.1%,7.4%,27.9%,23.3%,24.0%,*,*,Up,Down
+DOE,1a,FALSE,Students in grades 3 to 8 progressing from below standards to meeting standards - English language arts (%),17.7%,2.9%,11.0%,12.2%,18.4%,*,*,Up,Up
+DOE,1a,FALSE,- Math (%),24.8%,1.7%,12.7%,9.7%,9.9%,*,*,Up,Down
+DOE,1a,FALSE,Students in cohort dropping out from high school in 6 years (%) (NYSED),17.1%,16.4%,NA,NA,NA,*,*,Down,NA
+DOE,2a,FALSE,Students enrolled as English Language Learners (000),159,160,154,150,151,*,*,Neutral,Neutral
+DOE,2b,FALSE,Students with disabilities in cohort dropping out from high school in 6 years (%) (NYSED),26.0%,25.6%,NA,NA,NA,*,*,Down,NA
+DOE,2b,FALSE,Students receiving special education services (preliminary unaudited),"221,661","225,325","260,791","270,722","283,017",*,*,Neutral,Up
+DOE,2b,FALSE,Special education enrollment - School-age,"194,073","199,302","230,928","239,619","251,755",*,*,Neutral,Up
+DOE,2b,FALSE,- Public school,"169,503","176,360","192,110","200,259","206,839",*,*,Neutral,Up
+DOE,2b,FALSE,- Non-public school,"24,570","22,942","38,818","39,360","44,916",*,*,Neutral,Up
+DOE,2b,FALSE,Special education enrollment - Pre-school,"27,588","26,023","29,863","31,103","31,262",*,*,Neutral,Up
+DOE,2b,FALSE,- Public school,703,648,"1,502","1,420","2,124",*,*,Neutral,Up
+DOE,2b,FALSE,- Non-public school,"26,885","25,375","28,361","29,683","29,138",*,*,Neutral,Up
+DOE,2b,FALSE,Students recommended for special education services,"15,653","15,259","27,651","28,995","29,179",*,*,Neutral,Up
+DOE,2b,FALSE,Students no longer in need of special education services,"6,689","7,119","5,464","5,726","5,864",*,*,Neutral,Down
+DOE,4a,FALSE,Schools that exceed capacity - Elementary schools (%),33.0%,32.0%,33.0%,65.0%,NA,*,*,Down,NA
+DOE,4a,FALSE,- Middle schools (%),12.0%,13.0%,13.0%,24.5%,NA,*,*,Down,NA
+DOE,4a,FALSE,- High schools (%),32.0%,33.0%,31.0%,48.7%,NA,*,*,Down,NA
+DOE,4a,FALSE,Students in schools that exceed capacity - Elementary/middle schools (%),28.0%,29.0%,31.0%,54.0%,NA,*,*,Down,NA
+DOE,4a,FALSE,- High schools (%),48.0%,48.0%,44.0%,48.7%,NA,*,*,Down,NA
+DOE,4a,FALSE,Hazardous building violations total backlog,103,123,119,109,94,*,*,Down,Down
+DOE,4a,TRUE,- Fair condition (%),48.9%,55.5%,55.6%,50.0%,NA,*,*,Neutral,NA
+DOE,4a,FALSE,- Poor condition (%),0.0%,0.0%,0.0%,0.0%,NA,*,*,Down,NA
+DOF,4a,FALSE,Cases closed,NA,NA,NA,NA,156,*,*,Neutral,NA
+DOE,5a,FALSE,Average lunches served daily,"642,957","625,231","614,698","619,718","599,920",*,*,Up,Neutral
+DOE,5a,FALSE,Average breakfasts served daily,"232,149","221,519","224,377","226,572","244,666",*,*,Up,Neutral
+DOE,5a,FALSE,Average expenditure per student ($),"$18,623","$19,878","$20,814",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,- Elementary school ($),"$18,589","$19,701","$20,398",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,- Middle school ($),"$18,087","$19,256","$20,107",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,- High school ($),"$16,327","$17,669","$18,658",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,- Full-time special education (District 75) ($),"$78,631","$79,964","$85,549",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,Average direct services to schools expenditure per student ($),"$16,728","$16,869","$17,615",NA,NA,*,*,Neutral,NA
+DOE,5a,FALSE,Teachers,"72,787","73,844","74,103","74,922","76,351",*,*,Neutral,Neutral
+DOE,5a,FALSE,Teachers with 5 or more years teaching experience (%),75.0%,75.8%,75.3%,71.2%,68.5%,*,*,Neutral,Neutral
+DOE,5a,FALSE,Principals with 4 or more years experience as principal (%),61.6%,61.0%,59.5%,60.0%,59.9%,*,*,Up,Neutral
+DOE,5a,FALSE,Teachers absent 11 or more days (%),13.8%,14.3%,15.9%,14.1%,13.6%,*,*,Down,Neutral
+DOE,5a,FALSE,Collisions involving City vehicles,NA,64,45,55,52,*,*,Down,NA
+DOE,5a,FALSE,Workplace injuries reported,"3,076","3,091","2,986","3,120","2,997",*,*,Down,Neutral
+DOE,5a,FALSE,Accidents in schools - students,"39,947","40,526","40,025","41,235","42,314",*,*,Down,Neutral
+DOE,5a,FALSE,Accidents in schools - public,493,513,631,669,730,*,*,Down,Up
+DOE,6a,FALSE,Completed requests for interpretation,"9,489","20,265","32,267","49,922","54,626",*,*,Neutral,Up
+DOE,6a,FALSE,Parents completing the NYC School Survey,"476,567","486,536","485,696","459,929","497,331",*,*,Neutral,Neutral
+DOF,1a,FALSE,- Paid on time (%),94.4%,94.8%,95.0%,95.3%,96.1%,*,*,Up,Neutral
+DOF,1a,FALSE,Average turnaround time for audits (days),684,632,677,479,504,*,*,Down,Down
+DOF,1a,FALSE,Increase in tax liability as a result of audits (%),10.5%,13.6%,16.0%,18.3%,25.8%,*,*,Up,Up
+DOF,1a,FALSE,Originally noticed properties sold in lien sale (%),19%,20%,21%,16%,14%,*,*,Down,Down
+DOF,2a,FALSE,Tickets paid before penalty assessed (%),NA,51.5%,53.1%,55.3%,55.2%,*,*,Up,NA
+DOF,2b,TRUE,Parking ticket hearings - Total,"1,235,067","901,026","1,104,940","1,041,841","978,447",*,*,Neutral,Down
+DOF,2b,FALSE,Parking ticket appeals reviewed,"26,478","36,094","41,405","55,036","58,939",*,*,Neutral,Up
+DOF,2b,FALSE,Parking ticket appeals granted a reversal (%),12.2%,9.9%,12.8%,14.0%,10.0%,*,*,Down,Neutral
+DOF,3a,FALSE,Senior Citizen Rent Increase Exemption (SCRIE) - Initial applications received,NA,"7,094","8,272","15,713","8,951",*,*,Neutral,NA
+DOF,3a,FALSE,SCRIE renewal applications received,NA,"22,670","21,239","23,321","27,760",*,*,Neutral,NA
+DOF,3a,FALSE,Disability Rent Increase Exemption (DRIE) - Initial applications received,NA,NA,NA,NA,"2,594",*,*,Neutral,NA
+DOF,3a,FALSE,DRIE renewal applications received,NA,NA,NA,NA,"5,816",*,*,Neutral,NA
+DOF,4a,FALSE,Inquiries received,NA,NA,NA,NA,381,*,*,Neutral,NA
+DOF,4a,FALSE,Cases opened,NA,NA,NA,NA,194,*,*,Neutral,NA
+DOF,5a,FALSE,Online property recording transactions (%),NA,NA,NA,NA,58.8%,*,*,Up,NA
+FDNY,1a,FALSE,Investigations,"6,636","7,028","7,210","7,679","7,664",*,*,Up,Up
+DOF,5a,FALSE,Average time to record and index property documents (days) - Citywide,1.9,3.1,2.4,3.8,3.4,*,*,Down,Up
+DOF,6a,FALSE,"Total revenue collected ($000,000)","$28,158","$30,167","$32,227","$34,452","$36,044",*,*,Neutral,Up
+DOF,6a,FALSE,"- Property taxes collected ($000,000)","$17,945","$18,751","$19,977","$21,317","$22,946",*,*,Neutral,Up
+DOF,6a,FALSE,"- Business taxes collected ($000,000)","$6,838","$7,410","$7,578","$7,724","$7,550",*,*,Neutral,Neutral
+DOF,6a,FALSE,"- Property transfer taxes collected ($000,000)","$1,448","$1,828","$2,488","$2,920","$3,008",*,*,Neutral,Up
+DOF,6a,FALSE,"- Parking summons revenue ($000,000)",$569,$508,$588,$643,$642,*,*,Neutral,Up
+DOF,6a,FALSE,"- Audit and enforcement revenue collected ($000,000)",$743,"$1,009",$911,"$1,132","$1,161",*,*,Neutral,Up
+DOF,6a,FALSE,"- Other revenue ($000,000)",$616,$661,$685,$717,$738,*,*,Neutral,Up
+DOF,7a,FALSE,Completed customer requests for interpretation,"3,274","3,254","4,353","4,466","5,453",*,*,Neutral,Up
+DOHMH,3a,FALSE,Day care initial site inspections,"22,219","23,024","20,091","21,800","22,032",*,*,Neutral,Neutral
+DOHMH,3c,FALSE,Initial pest control inspections (000),124,95,94,97,98,*,*,Neutral,Down
+DOHMH,3c,FALSE,Initial inspections with active rat signs (ARS) (%),9.6%,11.1%,10.8%,10.7%,13.9%,*,*,Down,Up
+DOHMH,4b,FALSE,Individuals in the assisted outpatient mental health treatment program,"1,245","1,289","1,388","1,533","1,570",*,*,Neutral,Up
+DOHMH,4b,FALSE,New children receiving services from the Early Intervention Program (000),13.8,13.8,13.7,14.3,14.4,*,*,Neutral,Neutral
+DOHMH,4b,FALSE,Calls to LifeNet (000),85.8,92.0,105.1,92.0,97.5,*,*,Neutral,Up
+DOHMH,6a,FALSE,Workplace injuries reported,NA,145,118,104,104,*,*,Down,NA
+DOHMH,6a,FALSE,Collisions involving City vehicles,NA,23,32,29,23,*,*,Down,NA
+DOHMH,6a,FALSE,All summonses issued,"77,949","67,203","66,711","64,625","59,067",*,*,Neutral,Down
+DOHMH,6a,FALSE,Violations admitted to or upheld at ECB (%),70.1%,64.4%,57.3%,70.9%,70.0%,*,*,Neutral,Neutral
+DOHMH,7a,FALSE,Completed requests for interpretation,"10,278","10,664","11,102","12,475","14,986",*,*,Neutral,Up
+DOI,1a,TRUE,Complaints,"12,595","12,659","12,624","11,445","11,610",*,*,Neutral,Neutral
+DOI,1a,FALSE,Corruption prevention lecture e-learning attendees,NA,NA,NA,"1,797","15,298",*,*,Neutral,NA
+DOI,1a,FALSE,Integrity monitoring agreements,15,21,18,16,16,*,*,Neutral,Neutral
+DOI,1b,TRUE,Referrals for civil and administrative action,"1,334","1,235",929,"1,327",840,*,*,Neutral,Down
+DOI,1b,TRUE,Referrals for criminal prosecution,"1,000","1,053",612,601,727,*,*,Neutral,Down
+DOI,1b,TRUE,Arrests resulting from DOI investigations,808,840,516,499,546,*,*,Neutral,Down
+DOI,2a,FALSE,"Time to notify agencies of arrest notifications for current childcare, home care and family care workers after receipt from State Division of Criminal Justice Services (days)",1,2,1,1,1,*,*,Down,Down
+DOI,3a,FALSE,Completed requests for interpretation,37,38,17,24,26,*,*,Neutral,Down
+DOI,3a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+DOI,3a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+DOI,3a,FALSE,Average wait time to speak with a customer service agent (minutes),3,3,3,3,3,*,*,Down,Neutral
+DOI,3a,FALSE,CORE facility rating,95,93,93,98,98,*,*,Up,Neutral
+DoITT,1a,FALSE,Average utilization of shared City agencies mainframe system (%),NA,79.6%,79.7%,72.3%,60.9%,*,*,Neutral,NA
+DoITT,1a,FALSE,Average utilization of mainframe system used by the Department of Education and DoITT (%),NA,46.5%,49.2%,57.6%,61.2%,*,*,Neutral,NA
+DoITT,1a,FALSE,800 MHz network transmissions (000),"2,330.3","2,866.0","3,621.7","2,935.7","3,187.2",*,*,Neutral,Up
+DoITT,1b,FALSE,Service incidents,"207,980","219,685","188,745","197,166","230,978",*,*,Neutral,Neutral
+DoITT,1c,FALSE,Active projects,NA,NA,NA,34,45,*,*,Neutral,NA
+DoITT,1d,FALSE,Service incidents - Telecommunications repair,"7,194","5,634","3,909","2,628","2,531",*,*,Neutral,Down
+DoITT,1d,FALSE,Average time to resolve telecommunications incidents (days),4.5,10.2,4.6,4.6,8.0,*,*,Down,Neutral
+DoITT,2a,FALSE,NYC.gov unique visitors (average monthly) (000),"2,781","3,774","3,778","3,772","4,001",*,*,Up,Up
+DoITT,3a,FALSE,Average time to resolve all cable complaints (days),12,13,14,13,13,*,*,Down,Neutral
+DoITT,4a,FALSE,Telecommunications advertisement-generated revenue ($000),NA,NA,NA,NA,"$18,625.9",*,*,Neutral,NA
+DoITT,4a,FALSE,Pay phone inspections conducted,"8,614","9,286","9,491","10,571","9,123",*,*,Neutral,Up
+DoITT,4a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),73%,69%,69%,72%,65%,*,*,Neutral,Neutral
+DoITT,5a,FALSE,Citywide IT professional services contracts in use by agencies (%),NA,46%,57%,37%,39%,*,*,Neutral,NA
+DoITT,5a,FALSE,AgenciesÕ task orders using citywide IT professional services contracts,NA,810,"1,071",747,570,*,*,Neutral,NA
+DoITT,6a,FALSE,Letters responded to in 14 days (%),95%,97%,99%,91%,100%,*,*,Up,Neutral
+DoITT,6a,FALSE,E-mails responded to in 14 days (%),94%,96%,97%,95%,100%,*,*,Up,Neutral
+DoITT,6b,FALSE,Percent meeting time to close Ð cable complaint - video service (15 days),98,96,97,96,96,*,*,Neutral,Neutral
+DoITT,6b,FALSE,Percent meeting time to close Ð cable complaint - billing (30 days),100,99,100,100,100,*,*,Neutral,Neutral
+DoITT,6b,FALSE,Percent meeting time to close Ð cable complaint - miscellaneous (30 days),100,99,100,100,100,*,*,Neutral,Neutral
+DoITT,6b,FALSE,Percent meeting time to close Ð public payphone complaint - damaged telephone (30 days),59,44,77,74,86,*,*,Neutral,Up
+DOP,1a,FALSE,Adult investigation reports completed - total,"21,488","19,547","18,452","15,546","15,421",*,*,Neutral,Down
+DOP,1a,FALSE,Juvenile investigation reports completed,"3,303","3,546","2,194","2,003","2,019",*,*,Neutral,Down
+DOP,1a,FALSE,Juvenile investigation reports - on time completion (%),NA,NA,NA,86.0%,81.0%,*,*,Up,NA
+DOP,1b,FALSE,Juvenile supervision - Intake cases received,"11,510","7,516","6,064","5,366","4,640",*,*,Neutral,Down
+DOP,1b,FALSE,- low-risk (%),NA,47.0%,37.0%,38.0%,40.0%,*,*,Up,NA
+DOP,1b,FALSE,- medium-risk (%),NA,16.0%,12.0%,13.0%,14.0%,*,*,Neutral,NA
+DOP,1b,FALSE,- high-risk (%),NA,8.0%,7.0%,6.0%,7.0%,*,*,Neutral,NA
+DOP,2a,FALSE,Adult supervision cases - end of period,"23,934","23,886","23,805","21,023","21,153",*,*,Neutral,Down
+DOP,2a,FALSE,Juvenile supervision cases - end of period,"2,187","2,079","1,781","1,430","1,347",*,*,Neutral,Down
+DOP,2a,FALSE,Adult initial risk assessments completed,NA,NA,NA,NA,"7,648",*,*,Neutral,NA
+DOP,2a,FALSE,Juvenile initial risk assessments completed,NA,NA,NA,NA,"1,117",*,*,Neutral,NA
+DOP,2a,TRUE,Juvenile probationers arrested citywide as a percentage of the NYPD arrest report (monthly average),0.3%,0.2%,0.3%,0.3%,0.3%,*,*,Neutral,Up
+DOP,2a,TRUE,Average monthly violation rate for adult probationers (%),0.9%,0.9%,0.8%,0.8%,0.9%,*,*,Neutral,Neutral
+DOP,2a,FALSE,Probation violation proceedings ending in revocation for adult probationers (%),46%,45%,44%,47%,54%,*,*,Down,Up
+DOP,2a,FALSE,Probation violation proceedings ending in revocation for juvenile probationers (%),57%,47%,49%,41%,53%,*,*,Down,Down
+DOP,2a,FALSE,Revocation of juveniles not resulting in placement (%),NA,NA,NA,NA,36.0%,*,*,Neutral,NA
+DOP,2a,FALSE,Revocation of juveniles resulting in placement (%),NA,NA,NA,NA,64.0%,*,*,Neutral,NA
+DOP,2b,FALSE,Adult supervision- new individual action plans (IAPs) created for eligible clients (%),NA,NA,NA,NA,100.0%,*,*,Neutral,NA
+DOP,2b,FALSE,Juvenile supervision - new Individual action plans (IAPs) created for eligible clients (%),NA,NA,NA,NA,100.0%,*,*,Neutral,NA
+DOP,2b,FALSE,New enrollments in alternative-to-placement (ATP) programs,NA,194,167,160,134,*,*,Neutral,NA
+DOP,2b,FALSE,New enrollments in DOP-managed programs,NA,NA,NA,NA,"2,270",*,*,Neutral,NA
+DOP,2b,FALSE,Adult probationer early completion rate (%),17%,12%,11%,12%,10%,*,*,Neutral,Down
+DOP,2b,FALSE,Adult probationer early completion approval rate (%),82.0%,81.0%,76.0%,81.0%,75.0%,*,*,Up,Neutral
+DOP,2c,FALSE,Intel enforcement events,NA,NA,NA,NA,"1,525",*,*,Neutral,NA
+DOP,3a,FALSE,Completed requests for interpretation,"18,764","16,505","16,520","15,859","9,425",*,*,Neutral,Down
+DOP,3a,FALSE,Letters responded to in 14 days (%),100%,97%,77%,100%,100%,*,*,Up,Neutral
+DOP,3a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+DORIS,1a,FALSE,Number of library items available,"345,151","352,000","358,825","363,997","371,208",*,*,Up,Neutral
+DORIS,1a,FALSE,Publications and reports acquired,"7,382","7,205","7,547","7,113","10,016",*,*,Up,Up
+DORIS,1a,FALSE,Records accessioned by Municipal Archives (cubic ft.),"5,206","14,834","3,920","2,738","1,049",*,*,Up,Down
+DORIS,1a,FALSE,Walk-in and program attendees at the Visitor Center,NA,"2,063","1,508","1,318","1,363",*,*,Up,NA
+DORIS,2a,FALSE,Requests for stored records processed within 48 hours (%),95.0%,92.0%,98.0%,100.0%,94.0%,*,*,Up,Neutral
+DORIS,2b,FALSE,Warehouse capacity available for new accessions (%),10%,7%,4%,5%,12%,*,*,Neutral,Neutral
+DORIS,2b,FALSE,Records transferred into Municipal Records Center (cubic ft. ),"63,426","47,250","20,509","27,837","6,668",*,*,Up,Down
+DORIS,2c,FALSE,Total records disposed by City government entities (cubic ft.),NA,NA,NA,NA,"59,232",*,*,Up,NA
+DORIS,3a,FALSE,Letters responded to in 14 days (%),100%,92%,92%,100%,100%,*,*,Up,Neutral
+DORIS,3a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+FDNY,1a,FALSE,Arson fires,"2,008","1,831","1,766","1,719","1,605",*,*,Down,Down
+DORIS,3a,FALSE,CORE customer experience rating (0-100),92,93,93,91,97,*,*,Up,Neutral
+DOT,1a,FALSE,- Fair (%),58.4%,58.4%,57.9%,57.9%,58.1%,*,*,Down,Neutral
+DOT,1a,FALSE,- Poor (%),0.4%,0.1%,0.1%,0.0%,0.0%,*,*,Down,Down
+DOT,1b,FALSE,- Fair (%),26.2%,29.8%,30.0%,29.3%,30.4%,*,*,Down,Up
+DOT,1b,FALSE,- Poor (%),0.4%,0.6%,0.7%,0.7%,0.8%,*,*,Down,Up
+DOT,1b,FALSE,Pothole work orders,"36,401","43,972","54,667","60,809","50,085",*,*,Down,Up
+DOT,1b,FALSE,Potholes repaired - Arterial highway system,"37,962","45,070","126,144","90,289","33,889",*,*,Neutral,Up
+DOT,1b,FALSE,- Local streets,"200,666","213,475","323,384","370,204","269,329",*,*,Neutral,Up
+DOT,1b,FALSE,Lane miles resurfaced citywide (in-house),"1,006.6",810.6,"1,005.9","1,019.7","1,239.4",*,*,Up,Up
+DOT,1b,FALSE,Average cost per lane mile resurfaced citywide ($),"$150,830","$192,536","$169,201","$160,759",NA,*,*,Down,NA
+DOT,1b,FALSE,Average in-house cost of asphalt per ton ($),$61.26,$63.04,$61.25,$56.72,NA,*,*,Down,NA
+DOT,1b,FALSE,Average vendor cost of asphalt per ton ($),$73.29,$76.64,$63.24,$58.67,NA,*,*,Down,NA
+DOT,1b,FALSE,Construction permits issued,"325,839","348,051","418,245","471,688","549,495",*,*,Up,Up
+DOT,1b,FALSE,Inspections of permitted street work,"564,852","543,921","641,061","574,467","708,276",*,*,Up,Up
+DOT,1b,FALSE,Post-audit inspections for completed street work,"274,714","302,689","329,664","292,453","374,075",*,*,Up,Up
+DOT,1b,FALSE,- Completed street work that passed inspection (%),81%,80%,75%,75%,77%,*,*,Up,Neutral
+DOT,1b,FALSE,Adopted highway miles that receive a service rating of good (%),100.0%,99.4%,98.9%,94.3%,95.1%,*,*,Up,Neutral
+DOT,1b,FALSE,Total violations issued,"30,438","27,382","33,843","34,266","67,065",*,*,Up,Up
+DOT,1b,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),89.6%,88.1%,92.0%,91.0%,92.0%,*,*,Up,Neutral
+DOT,1c,FALSE,Average time to repair street lights - by DOT (calendar days),2.5,2.7,2.5,2.3,2.9,*,*,Down,Neutral
+DOT,1c,FALSE,Average time to repair street lights - by ConEd (calendar days),12.5,14.1,14.9,15.6,14.4,*,*,Down,Up
+DOT,2a,FALSE,- Bicyclists/pedestrians,176,168,172,159,152,*,*,Down,Down
+DOT,2a,FALSE,- Motorists/passengers,115,93,113,90,84,*,*,Down,Down
+DOT,2a,FALSE,Collisions involving DOT vehicles,NA,452,461,344,370,*,*,Down,NA
+NYPD,6a,FALSE,CORE facility rating,89,86,90,88,94,*,*,Up,Neutral
+DOT,3a,FALSE,- Ridership (000),"22,178","21,399","21,068","21,911","23,067",*,*,Up,Neutral
+DOT,3a,FALSE,- Average cost per passenger ($),$5.48,$5.38,$5.75,$5.87,$5.87,*,*,Down,Neutral
+DOT,3a,FALSE,Private ferry service - Total ridership (000),"9,020","9,976","9,656","9,830","10,883",*,*,Up,Up
+DOT,3a,FALSE,- Number of permanent routes,21,21,21,21,21,*,*,Up,Neutral
+DOT,3a,FALSE,Citi Bike annual membership,NA,NA,"92,598","73,369","114,779",*,*,Up,NA
+DOT,3a,FALSE,- Trips (000),NA,NA,"9,409","8,765","12,234",*,*,Up,NA
+DOT,3a,FALSE,Select Bus Service ridership (000) (annual),"24,850","28,535","36,961","45,200","57,762",*,*,Up,Up
+DOT,3a,FALSE,- Route miles (cumulative),18,38,61,65,73,*,*,Up,Up
+DOT,3a,FALSE,Average travel speed (miles per hour) - Manhattan Central Business District,9.1,9.1,8.7,8.3,8.1,*,*,Up,Down
+DOT,3a,FALSE,Crossing points with pedestrian ramps installed (%),94%,95%,97%,97%,97%,*,*,Up,Neutral
+DOT,4a,TRUE,Pedestrian volume index,NA,112.9,111.1,112.7,118.3,*,*,Neutral,NA
+DOT,4a,FALSE,Pedestrian space installed (square feet),"231,021","360,057","297,408","230,956","353,439",*,*,Up,Up
+DOT,4a,FALSE,Existing newsstands converted to new model (%),86.4%,91.1%,93.7%,94.0%,95.9%,*,*,Up,Neutral
+DOT,6a,FALSE,Cases commenced against the City in state and federal court,"2,246","1,927","1,919","2,173","2,209",*,*,Neutral,Neutral
+DOT,6a,FALSE,Payout ($000),"$63,347","$71,747","$63,272","$50,636","$62,940",*,*,Down,Down
+DOT,6a,FALSE,Workplace injuries reported,541,411,359,390,371,*,*,Down,Down
+DOT,7a,FALSE,Average customer in-person wait time (minutes),2,NA,NA,3,4,*,*,Down,NA
+DOT,7a,FALSE,Completed customer requests for interpretation,735,655,798,"1,261","1,415",*,*,Neutral,Up
+DPR,1a,FALSE,-  Overall condition of small parks and playgrounds (%),79%,83%,85%,85%,83%,*,*,Up,Neutral
+DPR,1a,FALSE,-  Overall condition of large parks (%),69%,74%,77%,78%,79%,*,*,Up,Up
+DPR,1a,FALSE,-  Overall condition of greenstreets (%),96%,96%,97%,97%,97%,*,*,Up,Neutral
+DPR,1a,FALSE,-  Cleanliness of small parks and playgrounds (%),87%,89%,91%,91%,91%,*,*,Up,Neutral
+DPR,1a,FALSE,-  Cleanliness of large parks (%),77%,84%,85%,86%,88%,*,*,Up,Up
+DPR,1a,FALSE,-  Cleanliness of greenstreets (%),97%,98%,99%,99%,99%,*,*,Up,Neutral
+DPR,1a,FALSE,Monuments receiving annual maintenance (%),75%,63%,63%,63%,69%,*,*,Up,Neutral
+DPR,1b,FALSE,Summonses issued,"15,795","11,809","16,310","15,323","21,176",*,*,Neutral,Up
+DPR,1b,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),79.8%,81.1%,84.8%,87.2%,85.9%,*,*,Up,Neutral
+DPR,2a,FALSE,- Annual pruning goal completed (%),109%,173%,119%,140%,92%,*,*,Up,Down
+DPR,2a,FALSE,- Trees pruned as a percent of pruning eligible trees,6%,10%,12%,20%,18%,*,*,Up,Up
+DPR,2a,FALSE,Trees removed,"16,248","22,920","16,586","15,964","16,505",*,*,Neutral,Down
+DPR,2a,FALSE,- Street trees removed (in response to service request),"8,688","9,765","10,525","10,702","12,821",*,*,Neutral,Up
+DPR,2b,TRUE,Total public service requests received - Forestry,"110,512","120,791","77,727","85,214","90,217",*,*,Neutral,Down
+DPR,2b,FALSE,- Tree emergencies,"31,561","50,775","14,449","17,835","20,462",*,*,Neutral,Down
+DPR,2b,FALSE,- Down trees,NA,8.3,15.7,15.3,16.2,*,*,Down,NA
+DPR,2b,FALSE,- Hanging tree limbs,NA,13.2,29.4,18.8,30.3,*,*,Down,NA
+DPR,2b,FALSE,- Down tree limbs,NA,11.9,18.6,17.3,22.5,*,*,Down,NA
+DPR,4a,TRUE,Attendance at outdoor Olympic and intermediate pools (pool season),"1,725,257","1,450,315","1,434,011","1,790,628","1,759,235",*,*,Neutral,Up
+DPR,4a,FALSE,Attendance at historic house museums,"841,005","725,376","833,929","825,541","746,304",*,*,Up,Neutral
+DPR,4a,FALSE,Attendance at skating rinks,"528,511","530,299","595,887","548,677","564,696",*,*,Up,Neutral
+DPR,4a,FALSE,Total attendance at non-recreation center programs,"282,041","528,980","503,919","1,076,194","934,404",*,*,Up,Up
+DPR,4b,FALSE,Parks with an affiliated volunteer group (%),NA,NA,NA,NA,29%,*,*,Up,NA
+DPR,4b,FALSE,Volunteer turnout,"28,783","37,754","34,137","40,932","44,212",*,*,Up,Up
+DPR,5a,FALSE,Cases commenced against the City in state and federal court,301,270,294,292,349,*,*,Neutral,Up
+DPR,5a,FALSE,Payout ($000),"$17,708","$24,342","$16,760","$12,690","$13,079",*,*,Down,Down
+DPR,5a,FALSE,Collisions involving City vehicles,401,464,496,540,576,*,*,Down,Up
+DPR,5a,FALSE,Workplace injuries reported,344,358,397,396,374,*,*,Down,Up
+DPR,6a,FALSE,Completed customer requests for interpretation,57,45,60,81,122,*,*,Neutral,Up
+DSNY,1a,FALSE,Streets rated filthy (%),0.2%,0.2%,0.4%,0.4%,0.2%,*,*,Neutral,Up
+DSNY,1a,FALSE,Sidewalks rated filthy (%),0.3%,0.4%,0.3%,0.4%,0.3%,*,*,Neutral,Neutral
+DSNY,1a,FALSE,Violations issued for dirty sidewalks,"35,407","28,690","39,975","49,828","64,693",*,*,Neutral,Up
+DSNY,1a,FALSE,Violations issued for illegal posting,"30,512","16,182","18,217","11,601","8,209",*,*,Neutral,Down
+DSNY,2a,FALSE,Tons per day disposed,"10,826","10,876","10,611","10,554","10,583",*,*,Down,Neutral
+DSNY,2a,FALSE,Average outage rate for all collection trucks (%),17%,19%,21%,20%,19%,*,*,Down,Up
+DSNY,2a,FALSE,Missed refuse collections (%),0.1%,1.1%,0.0%,0.0%,0.4%,*,*,Neutral,Down
+DSNY,3a,FALSE,Total annual recycling diversion rate (%),16.6%,16.3%,17.0%,17.8%,NA,*,*,Up,NA
+DSNY,3a,FALSE,Annual tons recycled total (000),644,642,652,685,NA,*,*,Up,NA
+DSNY,3a,FALSE,Missed recycling collections (%),0.0%,3.3%,0.0%,0.0%,0.1%,*,*,Neutral,Down
+DSNY,3a,FALSE,Recycling trucks dumped on shift (%),29.7%,29.2%,25.7%,25.8%,26.5%,*,*,Up,Down
+DSNY,3a,FALSE,Recycling summonses issued,"75,216","65,017","107,049","107,428","118,407",*,*,Neutral,Up
+DSNY,4a,FALSE,Snowfall (total inches),6.8,24.0,56.3,47.5,31.8,*,*,Neutral,Up
+DSNY,4a,FALSE,Salt used (tons),"59,274","183,597","492,369","522,841","302,229",*,*,Neutral,Up
+DSNY,5a,FALSE,Cases commenced against the City in state and federal court,573,309,341,651,747,*,*,Neutral,Up
+DSNY,5a,FALSE,Payout ($000),"$31,763","$26,944","$32,265","$25,500","$42,999",*,*,Down,Up
+DSNY,5a,FALSE,Private transfer station permits,60,59,59,59,61,*,*,Neutral,Neutral
+DSNY,5a,FALSE,Private transfer station inspections performed,"4,967","5,047","6,022","5,998","4,570",*,*,Neutral,Neutral
+DSNY,5a,FALSE,Total Environmental Control Board violations issued,"334,436","259,909","358,064","402,251","458,050",*,*,Neutral,Up
+DSNY,5a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),84%,84%,86%,88%,89%,*,*,Neutral,Neutral
+DSNY,5a,FALSE,Refuse collection cost per ton ($),$251,$252,$277,$282,NA,*,*,Neutral,NA
+DSNY,5a,FALSE,Refuse cost per ton (fully loaded) ($),$394,$392,$422,$449,NA,*,*,Neutral,NA
+DSNY,5a,FALSE,Disposal cost per ton ($),$143,$140,$145,$167,NA,*,*,Neutral,NA
+DSNY,5a,FALSE,Recycling cost per ton (fully loaded) ($),$657,$656,$721,$684,NA,*,*,Neutral,NA
+DSNY,5a,FALSE,Recycling collection cost per ton ($),$629,$627,$692,$640,NA,*,*,Neutral,NA
+DSNY,5a,FALSE,Paper recycling revenue per ton ($),$25,$11,$11,$11,$12,*,*,Neutral,Down
+DSNY,5a,FALSE,Removal cost per inch of snow ($000),"$4,300","$1,602","$2,330","$2,444","$3,288",*,*,Neutral,Down
+DSNY,5a,FALSE,Collisions involving City vehicles,"1,580","2,093","2,457","2,616","2,625",*,*,Down,Up
+DSNY,5a,FALSE,Workplace injuries reported (uniform and civilian),NA,"1,572","1,539","1,266","1,304",*,*,Down,NA
+DSNY,6a,FALSE,Completed requests for interpretation,5,0,8,17,16,*,*,Neutral,Up
+DSNY,6a,FALSE,Letters responded to in 14 days (%),65%,52%,65%,58%,73%,*,*,Up,Up
+DSNY,6a,FALSE,E-mails responded to in 14 days (%),75%,69%,75%,64%,75%,*,*,Up,Neutral
+DSNY,6b,FALSE,Percent meeting time to close Ð Sanitation Condition - Street Cond/Dump-Out/Drop-Off (5 days),96,95,97,96,95,*,*,Neutral,Neutral
+DSNY,6b,FALSE,Percent meeting time to close Ð Literature Request - Blue Recycling Decals (7 days),100,100,100,100,100,*,*,Neutral,Neutral
+DSNY,6b,FALSE,Percent meeting time to close Ð Literature Request - Green Mixed Paper Recycling Decals (7 days),100,100,100,100,100,*,*,Neutral,Neutral
+DSNY,6b,FALSE,Percent meeting time to close Ð Dirty Conditions - Illegal Postering (7 days),95,71,66,79,92,*,*,Neutral,Neutral
+DYCD,1a,FALSE,Number of young people involved in DYCD-funded programs,"201,194","212,407","247,705","288,767","317,341",*,*,Up,Up
+DYCD,1b,FALSE,Certified residential beds for runaway or homeless youth,250,247,329,337,441,*,*,Neutral,Up
+DYCD,2a,FALSE,Number of Summer Youth Employment Program contracts,64,64,98,98,100,*,*,Neutral,Up
+DYCD,2a,FALSE,Value of Summer Youth Employment Program contracts ($000),"$8,116","$8,641","$15,036","$17,145","$18,563",*,*,Neutral,Up
+DYCD,2a,FALSE,Participants in WIA-funded Out-of-School Youth program,"1,900","1,863","1,721","1,800","2,265",*,*,Neutral,Up
+DYCD,2a,FALSE,Participants in WIA-funded In-School Youth program,"2,401","2,395","2,527","2,678","2,766",*,*,Neutral,Up
+DYCD,3a,FALSE,Participants in community anti-poverty programs,"22,239","22,657","23,403","19,128","19,480",*,*,Neutral,Down
+FDNY,1a,FALSE,Summonses issued,"1,245","1,268","8,207","7,975","6,404",*,*,Neutral,Up
+DYCD,3c,FALSE,Participants in immigration assistance programs,"4,047","4,263","5,422","7,058","3,505",*,*,Neutral,Up
+DYCD,4a,FALSE,Expenditure report reviews,"24,185","22,495","25,352","21,687","25,433",*,*,Neutral,Neutral
+DYCD,4a,TRUE,Programmatic reviews/contract monitoring,"10,665","10,518","11,008","14,622","16,832",*,*,Neutral,Up
+DYCD,4a,FALSE,Agency assessments completed,"1,110","1,663","1,579",732,"1,356",*,*,Neutral,Down
+DYCD,4a,FALSE,Contracts funded,"2,631","2,888","2,691","3,046","2,502",*,*,Neutral,Neutral
+DYCD,4a,FALSE,Value of agency contracts ($000),"$249,526","$275,789","$328,301","$478,784","$548,747",*,*,Neutral,Up
+DYCD,4a,FALSE,Value of intracity agreements ($000),"$4,244","$4,246","$5,366","$9,460","$6,945",*,*,Neutral,Up
+DYCD,5a,FALSE,Completed customer requests for interpretation,"1,415","1,708","1,515","1,986","2,380",*,*,Neutral,Up
+DYCD,5a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+DYCD,5a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+DYCD,5a,FALSE,Calls answered in 30 seconds (%),38%,54%,94%,47%,47.82%,*,*,Up,Neutral
+EDC,1a,FALSE,"Capital expenditures ($000,000) (excludes asset management and funding agreements)",NA,$365.0,$296.3,$253.2,$307.9,*,*,Neutral,NA
+EDC,1a,FALSE,Graffiti sites cleaned,"13,367","10,727","7,909","10,295","9,189",*,*,Neutral,Down
+EDC,1a,FALSE,Square feet of graffiti removed (000),"4,242","4,078","4,325","5,913","5,650",*,*,Neutral,Up
+EDC,1a,FALSE,East River ferry - Average monthly ridership,"92,026","101,579","107,494","113,366","131,896",*,*,Up,Up
+EDC,2a,FALSE,"Capital expenditures on asset management ($000,000)",NA,$46.0,$49.9,$38.8,$37.3,*,*,Neutral,NA
+EDC,2a,FALSE,"Portfolio revenue generated ($000,000)",NA,$180.3,$199.4,$192.4,$199.8,*,*,Up,NA
+EDC,2a,FALSE,Square footage of assets actively managed by NYCEDC (000),"65,570.3","65,537.1","66,394.3","67,266.8","66,321.4",*,*,Neutral,Neutral
+EDC,2a,FALSE,Outstanding violations at beginning of the period,NA,55,35,25,64,*,*,Down,NA
+EDC,2a,FALSE,Outstanding violations closed during the period,NA,19,23,22,31,*,*,Up,NA
+EDC,3a,FALSE,Private sector jobs in innovation industries (%) (calendar year),NA,14.5%,14.6%,14.7%,14.8%,*,*,Up,NA
+EDC,3a,FALSE,New York City unemployment rate (%),9.4%,8.5%,8.2%,6.6%,4.9%,*,*,Down,Down
+EDC,3b,FALSE,New York City Industrial Development Agency projects  - Contracts closed,12,20,21,14,14,*,*,Up,Neutral
+EDC,3b,FALSE,"- Private investment leveraged on closed projects ($000,000)",NA,"$1,710.5","$5,189.0","$3,596.2",$942.2,*,*,Up,NA
+EDC,3b,FALSE,Build NYC Resource Corporation - Contracts closed,4,24,21,23,28,*,*,Up,Up
+EDC,3b,FALSE,"- Private investment leveraged on closed projects ($000,000)",NA,$513.7,$555.8,$777.8,"$1,404.3",*,*,Up,NA
+EDC,3b,FALSE,"Value of funding disbursed pursuant to City funding agreements ($000,000)",$104.8,$91.0,$166.3,$168.7,$128.7,*,*,Neutral,Up
+EDC,4a,FALSE,Project employees reported to be earning a living wage or more (%),NA,NA,94%,95%,NA,*,*,Up,NA
+FDNY,1a,FALSE,"Structural fires per 100,000 people",306,307,314,330,327,*,*,Down,Neutral
+FDNY,1a,FALSE,Violation orders issued,"38,482","40,946","44,860","43,542","44,376",*,*,Neutral,Up
+FDNY,1a,FALSE,Violation orders corrected,"30,781","30,377","40,953","37,390","38,109",*,*,Neutral,Up
+FDNY,1a,FALSE,Violation orders corrected (%),80%,74%,91%,86%,86%,*,*,Up,Up
+FDNY,1a,FALSE,Completed risk-based inspections performed by uniformed personnel,NA,NA,"42,603","43,537","41,671",*,*,Neutral,NA
+FDNY,1a,FALSE,Completed mandatory inspections performed by uniformed personnel,NA,NA,"50,224","47,282","55,856",*,*,Neutral,NA
+FDNY,1a,FALSE,Fire safety education presentations,"8,776","8,184","8,612","9,497","9,876",*,*,Neutral,Up
+FDNY,1b,FALSE,End-to-end average response time to structural fires (minutes:seconds),NA,4:47,4:49,4:51,4:55,*,*,Down,NA
+FDNY,1b,FALSE,Average response time to all emergencies by fire companies (FDNY dispatch and travel time only) (minutes:seconds),4:35,4:46,4:46,4:50,4:52,*,*,Down,Neutral
+FDNY,1b,FALSE,Total fire company runs,"971,947","983,615","1,054,752","1,138,509","1,175,114",*,*,Neutral,Up
+FDNY,1c,FALSE,"Civilian fire fatalities per 100,000 people",0.9,0.6,1.0,0.7,0.8,*,*,Down,Neutral
+FDNY,2a,FALSE,End-to-end combined response time to life-threatening medical emergencies by ambulances & fire companies (minutes:seconds),NA,NA,NA,8:18,8:17,*,*,Down,NA
+FDNY,2a,FALSE,End-to-end average response time to life-threatening medical emergencies by ambulances (minutes:seconds),NA,9:22,9:31,9:13,9:09,*,*,Down,NA
+FDNY,2a,FALSE,End-to-end average response time to life-threatening medical emergencies by fire companies (minutes:seconds),NA,6:51,7:02,7:11,7:20,*,*,Down,NA
+FDNY,2a,FALSE,Life-threatening medical emergency incidents,"461,830","450,423","461,339","526,904","570,594",*,*,Neutral,Up
+FDNY,2b,FALSE,Segment one incidents (cardiac arrest and choking),"23,759","23,538","24,985","29,719","33,096",*,*,Neutral,Up
+FDNY,2b,FALSE,Average ambulance tours per day (total 911 system),989,993,"1,025","1,057","1,105",*,*,Neutral,Up
+FDNY,2b,FALSE,Average cost of ambulance tour per day ($),"$1,799","$1,809","$1,876","$1,901","$1,937",*,*,Neutral,Neutral
+FDNY,3a,FALSE,Apparatus collisions (fire companies),439,447,451,480,464,*,*,Down,Neutral
+FDNY,3a,FALSE,Ambulance collisions,699,793,730,806,"1,056",*,*,Down,Up
+FDNY,3a,FALSE,Fire workplace injuries reported (uniform and civilian),"10,275","8,447","7,655","7,850","8,113",*,*,Down,Down
+FDNY,3a,FALSE,EMS workplace injuries reported,"1,456","1,313","1,663","1,651","1,601",*,*,Down,Up
+FDNY,3a,FALSE,"Average annual cost of an engine company ($000,000)",$6.7,$6.7,$6.9,$6.8,$7.1,*,*,Neutral,Neutral
+FDNY,3a,FALSE,"Average annual cost of a ladder company ($000,000)",$8.4,$8.4,$8.6,$8.6,$8.8,*,*,Neutral,Neutral
+FDNY,3a,FALSE,Average time from inspection request until inspection (days) - Fire alarm inspections,32,32,32,32,45,*,*,Down,Up
+FDNY,3a,FALSE,Average time from inspection request until inspection (days) - Rangehood inspections,5,5,5,5,5,*,*,Down,Neutral
+FDNY,3a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),92%,91%,91%,93%,93%,*,*,Neutral,Neutral
+FDNY,4a,FALSE,Completed requests for interpretation,"2,563","2,891","3,721","4,501","5,484",*,*,Neutral,Up
+FDNY,4a,FALSE,Letters responded to in 14 days (%),100%,66%,95%,92%,97%,*,*,Up,Neutral
+FDNY,4a,FALSE,E-mails responded to in 14 days (%),79%,85%,97%,37%,54%,*,*,Up,Down
+FDNY,4a,FALSE,Average wait time to speak with a customer service agent (minutes),14:52,12:14,13:14,11:22,13:53,*,*,Down,Neutral
+FDNY,4a,FALSE,CORE facility rating,76,96,99,91,98,*,*,Up,Up
+H + H,1c,FALSE,"Total correctional health clinical visits (includes intake exams, sick calls, follow-up, mental health and dental)",NA,"858,172","802,405","769,459","674,825",*,*,Neutral,NA
+H + H,1c,FALSE,Patients with a substance abuse diagnosis in a jail-based substance abuse program (%),NA,NA,NA,10.0%,10.0%,*,*,Neutral,NA
+HPD,1a,FALSE,Total complaints reported,"589,245","541,397","548,626","553,135","549,640",*,*,Neutral,Neutral
+HPD,1a,TRUE,- Emergency complaints reported,"388,276","364,627","363,501","348,447","337,791",*,*,Neutral,Down
+HPD,1a,FALSE,Inspection visits per team per day,11.8,12.2,12.3,12.2,12.6,*,*,Up,Neutral
+HPD,1a,FALSE,Ratio of completed inspections to attempted inspections (%),71%,72%,78%,80%,78%,*,*,Up,Up
+HPD,1a,FALSE,Total complaints closed,"599,374","540,035","544,229","547,823","558,417",*,*,Neutral,Neutral
+HPD,1a,FALSE,- Emergency complaints closed,"389,952","364,049","363,995","346,603","339,524",*,*,Neutral,Down
+HPD,1a,FALSE,- Heat and hot water,"99,430","108,742","120,106","122,753","110,007",*,*,Neutral,Up
+HPD,1a,FALSE,- Lead,"39,862","34,022","33,600","32,528","32,170",*,*,Neutral,Down
+HPD,1a,FALSE,- Other emergency,"250,660","221,285","210,289","191,322","197,347",*,*,Neutral,Down
+HPD,1a,FALSE,Nonemergency complaints closed within 20 days of receipt (%),NA,82%,78%,69%,75%,*,*,Up,NA
+HPD,1b,FALSE,Total violations issued,"468,644","385,507","390,951","408,874","440,849",*,*,Neutral,Neutral
+HPD,1b,FALSE,- Emergency violations issued,"92,665","78,564","77,909","75,122","72,000",*,*,Neutral,Down
+HPD,1b,FALSE,- Heat and hot water,"10,869","12,216","12,352","10,478","8,858",*,*,Neutral,Down
+HPD,1b,FALSE,- Lead,"20,496","13,615","13,046","11,132","11,625",*,*,Neutral,Down
+HPD,1b,FALSE,- Other emergency,"61,300","52,733","52,511","53,512","51,517",*,*,Neutral,Down
+HPD,1b,FALSE,- Nonemergency violations issued,"375,979","306,943","313,042","333,752","368,849",*,*,Neutral,Neutral
+HPD,1b,FALSE,Emergency violations corrected by HPD (%),15%,15%,14%,12%,11%,*,*,Down,Down
+HPD,1b,FALSE,Violations closed,"536,010","433,960","416,454","458,863","489,900",*,*,Up,Neutral
+HPD,1b,FALSE,Violations certified as corrected by owner,NA,"134,369","118,867","141,484","170,109",*,*,Neutral,NA
+HPD,1b,FALSE,Housing Court cases initiated by HPD,"5,425","5,376","6,824","6,299","5,659",*,*,Neutral,Neutral
+HPD,1b,FALSE,Housing Court cases initiated by HPD that were disposed,"5,040","4,769","6,183","6,365","5,633",*,*,Neutral,Up
+HPD,1b,FALSE,- Cases settled,"3,534","3,301","4,802","4,827","4,308",*,*,Neutral,Up
+HPD,1b,FALSE,- Cases resulting in judgments,634,610,571,721,842,*,*,Neutral,Up
+HPD,1b,FALSE,Total dollars spent on emergency repairs (excluding demolition and AEP) ($),NA,"$11,077,244","$11,360,685","$11,234,213","$10,139,937",*,*,Neutral,NA
+HPD,1b,FALSE,Alternative Enforcement Program - Buildings currently active,473,498,502,581,609,*,*,Neutral,Up
+HPD,1b,FALSE,- Buildings discharged (cumulative),527,702,885,"1,056","1,278",*,*,Neutral,Up
+HPD,1b,FALSE,- Buildings discharged from program (%) (cumulative),53%,59%,64%,65%,64%,*,*,Up,Up
+HPD,1b,FALSE,Total dollars spent on emergency repairs in the Alternative Enforcement Program ($),NA,"$4,234,010","$3,980,941","$3,878,569","$1,935,904",*,*,Neutral,NA
+HPD,3a,FALSE,Asset management - Rental buildings in portfolio,NA,"2,651","3,110","3,396","3,604",*,*,Neutral,NA
+HPD,3a,FALSE,Physically and financially distressed rental buildings in portfolio (%),NA,0.7%,0.6%,0.5%,0.3%,*,*,Down,NA
+HPD,3a,FALSE,Asset management - Co-op buildings in portfolio,NA,"1,069","1,151","1,207","1,217",*,*,Neutral,NA
+HPD,3a,FALSE,Physically and financially distressed co-op buildings in portfolio (%),NA,4.8%,3.9%,3.5%,4.1%,*,*,Down,NA
+HPD,4a,FALSE,-  Vouchers issued,"2,786","1,404","1,138","2,960","2,999",*,*,Up,Up
+HPD,4a,FALSE,-  Households assisted,"37,116","37,232","36,859","38,128","39,058",*,*,Up,Neutral
+HPD,4a,FALSE,Section 8 subsidized units in abatement (%),NA,NA,3%,2%,2%,*,*,Down,NA
+HPD,4b,FALSE,Housing New York units started Ð Extremely low income (0-30% AMI),NA,NA,896,"2,653","3,767",*,*,Neutral,NA
+HPD,4b,FALSE,Housing New York units started Ð Very low income (31%-50% AMI),NA,NA,"1,426","2,375","2,879",*,*,Neutral,NA
+HPD,5a,FALSE,Completed customer requests for interpretation,"2,312","1,611","1,053","1,526","1,202",*,*,Neutral,Down
+HRA,1a,TRUE,Cash assistance unduplicated number of persons (12-month)(000),NA,607.0,589.1,591.1,601.8,*,*,Neutral,NA
+HRA,1a,FALSE,Cash Assistance unduplicated number of persons receiving recurring assistance (12-month) (000),NA,NA,489.9,484.6,492.9,*,*,Neutral,NA
+HRA,1a,FALSE,Cash Assistance unduplicated number of persons receiving emergency assistance (12-month) (000),NA,NA,99.2,106.4,108.9,*,*,Neutral,NA
+HRA,1a,TRUE,Cash assistance caseload (point in time)(000),190.3,193.1,182.4,192.4,196.1,*,*,Neutral,Neutral
+HRA,1a,TRUE,Persons receiving cash assistance (000),353.3,357.2,337.0,360.0,369.5,*,*,Neutral,Neutral
+HRA,1a,FALSE,Persons receiving recurring assistance (000),347.5,352.0,331.3,351.7,361.4,*,*,Neutral,Neutral
+HRA,1a,FALSE,Persons receiving emergency assistance (000),5.8,5.1,5.6,8.3,8.2,*,*,Neutral,Up
+HRA,1a,FALSE,Cash assistance applications (000),NA,377.9,385.1,348.5,330.6,*,*,Neutral,NA
+HRA,1a,FALSE,Cash assistance application acceptance rate (%),NA,NA,45.7%,50.9%,51.2%,*,*,Neutral,NA
+HRA,1a,FALSE,Cash assistance cases in sanction process (%),NA,NA,6.3%,4.8%,4.0%,*,*,Neutral,NA
+HRA,1a,FALSE,Cash assistance cases in sanction status (%),NA,NA,5.2%,3.5%,1.2%,*,*,Neutral,NA
+HRA,1b,TRUE,Persons receiving Supplemental Nutrition Assistance Program (SNAP) benefits (000),"1,834.2","1,873.5","1,755.8","1,706.7","1,693.2",*,*,Neutral,Neutral
+HRA,1b,FALSE,- Cash assistance persons receiving SNAP benefits (000),404.4,408.6,385.9,402.1,409.3,*,*,Neutral,Neutral
+HRA,1b,FALSE,- Non-cash assistance persons receiving SNAP benefits (000),"1,159.4","1,189.0","1,098.7","1,039.0","1,020.7",*,*,Neutral,Down
+HRA,1b,FALSE,- SSI persons receiving SNAP benefits (000),274.4,275.9,271.3,265.6,263.1,*,*,Neutral,Neutral
+HRA,1b,FALSE,- Cash assistance households receiving SNAP benefits (000),194.4,196.7,186.4,195.5,198.9,*,*,Neutral,Neutral
+HRA,1b,FALSE,- Non-cash assistance households receiving SNAP benefits (000),565.3,585.7,541.6,515.6,510.4,*,*,Neutral,Down
+HRA,1b,FALSE,- SSI households receiving SNAP benefits (000),250.2,252.7,249.2,244.2,242.1,*,*,Neutral,Neutral
+HRA,1b,FALSE,SNAP applications filed electronically (%),NA,NA,58.7%,71.5%,73.4%,*,*,Neutral,NA
+HRA,1c,TRUE,Medicaid enrollees administered by HRA (000),"3,006.5","3,085.6","2,808.0","2,371.7","2,085.7",*,*,Neutral,Down
+HRA,1c,FALSE,- Medicaid-only enrollees administered by HRA (000),"2,241.6","2,317.8","2,064.4","1,608.1","1,321.2",*,*,Neutral,Down
+SBS,2a,FALSE,Unique customers served,NA,NA,NA,NA,"104,715",*,*,Up,NA
+HRA,2a,FALSE,"HRA clients who obtained employment, and maintained employment or did not return to CA for 12 months (city fiscal year-to-date average) (%)",NA,NA,NA,64.2%,63.5%,*,*,Up,NA
+HRA,2b,FALSE,Total WeCARE cases,"25,454","33,280","29,138","46,510","49,637",*,*,Neutral,Up
+HRA,2b,TRUE,Number of WeCARE federal disability awards,"4,957","3,739","2,950","3,141","3,227",*,*,Neutral,Down
+HRA,2c,FALSE,Total new child support orders obtained,"14,988","17,981","20,286","20,351","19,579",*,*,Up,Up
+HRA,2c,FALSE,Total child support cases with active orders (end of period),"287,832","287,426","285,173","283,114","282,451",*,*,Up,Neutral
+HRA,3a,TRUE,HRA clients successfully diverted at PATH from entering a homeless shelter (%),20.6%,23.5%,28.5%,16.3%,12.6%,*,*,Neutral,Down
+HRA,3a,FALSE,Requests for Emergency Assistance at the Rental Assistance Unit,NA,NA,"57,912","65,138","82,306",*,*,Neutral,NA
+HRA,3a,FALSE,Rent Assistance Unit Emergency Assistance Requests Approved (%),NA,NA,66.5%,74.2%,67.6%,*,*,Neutral,NA
+HRA,3a,FALSE,Low-income cases facing eviction and homelessness who were assisted with legal services in Housing Court,NA,NA,NA,"8,900","11,837",*,*,Neutral,NA
+HRA,3b,TRUE,Eligible families seeking shelter at Prevention Assistance and Temporary Housing (PATH) who entered HRA's domestic violence shelters (%),83.5%,80.8%,78.5%,48.6%,30.5%,*,*,Neutral,Down
+HRA,3b,FALSE,Domestic violence non-residential services programs active caseload,NA,NA,NA,NA,"1,775",*,*,Up,NA
+HRA,3b,FALSE,Average number of families served per day in the domestic violence shelter program,766,755,769,786,803,*,*,Neutral,Neutral
+HRA,3b,FALSE,Number of domestic violence emergency beds (capacity),"2,228","2,228","2,228","2,228","2,282",*,*,Neutral,Neutral
+HRA,4a,FALSE,Adult Protective Services (APS) assessment cases,"3,050","3,419","3,723","3,905","4,041",*,*,Neutral,Up
+HRA,4a,FALSE,APS assessment cases accepted or denied for undercare within State-mandated 60 days (%),98.5%,98.8%,98.4%,88.8%,94.3%,*,*,Up,Neutral
+HRA,4a,TRUE,APS cases eligible for services,"6,227","6,098","5,406","6,107","6,847",*,*,Neutral,Neutral
+HRA,4a,FALSE,Total referrals received for APS,"20,791","22,055","23,657","24,203","25,614",*,*,Neutral,Up
+HRA,4a,TRUE,Personal care services - average weekly billable hours,48.4,49.9,48.1,43.6,43.6,*,*,Neutral,Down
+HRA,4a,FALSE,Cases receiving home care services,"99,716","116,883","118,120","122,173","136,367",*,*,Neutral,Up
+HRA,4a,FALSE,New applicants for HIV/AIDS Services Administration (HASA) services,"5,797","5,491","5,385","5,033","5,045",*,*,Neutral,Down
+HRA,4a,TRUE,Individuals receiving HASA services,"32,427","32,442","32,288","32,110","31,693",*,*,Neutral,Neutral
+HRA,4a,FALSE,HASA clients receiving ongoing enhanced housing benefits (%),83.7%,84.3%,84.0%,84.7%,84.3%,*,*,Neutral,Neutral
+HRA,5a,FALSE,"Cash assistance recoveries and cost avoidance for fraud, waste and abuse ($000,000)",NA,$177.8,$180.7,$182.7,$171.0,*,*,Up,NA
+HRA,5a,FALSE,"Supplemental Nutritional Assistance Program (SNAP) cost avoidance for fraud and abuse ($000,000)",NA,$29.6,$29.6,$30.0,$28.5,*,*,Up,NA
+HRA,5a,FALSE,Fair hearings requested,NA,NA,"396,196","328,469","285,165",*,*,Neutral,NA
+HRA,5a,FALSE,Fair hearings upheld (%),NA,NA,7.0%,5.2%,7.9%,*,*,Up,NA
+HRA,5a,FALSE,IDNYC - number of applications processed,NA,NA,NA,"366,473","546,599",*,*,Up,NA
+HRA,5a,FALSE,IDNYC - total number of cards issued,NA,NA,NA,"334,794","544,083",*,*,Up,NA
+HRA,5a,FALSE,IDNYC application timeliness (%),NA,NA,NA,95%,99%,*,*,Up,NA
+HRA,5a,FALSE,Billed revenue as a percentage of budgeted revenue (%),78.3%,71.9%,72.8%,74.2%,74.5%,*,*,Up,Neutral
+HRA,5a,FALSE,Claims filed within 60 days of the close of the expenditure month (%),100.0%,99.0%,100.0%,100.0%,100.0%,*,*,Up,Neutral
+HRA,5a,FALSE,Calls resolved within 48 hours to the customer service call line for vendors (%),71.3%,67.7%,69.4%,71.0%,82.3%,*,*,Up,Up
+HRA,5a,FALSE,Collisions involving City vehicles,53,43,62,43,51,*,*,Down,Neutral
+HRA,5a,FALSE,Workplace injuries reported,195,194,196,170,172,*,*,Down,Down
+HRA,5a,FALSE,Applications filed with the United States Citizenship and Immigration Services,NA,NA,NA,"1,548","1,415",*,*,Neutral,NA
+HRA,6a,FALSE,Completed requests for interpretation,"732,605","1,016,101","1,116,886","909,712","989,229",*,*,Neutral,Up
+HRA,6a,FALSE,"Customer satisfaction rating for Public Health Insurance Program services ÒgoodÓ or ""excellent"" (%)",NA,88.0%,91.0%,92.0%,93.0%,*,*,Up,NA
+LAW,1a,TRUE,Total cases commenced against the City,"9,695","9,528","9,045","9,922","9,507",*,*,Neutral,Neutral
+LAW,1b,FALSE,Affirmative motions to dismiss or for summary judgment,NA,"1,798","1,903","1,561","1,516",*,*,Neutral,NA
+LAW,1c,FALSE,Dismissals and discontinuances,NA,264,173,228,243,*,*,Up,NA
+LAW,4a,FALSE,Completed requests for interpretation,763,705,860,762,"1,002",*,*,Neutral,Up
+LAW,4a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+LAW,4a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+LPC,1a,TRUE,- Total number of buildings designated,"1,040","1,408",324,"2,013","1,411",*,*,Neutral,Up
+LPC,1b,TRUE,Work permit applications received,"11,823","11,886","13,235","13,273","13,963",*,*,Neutral,Up
+LPC,1b,TRUE,Actions taken on work permit applications received,"11,238","11,767","13,176","15,446","14,081",*,*,Neutral,Up
+LPC,1b,FALSE,Permits for minor work issued within 10 days (%),81%,83%,91%,92%,95%,*,*,Up,Up
+LPC,1c,FALSE,Number of complaints received,670,815,875,772,792,*,*,Down,Up
+LPC,1c,FALSE,Investigations completed,796,806,783,755,997,*,*,Neutral,Up
+LPC,1c,FALSE,"Enforcement actions taken: Total warning letters, NOVs, and stop work orders issued","1,100","1,030",993,"1,014","1,221",*,*,Neutral,Neutral
+LPC,1c,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),79%,87%,97%,98%,98%,*,*,Up,Up
+LPC,1d,FALSE,Archaeology applications received,283,242,284,308,297,*,*,Neutral,Up
+LPC,2a,FALSE,Letters responded to in 14 days (%),88%,88%,94%,85%,80%,*,*,Up,Neutral
+LPC,2a,FALSE,E-mails responded to in 14 days (%),98%,99%,100%,100%,98%,*,*,Up,Neutral
+NYCEM,1a,FALSE,Incidents,"3,347","3,443","3,702","4,091","4,267",*,*,Neutral,Up
+NYCEM,1a,FALSE,- Field responses,720,674,810,938,"1,019",*,*,Neutral,Up
+NYCEM,1a,FALSE,- Incidents monitored from Watch Command,"2,627","2,769","2,892","3,153","3,248",*,*,Neutral,Up
+NYCEM,1a,FALSE,Interagency meetings held during field responses,716,578,290,291,277,*,*,Neutral,Down
+NYCEM,1a,TRUE,Emergency Operations Center activations,8,6,8,7,6,*,*,Neutral,Down
+NYCEM,1b,FALSE,Participation in drills coordinated by other agencies or organizations,31,29,35,44,53,*,*,Up,Up
+NYCEM,2a,FALSE,Ready New York webpage views,NA,NA,NA,"15,443","81,570",*,*,Neutral,NA
+NYCEM,2a,FALSE,Subscribers to Corpnet System,"1,570","1,545","1,590","1,610","1,545",*,*,Up,Neutral
+NYCEM,2b,TRUE,Community Emergency Response Team (CERT) volunteer hours,"22,415","25,913","11,704","16,299","17,430",*,*,Neutral,Down
+NYCEM,2b,FALSE,CERT members trained,191,347,297,264,168,*,*,Neutral,Down
+NYCEM,2c,FALSE,Notify NYC messages issued,905,"1,189","1,190","1,390","1,505",*,*,Neutral,Up
+NYCEM,2c,FALSE,"Subscribers to Notify NYC, CorpNet, Advance Warning System, and Citizen Corps Newsletter",NA,"182,895","237,740","310,072","415,203",*,*,Neutral,NA
+NYCEM,3a,FALSE,Letters responded to in 14 days (%),97%,99%,100%,100%,100%,*,*,Up,Neutral
+NYCEM,3a,FALSE,E-mails responded to in 14 days (%),81%,95%,95%,97%,99%,*,*,Up,Up
+NYCHA,1a,FALSE,Rent delinquency Rate (%),NA,NA,NA,NA,27.7%,*,*,Down,NA
+NYCHA,1d,FALSE,Crime Rate Year To Date,11.9,12.4,13.3,12.0,13.2,*,*,Down,Neutral
+NYCHA,2b,FALSE,Apartments vacated,5.0%,4.5%,4.8%,3.9%,4.1%,*,*,Neutral,Down
+NYCHA,2b,FALSE,Applicants placed in public housing,"6,012","4,233","5,988","4,939","4,211",*,*,Up,Down
+NYCHA,2b,FALSE,Working families residing in public housing (cumulative) (%),48.0%,47.8%,47.6%,47.5%,46.7%,*,*,Up,Neutral
+NYCHA,2c,FALSE,Families on Section 8 waiting list (000),124,123,123,121,119,*,*,Down,Neutral
+NYCHA,2c,FALSE,Annual Section 8 inspections,89.2%,84.4%,89.8%,88.9%,78.0%,*,*,Up,Neutral
+NYCHA,2c,FALSE,Annual Section 8 recertifications,86.4%,91.2%,92.9%,96.7%,98.0%,*,*,Up,Up
+NYCHA,2c,FALSE,Applicants placed through Section 8 vouchers,421,933,384,892,"1,706",*,*,Up,Up
+NYCHA,2d,TRUE,Apartments (000),179,179,179,178,178,*,*,Neutral,Neutral
+NYCHA,2d,FALSE,Number of developments,334,334,334,328,328,*,*,Neutral,Neutral
+NYCHA,2d,FALSE,Number of buildings,"2,597","2,585","2,563","2,553","2,528",*,*,Neutral,Neutral
+NYCHA,3a,FALSE,Residents approved for the Emergency Transfer Program,849,937,808,815,931,*,*,Neutral,Neutral
+NYCHA,3a,FALSE,Referrals to supportive social services rendered to senior residents,"94,665","96,548","84,987","70,824","53,763",*,*,Up,Down
+NYCHA,3a,FALSE,Senior centers,38,37,33,32,15,*,*,Neutral,Down
+NYCHA,3b,FALSE,Job training programs - ratio of job placements to program graduates (current period),61%,91%,73%,69%,63%,*,*,Up,Neutral
+NYCHA,3b,FALSE,Youth placed in jobs through youth employment programs,"1,188",607,918,918,888,*,*,Up,Down
+NYCHA,4a,FALSE,Completed requests for interpretation,"134,069","150,619","154,339","187,871","196,996",*,*,Neutral,Up
+NYCHA,4a,FALSE,Letters responded to in 14 days (%),80.6%,74.0%,80.3%,79.0%,84.7%,*,*,Up,Neutral
+NYCHA,4a,FALSE,E-mails responded to in 14 days (%),86.7%,85.8%,87.1%,88.3%,82.9%,*,*,Up,Neutral
+NYCHA,4a,FALSE,Average wait time to speak with a customer service agent (minutes),18,16,19,15,13,*,*,Down,Down
+NYCHA,4a,FALSE,CORE facility rating,80,83,94,93,92,*,*,Up,Up
+NYCHA,4a,FALSE,Calls answered in 30 seconds (%),70.0%,65.0%,68.0%,72.0%,64.0%,*,*,Up,Neutral
+NYCHA,4a,FALSE,Number of agency customers surveyed for overall customer satisfaction,"18,929","21,354","27,660","33,843","25,764",*,*,Up,Up
+NYPD,1a,FALSE,Crime related to domestic violence - Murder,75,71,56,61,53,*,*,Down,Down
+NYPD,1a,FALSE,- Rape,535,464,471,481,526,*,*,Down,Neutral
+NYPD,1a,FALSE,- Felonious assault,"6,781","7,420","8,335","7,771","7,986",*,*,Down,Up
+NYPD,1a,FALSE,- Murder,0,0,1,0,0,*,*,Down,Neutral
+NYPD,1a,FALSE,- Rape,5,4,2,6,2,*,*,Down,Down
+NYPD,1a,FALSE,- Robbery,148,106,94,55,66,*,*,Down,Down
+NYPD,1a,FALSE,- Felonious assault,250,200,172,176,148,*,*,Down,Down
+NYPD,1a,FALSE,- Burglary,81,81,53,51,33,*,*,Down,Down
+NYPD,1a,FALSE,- Grand larceny,326,305,331,325,279,*,*,Down,Neutral
+NYPD,1a,FALSE,- Grand larceny auto,2,3,1,1,4,*,*,Down,Up
+NYPD,1a,FALSE,School safety - Other criminal categories,"3,295","2,626","2,485","2,286","2,219",*,*,Down,Down
+NYPD,1a,FALSE,- Other incidents,"5,365","4,350","3,811","3,975","4,092",*,*,Down,Down
+NYPD,1a,FALSE,Gang motivated incidents,310,264,225,328,349,*,*,Neutral,Up
+NYPD,1a,FALSE,Gun arrests,"5,835","5,581","4,776","4,776","5,194",*,*,Neutral,Down
+NYPD,1a,FALSE,Major felony crime arrests,NA,"40,258","42,444","41,599","43,516",*,*,Neutral,NA
+NYPD,1a,FALSE,Narcotics arrests,"99,344","81,737","75,389","61,007","56,320",*,*,Neutral,Down
+NYPD,1a,FALSE,Juvenile arrests for major felonies,"3,450","3,016","2,883","2,671","2,495",*,*,Neutral,Down
+NYPD,1b,FALSE,Counterterrorism training (hrs) - Uniformed members,"336,552","259,761","206,781","216,556","210,582",*,*,Neutral,Down
+NYPD,1b,FALSE,- Non-members,"74,236","66,186","17,588","26,152","48,607",*,*,Neutral,Down
+NYPD,1c,FALSE,End-to-end average response time to all crimes in progress (minutes:seconds),NA,11:18,10:55,10:58,10:35,*,*,Down,NA
+NYPD,1c,FALSE,End-to-end average response time to critical crimes in progress (minutes:seconds),NA,6:37,7:08,7:29,7:09,*,*,Down,NA
+NYPD,1c,FALSE,End-to-end average response time to serious crimes in progress (minutes:seconds),NA,8:31,8:55,9:38,9:24,*,*,Down,NA
+NYPD,1c,FALSE,End-to-end average response time to non-critical crimes in progress (minutes:seconds),NA,15:58,15:03,16:17,17:21,*,*,Down,NA
+NYPD,1c,FALSE,Average response time to critical crimes in progress (dispatch and travel time only) (minutes),4.6,4.7,4.9,5.9,5.5,*,*,Down,Up
+NYPD,1c,FALSE,Average response time to serious crimes in progress (dispatch and travel time only) (minutes),6.5,6.5,6.8,8.2,8.1,*,*,Down,Up
+NYPD,1c,FALSE,Average response time to non-critical crimes in progress (dispatch and travel time only) (minutes),13.3,13.2,12.0,13.9,14.5,*,*,Down,Neutral
+NYPD,1c,FALSE,Crime in progress calls,NA,NA,NA,"275,032","261,992",*,*,Neutral,NA
+NYPD,2a,FALSE,Driving while intoxicated (DWI) related fatalities,18,40,38,31,35,*,*,Down,Up
+NYPD,2a,FALSE,DWI arrests,NA,"8,723","10,123","8,155","7,577",*,*,Neutral,NA
+NYPD,2a,FALSE,Total moving violation summonses (000),"1,015",999,"1,052","1,005","1,032",*,*,Neutral,Neutral
+NYPD,2a,FALSE,- Summonses for hazardous violations,"706,250","684,012","749,561","832,975","879,790",*,*,Neutral,Up
+NYPD,2a,FALSE,- Summonses for prohibited use of cellular phones,"153,671","148,276","142,112","125,787","125,241",*,*,Neutral,Down
+NYPD,3a,TRUE,Quality-of-life summonses,"497,656","458,397","404,278","331,832","323,980",*,*,Neutral,Down
+NYPD,3a,FALSE,- Unreasonable noise summonses,"14,302","14,044","12,991","8,249","5,487",*,*,Neutral,Down
+NYPD,3a,FALSE,- Graffiti summonses,NA,44,18,11,7,*,*,Neutral,NA
+NYPD,3a,FALSE,Graffiti arrests,NA,"3,502","3,167","2,687","2,123",*,*,Neutral,NA
+NYPD,4a,TRUE,"Courtesy, Professionalism and Respect (CPR) testing - Tests conducted","8,268","8,414","8,558","8,489","8,243",*,*,Neutral,Neutral
+NYPD,4a,FALSE,- Exceptionally good,5,6,8,7,0,*,*,Up,Down
+NYPD,4a,FALSE,- Acceptable,"8,232","8,371","8,508","8,416","8,142",*,*,Neutral,Neutral
+NYPD,4a,FALSE,- Below standard,31,37,42,66,101,*,*,Down,Up
+NYPD,4a,FALSE,Total civilian complaints against members of the service,"5,724","5,455","5,573","4,165","4,711",*,*,Down,Down
+NYPD,5a,FALSE,Cases commenced against the City in state and federal court,"3,628","3,997","3,701","3,549","2,933",*,*,Neutral,Down
+NYPD,5a,FALSE,Payout ($000),"$131,666","$120,676","$154,106","$202,654","$228,454",*,*,Down,Up
+NYPD,5a,FALSE,"Collisions involving City vehicles (per 100,000 miles)",NA,5.3,3.5,3.2,3.9,*,*,Down,NA
+NYPD,5a,FALSE,Workplace injuries reported (uniform and civilian),NA,"8,420","8,512","7,564","7,249",*,*,Down,NA
+NYPD,5a,FALSE,Violations admitted to or upheld at the Environmental Control Board (%),63%,62%,64%,66%,68%,*,*,Neutral,Up
+NYPD,6a,FALSE,Completed requests for interpretation,"258,018","264,803","263,035","273,575","238,382",*,*,Neutral,Neutral
+NYPD,6a,FALSE,Calls answered in 30 seconds (%),100%,99%,99%,99%,99%,*,*,Up,Neutral
+NYPD,6b,FALSE,Percent meeting time to close Ð Residential Noise - Loud Music/Party (0.3 days),94,93,95,93,88,*,*,Neutral,Neutral
+NYPD,6b,FALSE,Percent meeting time to close Ð Residential Noise - Banging/Pounding (0.3 days),92,91,94,91,86,*,*,Neutral,Neutral
+NYPD,6b,FALSE,Percent meeting time to close Ð Noise - Street/Sidewalk (0.3 days),95,94,96,95,90,*,*,Neutral,Neutral
+NYPD,6b,FALSE,Percent meeting time to close Ð Commercial Noise (0.3 days),95,94,97,96,93,*,*,Neutral,Neutral
+NYPD,6b,FALSE,Percent meeting time to close Ð Blocked Driveway - No Access (0.3 days),92,91,94,90,84,*,*,Neutral,Neutral
+NYPL,1a,FALSE,Active library cards (000),580,967,902,"1,320",729,*,*,Neutral,Up
+NYPL,1a,FALSE,New library card registrations,"364,848","355,034","366,357","483,103","277,641",*,*,Neutral,Neutral
+OATH,1a,FALSE,OATH Trials Division cases with decisions issued within 45 business days (%),98%,98%,94%,93%,93%,*,*,Up,Neutral
+OATH,1a,FALSE,Cases filed at the OATH Trials Division (total),"2,027","2,358","2,665","2,754","2,553",*,*,Neutral,Up
+OATH,1a,FALSE,Cases closed at the OATH Trials Division (total),"2,001","2,326","2,425","2,724","2,560",*,*,Neutral,Up
+OATH,1a,FALSE,Cases processed per ALJ (total),179.3,183.0,187.0,188.0,188.6,*,*,Up,Neutral
+OATH,2a,FALSE,Total summonses received from the issuing agencies at the OATH Hearings Division,NA,"594,329","704,213","759,520","826,690",*,*,Neutral,NA
+OATH,2a,FALSE,Total hearings at the OATH Hearings Division,NA,"322,916","283,480","281,704","271,920",*,*,Neutral,NA
+OATH,2a,FALSE,Notices of Violation (NOV) received by OATH ECB Hearings Division,"563,477","464,666","566,566","623,758","700,369",*,*,Neutral,Up
+OATH,2a,FALSE,OATH ECB Hearings Division hearings conducted,"255,718","208,922","195,284","184,631","194,726",*,*,Neutral,Down
+OATH,2a,FALSE,OATH ECB Hearings Division cases with decisions issued within 45 business days of hearing assignment (%),NA,99.7%,99.9%,99.9%,99.9%,*,*,Up,NA
+OATH,2a,TRUE,OATH ECB Hearings Division decisions rendered,"172,409","141,371","142,390","146,266","155,051",*,*,Neutral,Neutral
+OATH,2a,FALSE,Dockets received by the OATH Health Hearings Division,NA,"41,772","40,255","37,776","30,051",*,*,Neutral,NA
+OATH,2a,FALSE,OATH Health Hearings Division hearings conducted,NA,"36,187","37,932","34,013","23,354",*,*,Neutral,NA
+OATH,2a,TRUE,OATH Health Hearings Division decisions rendered,NA,"23,787","26,043","23,731","21,398",*,*,Neutral,NA
+OATH,2a,FALSE,Summonses received by the OATH Vehicle for Hire Hearings Division,NA,"87,891","97,392","97,986","96,270",*,*,Neutral,NA
+OATH,2a,FALSE,OATH Vehicle for Hire Hearings Division hearings conducted,NA,"77,807","59,929","75,402","53,777",*,*,Neutral,NA
+OATH,2a,TRUE,OATH Vehicle for Hire Hearings Division decisions rendered,NA,NA,"50,264","63,060","42,473",*,*,Neutral,NA
+OATH,2a,FALSE,OATH Hearings by Mail (% of total alternative hearings),NA,51.8%,38.0%,31.2%,24.4%,*,*,Neutral,NA
+OATH,2a,FALSE,OATH One-Click Hearings (% of total alternative hearings),NA,36.3%,50.4%,55.0%,58.9%,*,*,Neutral,NA
+OATH,2a,FALSE,OATH Hearings by Phone (% of total alternative hearings),NA,11.9%,11.6%,13.8%,16.7%,*,*,Neutral,NA
+OATH,3a,FALSE,Completed customer requests for interpretation,"7,423","8,734","9,240","9,419","10,185",*,*,Neutral,Up
+OATH,3a,FALSE,Letters responded to in 14 days (%),98%,99.7%,100%,100%,100%,*,*,Up,Neutral
+OATH,3a,FALSE,E-mails responded to in 14 days (%),NA,100%,100%,100%,100%,*,*,Up,NA
+OATH,3a,FALSE,CORE customer experience rating (0-100),87,90,97,94,98,*,*,Up,Up
+OCME,1a,FALSE,Deaths reported,"25,941","27,265","27,505","27,984","27,674",*,*,Neutral,Neutral
+OCME,1a,FALSE,Cases where Chief Medical Examiner takes jurisdiction,"7,152","7,095","7,109","7,136","7,375",*,*,Neutral,Neutral
+OCME,2a,FALSE,Number of decedents' remains transported and stored by OCME,"9,558","9,473","10,456","10,721","10,108",*,*,Neutral,Neutral
+OCME,2a,FALSE,Median time to remove decedents from scene (non-hospital) after investigation (minutes),55.2,42.1,40.1,49.3,56.7,*,*,Down,Neutral
+OCME,3a,FALSE,Remains recovered following a disaster or mass fatality incident (cumulative),"21,818","21,906","21,914","21,916","21,916",*,*,Neutral,Neutral
+OCME,3b,FALSE,Remains identified following a disaster (cumulative),"13,024","13,639","13,979","14,202","14,308",*,*,Up,Neutral
+OCME,4a,FALSE,DNA matches with profiles in database,"1,791","1,618","2,621","6,008","7,758",*,*,Neutral,Up
+OCME,5a,FALSE,Completed customer requests for interpretation,202,164,188,304,664,*,*,Neutral,Up
+OCME,5a,FALSE,Letters responded to in 14 days (%),100%,98%,100%,100%,100%,*,*,Up,Neutral
+OCME,5a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+QPL,1a,FALSE,Active library cards (000),884,866,929,972,841,*,*,Neutral,Neutral
+QPL,1a,FALSE,New library card registrations,"97,761","100,327","198,626","171,677","103,457",*,*,Neutral,Up
+SBS,1a,FALSE,Unique businesses served by NYC Business Solutions,"8,696","11,340","8,344","7,642","9,812",*,*,Up,Neutral
+SBS,1a,FALSE,Value of financing awards facilitated by NYC Business Solutions ($000),"$71,484","$54,101","$44,811","$64,799","$44,983",*,*,Up,Down
+SBS,1a,FALSE,Number of unique businesses served by NYC Business Acceleration,NA,"4,989","6,377","5,899","5,122",*,*,Up,NA
+SBS,1a,FALSE,Projected number of hires by businesses opened by NYC Business Acceleration,NA,"9,280","13,090","12,037","12,759",*,*,Up,NA
+SBS,1a,FALSE,Site consultations by NYC Business Acceleration inspectors,NA,215,678,"1,031","1,052",*,*,Up,NA
+SBS,1b,FALSE,Value of Energy Cost Savings Program savings for businesses ($000),$597,$760,$176,$841,$878,*,*,Neutral,Up
+SBS,1b,FALSE,Jobs created or retained by Energy Cost Savings Program,"2,521","4,122",361,"5,164","1,060",*,*,Neutral,Down
+SBS,1b,FALSE,Value of Lower Manhattan Energy Program savings for active commercial tenants (cumulative) ($000),"$25,032","$17,418","$14,546","$12,433","$10,028",*,*,Neutral,Down
+SBS,1b,FALSE,Commercial tenants active in Lower Manhattan Energy Program,"1,403","1,095","1,059","1,152","1,007",*,*,Neutral,Down
+SBS,2a,FALSE,New jobseekers registered through the Workforce1 Career Center system,"73,518","84,515","82,619","55,133","55,647",*,*,Neutral,Down
+SBS,2a,FALSE,Walk-in traffic at Workforce1 Centers,"312,009","320,273","367,695","266,663","273,753",*,*,Neutral,Down
+SBS,2a,TRUE,Businesses awarded funding for employer-based training,NA,NA,NA,NA,57,*,*,Neutral,NA
+SBS,3a,FALSE,"Value of AvenueNYC local development corporations funding ($000,000)",$1.74,$1.50,$1.38,$1.38,$1.30,*,*,Neutral,Down
+SBS,4a,FALSE,Newly certified and recertified businesses in M/WBE Program,"1,022","1,061",923,"1,003","1,030",*,*,Up,Neutral
+SBS,5a,FALSE,CORE customer experience rating (0-100),92,93,95,95,98,*,*,Up,Neutral
+SBS,5a,FALSE,Letters responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+SBS,5a,FALSE,E-mails responded to in 14 days (%),100%,100%,100%,100%,100%,*,*,Up,Neutral
+SBS,5a,FALSE,Completed customer requests for interpretation,NA,NA,NA,"2,351","7,281",*,*,Neutral,NA
+SCA,1b,FALSE,Average new school construction cost per square foot  - Early childhood ($),NA,NA,NA,NA,NA,*,*,Down,NA
+SCA,1b,FALSE,- Elementary ($),$529,$553,$552,$631,$657,*,*,Down,Up
+SCA,1b,FALSE,- Intermediate ($),NA,$638,$604,NA,$573,*,*,Down,NA
+SCA,1b,FALSE,- High school ($),$525,$533,NA,$498,NA,*,*,Down,NA
+SCA,1d,FALSE,Ultimate cost of insurance losses as % of construction value (per calendar year),6.49%,6.97%,4.66%,6.62%,NA,*,*,Down,NA
+TLC,1a,FALSE,Active medallion taxis that are accessible,NA,NA,553,572,876,*,*,Up,NA
+TLC,1a,FALSE,Active Boro Taxis that are accessible,NA,NA,492,"1,240","1,393",*,*,Up,NA
+TLC,1a,FALSE,Accessible dispatch median wait time in Manhattan (hours:minutes),NA,NA,0:15,0:13,0:13,*,*,Down,NA
+TLC,1a,FALSE,Accessible dispatch trips fulfilled as a percent of requested trips (%),NA,NA,81.0%,88.7%,89.2%,*,*,Up,NA
+TLC,1a,FALSE,Active medallion vehicles with hearing induction loops,NA,NA,312,668,"1,410",*,*,Up,NA
+TLC,1b,FALSE,Medallion safety and emissions inspections conducted,"51,582","51,786","52,046","51,769","50,894",*,*,Neutral,Neutral
+TLC,1b,FALSE,- Re-inspection (%),9.1%,8.1%,7.9%,7.4%,6.5%,*,*,Down,Down
+TLC,1b,FALSE,Medallion safety and emissions inspections completed on schedule (%),95.9%,94.9%,96.0%,95.5%,95.6%,*,*,Up,Neutral
+TLC,1b,FALSE,For-hire vehicle (FHV) safety and emissions inspections conducted at TLC facility,"37,373","39,634","40,498","47,176","49,949",*,*,Neutral,Up
+TLC,1b,FALSE,- Re-Inspection (%),15.6%,15.1%,14.4%,13.6%,12.5%,*,*,Down,Down
+TLC,1b,FALSE,FHV safety and emissions inspections completed on schedule (%),99.9%,99.8%,99.9%,99.8%,100.0%,*,*,Up,Neutral
+TLC,1b,FALSE,Boro Taxi safety and emissions inspections conducted,NA,NA,"11,202","20,024","20,676",*,*,Neutral,NA
+TLC,1b,FALSE,Boro Taxis safety and emissions failure rate - Initial inspection (%),NA,NA,49.7%,51.1%,49.1%,*,*,Down,NA
+TLC,1b,FALSE,- Re-inspection (%),NA,NA,13.0%,12.8%,12.4%,*,*,Down,NA
+TLC,1c,FALSE,Medallion patrol summonses issued,"3,574","7,240","7,676","12,141","16,687",*,*,Neutral,Up
+TLC,1c,FALSE,Administrative summonses issued to medallions,"15,460","14,877","6,953","12,284","8,721",*,*,Neutral,Down
+TLC,1c,FALSE,FHV patrol summonses issued,"41,254","32,633","41,939","49,531","45,403",*,*,Neutral,Up
+TLC,1c,TRUE,Summonses issued for illegal street hails and unlicensed activity,"30,664","17,935","25,344","23,300","18,929",*,*,Neutral,Down
+TLC,1c,FALSE,Administrative summonses issued to FHVs,"3,945","5,861","6,403","14,328","16,903",*,*,Neutral,Up
+TLC,1c,FALSE,Violations admitted to or upheld at the Taxi and Limousine Tribunal at the Office of Administrative Trials and Hearings (%),NA,83.0%,85.4%,91.5%,90.9%,*,*,Up,NA
+TLC,1d,FALSE,Medallion drivers' licenses issued,"27,816","28,057","29,569","29,794","32,857",*,*,Neutral,Up
+TLC,1d,FALSE,For-hire vehicle drivers' licenses issued,"33,374","34,229","40,388","61,691","64,544",*,*,Neutral,Up
+TLC,1d,FALSE,Average time to receive a new medallion driver's license from initial application (calendar days),50.9,49.6,62.3,67.0,58.0,*,*,Down,Up
+TLC,1d,FALSE,- Average agency processing time,NA,NA,NA,NA,13.1,*,*,Down,NA
+TLC,1d,FALSE,Average time to receive a FHV driver's license from initial application (calendar days),21.5,19.9,61.7,43.6,68.2,*,*,Down,Up
+TLC,1d,FALSE,- Average agency processing time,NA,NA,NA,NA,26.7,*,*,Down,NA
+TLC,1d,FALSE,Average time to conduct a safety and emissions inspection of a Boro Taxi (hours:minutes),NA,NA,0:57,0:55,0:51,*,*,Down,NA
+TLC,1e,FALSE,Medallion driver complaints received,"19,161","18,109","17,409","15,967","18,532",*,*,Down,Neutral
+TLC,1e,FALSE,- Complaints that were eligible for prosecution,"4,555","7,843","6,848","6,553","7,876",*,*,Neutral,Up
+TLC,1e,FALSE,FHV driver complaints received,"2,761","3,002","2,666","3,290","5,395",*,*,Down,Up
+TLC,1e,FALSE,- Complaints that were eligible for prosecution,188,497,757,"1,368","2,351",*,*,Neutral,Up
+TLC,2a,FALSE,Medallion vehicles,"13,237","13,237","13,587","13,587","13,587",*,*,Neutral,Neutral
+TLC,2a,FALSE,For-hire vehicles (includes Boro Taxis),"41,044","43,668","51,145","65,016","78,814",*,*,Neutral,Up
+TLC,2a,FALSE,- Boro Taxis,NA,NA,"5,048","7,077","7,237",*,*,Neutral,NA
+TLC,3a,FALSE,Calls answered in 30 seconds (%),NA,NA,NA,NA,NA,*,*,Up,NA
+TLC,3a,FALSE,Completed customer requests for interpretation,"6,163","7,990","5,721","5,336","6,880",*,*,Neutral,Neutral
+ACS,3a,TRUE,Escapes from secure detention,0,0,0,0,0,0,0,Down,Neutral
+CCRB,1a,TRUE,Substantiated cases in which the statute of limitations expired (%),1%,10%,3%,1%,0%,0%,0%,Down,Down
+ACS,3a,TRUE,Abscond rate in non-secure detention (average per 100 total ADP in non-secure),0.02,0.05,0.08,0.05,0.03,0.03,0.03,Down,Up
+ACS,3a,TRUE,"Youth on staff assault w/injury rate (per 100 total ADP), detention",0.04,0.06,0.05,0.05,0.08,0.04,0.04,Down,Up
+ACS,3a,FALSE,"Youth on staff assault with injury rate, Close to home placement",NA,NA,0.05,0.05,0.07,0.05,0.05,Down,NA
+ACS,3a,TRUE,"Child abuse and/or neglect allegation rate (internal) (average per 100 total ADP), detention",0.09,0.11,0.10,0.15,0.11,0.09,0.09,Down,Up
+ACS,3a,FALSE,"Youth on youth assault with injury rate, Close to home placement",NA,NA,0.14,0.12,0.10,0.10,0.09,Down,NA
+DoITT,1b,FALSE,Average time to resolve service incidents - Urgent (days),0.3,0.8,0.7,0.7,0.4,0.1,0.1,Down,Up
+DOB,1a,TRUE,Average time to complete application processing (days),0.20,0.09,0.09,0.07,0.05,0.10,0.10,Down,Down
+DoITT,1b,FALSE,Average time to resolve service incidents - High (days),0.6,1.4,0.5,0.4,0.8,0.2,0.2,Down,Down
+TLC,1d,TRUE,Average wait time at Long Island City licensing facility (hours: minutes),0:23,0:14,0:28,0:16,0:25,0:25,0:25,Down,Up
+3-1-1,1a,TRUE,Average wait time (tier 1 calls) (minutes:seconds),0:45,0:38,0:23,0:23,0:16,0:30,0:30,Down,Down
+ACS,3a,TRUE,"Youth on youth assaults and altercations with injury rate (per 100 total ADP), detention",0.44,0.34,0.35,0.30,0.39,0.35,0.35,Down,Down
+ACS,3a,FALSE,"AWOL rate, Close to Home placement",NA,NA,0.7,0.4,0.3,0.4,0.4,Down,NA
+DOHMH,7a,FALSE,Average wait time to speak with a customer service agent (minutes),12,11,9,8,1,10,10,Down,Down
+DOB,2a,TRUE,Average time to respond to Priority A complaints (days),0.6,0.7,0.7,0.7,0.8,1.0,1.0,Down,Up
+DEP,2a,TRUE,Street segments with recurring confirmed sewer backups in the last 12 months (% of total segments),0.6%,0.5%,0.4%,0.3%,0.3%,1.0%,1.0%,Down,Down
+DEP,2a,TRUE,Backlog of catch basin repairs (% of system),1.1%,0.5%,0.3%,0.4%,0.6%,1.0%,1.0%,Down,Down
+DOC,1d,FALSE,Jail-cells unavailable (short-term repair) (%),1.8%,3.1%,2.8%,2.3%,2.3%,1.0%,1.0%,Down,Neutral
+TLC,1d,TRUE,Average time to conduct a safety and emissions inspection of a medallion taxi (hours:minutes),1:18,0:55,0:53,0:50,0:48,1:00,1:00,Down,Down
+TLC,1d,TRUE,Average time to conduct a safety and emissions inspection of a FHV (hours:minutes),1:22,0:56,1:00,0:57,0:49,1:00,1:00,Down,Down
+DEP,5a,TRUE,Average days to close asbestos complaints,0.20,0.29,0.26,0.37,0.34,1.00,1.00,Down,Up
+DEP,2a,TRUE,Broken and inoperative hydrants (%),0.36%,0.31%,0.44%,0.50%,0.51%,1.00%,1.00%,Down,Up
+DOB,1b,TRUE,Average days to complete first plan review (Borough offices) -  Major renovation (Alteration I),11.3,12.0,11.3,15.2,12.2,10.0,10.0,Down,Up
+DOF,3a,TRUE,Average time to process initial SCRIE applications (days),NA,17.3,4.4,7.7,4.7,10.0,10.0,Down,NA
+DOF,3a,TRUE,Average time to process renewal SCRIE applications (days),NA,13.4,9.6,8.9,6.9,10.0,10.0,Down,NA
+DOF,3a,TRUE,Average time to process initial DRIE applications (days),NA,NA,NA,NA,7.5,10.0,10.0,Down,NA
+DOF,3a,TRUE,Average time to process renewal DRIE applications (days),NA,NA,NA,NA,7.6,10.0,10.0,Down,NA
+NYCHA,1b,TRUE,Average time to resolve elevator outages (hours),3.8,5.8,5.7,6.5,8.7,10.0,10.0,Down,Up
+OCME,4a,FALSE,Median time to complete toxicology DUI (driving under the influence) cases (days),15.0,14.0,20.0,30.0,43.0,10.0,10.0,Down,Up
+DOC,2b,TRUE,Inmates participating in skills-building activities/discharge planning (%),10.0%,10.9%,10.3%,10.5%,8.7%,10.0%,10.0%,Up,Down
+ACS,3b,TRUE,Residents seen within 24 hours of sick call report (%),100%,100%,100%,100%,100%,100%,100%,Up,Neutral
+BPL,1a,TRUE,Libraries open six days per week (%),52%,47%,38%,65%,100%,100%,100%,Up,Up
+DCA,1a,FALSE,- Within 0-90 days (%),NA,NA,NA,100%,100%,*,100%,Up,NA
+DCAS,1c,TRUE,Exams administered on schedule (%),100%,100%,100%,100%,100%,100%,100%,Up,Neutral
+DCLA,1a,FALSE,Operating support payments made to Cultural Institutions Group by the 5th day of each month (%),100%,100%,100%,100%,100%,100%,100%,Up,Neutral
+DEP,1a,TRUE,In-City samples meeting water quality standards for coliform bacteria (%),100%,100%,100%,100%,100%,100%,100%,Up,Neutral
+DORIS,1a,FALSE,Percent of required agency reports submitted to the Municipal Library publications portal,NA,NA,NA,NA,60%,100%,100%,Up,NA
+DOT,5a,FALSE,Bridge projects (structural work) substantially completed on schedule (%),91%,71%,100%,100%,100%,100%,100%,Up,Up
+DYCD,1a,FALSE,Beacon programs' enrollment as a percentage of the minimum annual target (%),117%,156%,110%,110%,100%,100%,100%,Up,Down
+LPC,1b,FALSE,Expedited Certificates of No Effect issued within two days (%),92%,100%,97%,90%,99%,100%,100%,Up,Neutral
+NYPL,1a,TRUE,Libraries open six days per week (%),100%,100%,100%,100%,100%,100%,100%,Up,Neutral
+NYPL,2a,TRUE,Libraries open six days per week (%),75%,75%,75%,100%,100%,100%,100%,Up,Up
+QPL,1a,TRUE,Libraries open six days per week (%),32%,33%,33%,33%,100%,100%,100%,Up,Up
+SCA,1c,TRUE,Scheduled new seats constructed on time (%),100%,100%,100%,100%,96%,100%,100%,Up,Neutral
+CCHR,2a,FALSE,"Conferences, workshops and training sessions","1,217","1,114","1,288","1,394","1,094","1,000","1,000",Up,Neutral
+H + H,1a,FALSE,Hospital-acquired Central Line-acquired Bloodstream Infection (CLABSI) rate,NA,1.133,0.890,0.940,0.900,1.000,1.000,Down,NA
+ACS,1a,TRUE,Abuse and/or neglect reports responded to within 24 hours of receipt from the State Central Register (%),92.1%,92.9%,98.8%,98.8%,98.6%,100.0%,100.0%,Up,Neutral
+DEP,2a,FALSE,Catch basins surveyed/inspected (%) (cumulative),33.1%,30.0%,31.0%,31.4%,31.3%,33.3%,100.0%,Neutral,Neutral
+DEP,3a,TRUE,Wastewater treatment plant (WWTP) effluent meeting federal standards (%),99.9%,99.5%,99.6%,99.5%,99.5%,100.0%,100.0%,Up,Neutral
+DEP,4b,TRUE,Total revenue as percent of target (%),101.1%,104.4%,105.2%,105.3%,104.5%,100.0%,100.0%,Up,Neutral
+DOE,5a,FALSE,Teachers hired to fill projected vacancies (%),100.0%,100.0%,100.0%,100.0%,100.0%,100.0%,100.0%,Neutral,Neutral
+DOHMH,3b,FALSE,Restaurants inspected (%),99.4%,99.6%,99.8%,99.9%,99.8%,100.0%,100.0%,Up,Neutral
+HRA,4a,TRUE,Serious personal care complaints resolved in 24 hours (%),100.0%,100.0%,100.0%,100.0%,100.0%,100.0%,100.0%,Up,Neutral
+SCA,1c,FALSE,New schools and additions - construction funds committed as a percent of initial authorized budget (%),92.9%,95.4%,92.6%,92.9%,93.0%,100.0%,100.0%,Up,Neutral
+QPL,1a,TRUE,Program attendance,"712,849","664,851","806,128","884,622","1,110,842","900,000","1,000,000",Up,Up
+NYPL,2a,TRUE,Program attendance,"109,228","87,990","70,192","92,206","100,330","95,000","100,330",Up,Neutral
+NYCHA,1b,TRUE,Average outage per elevator per month,1.01,0.97,1.00,0.99,1.13,1.01,1.01,Down,Up
+BPL,1a,TRUE,Program attendance,"833,168","664,449","782,805","928,740","994,279","988,532","1,018,188",Up,Up
+DOE,1b,FALSE,Parents attending school-based workshops (000),461,793,785,976,"1,036",600,"1,037",Up,Up
+DDC,1a,FALSE,Construction projects completed,111,117,118,125,135,102,104,Neutral,Up
+HPD,2a,FALSE,- Preservation completions,NA,NA,"7,171","8,103","14,212","6,796","10,433",Neutral,NA
+DHS,2a,TRUE,Average number of single adults in shelters per day,"8,622","9,536","10,116","11,330","12,727","10,475","10,475",Down,Up
+DOHMH,3c,FALSE,Dogs licensed (000),NA,79.0,85.0,83.0,85.0,105.0,105.0,Neutral,NA
+DDC,1a,FALSE,Design projects completed,141,127,128,179,186,146,106,Neutral,Up
+DSNY,2a,TRUE,Refuse tons per truck-shift,10.0,9.9,9.6,9.5,9.7,10.7,10.7,Neutral,Neutral
+NYCEM,1b,TRUE,Full-scale and functional exercises/drills,9,1,3,4,11,4,11,Up,Up
+DYCD,1a,FALSE,Comprehensive After School System of NYC (COMPASS NYC) enrollment,"63,000","65,957","71,585","112,600","122,792","105,000","110,000",Neutral,Up
+DOHMH,2b,FALSE,Adult New Yorkers without health insurance (%) (CY),18.6%,19.8%,20.9%,13.8%,12.6%,12.4%,11.2%,Down,Down
+DHS,2a,TRUE,Average number of families with children in shelters per day,"8,445","9,840","10,649","11,819","12,089","11,360","11,360",Down,Up
+ACS,1b,TRUE,Families entering child welfare preventive services,"8,780","9,074","10,293","11,015","10,540","11,200","11,800",Up,Up
+BPL,1a,FALSE,Electronic visits to website (000),"6,123","11,098","10,748","11,391","11,161","11,000","11,900",Up,Up
+DOF,7a,FALSE,Average customer in-person wait time (minutes),11,7,17,9,4,12,12,Down,Down
+CCRB,1a,TRUE,Average time to complete a full investigation (days),293,386,324,283,162,120,120,Down,Down
+CCRB,1b,TRUE,Average mediation case completion time (days),181,284,225,170,93,120,120,Down,Down
+ACS,1a,TRUE,Average child protective specialist caseload,8.7,8.2,9.8,10.5,10.6,12.0,12.0,Down,Up
+DEP,2a,TRUE,Leak resolution time (days) (City infrastructure only),10.7,10.0,9.8,9.3,10.2,12.0,12.0,Down,Neutral
+DOB,1b,TRUE,Average days to complete first plan review (Borough offices) - New buildings,12.6,16.1,8.8,14.9,11.1,12.0,12.0,Down,Down
+DORIS,1b,TRUE,Average response time to vital record requests (days),8.8,10.4,14.0,21.4,11.5,12.0,12.0,Down,Up
+HPD,1a,TRUE,Average time to close emergency complaints (days),10.3,10.2,11.9,13.3,11.3,12.0,12.0,Down,Up
+HPD,2a,FALSE,- Preservation starts,NA,NA,"6,569","11,839","17,190","10,743","12,000",Neutral,NA
+QPL,1a,TRUE,Total library attendance (000),"12,681","11,888","11,191","11,287","11,247","11,880","12,000",Up,Down
+DHS,3b,TRUE,Adult families who exited to permanent housing and returned to the DHS shelter services system within one year (%),5.6%,15.0%,12.5%,14.2%,8.7%,12.5%,12.5%,Down,Up
+DHS,3b,TRUE,Families with children who exited to permanent housing and returned to the DHS shelter services system within one year (%),4.4%,9.5%,12.5%,16.5%,10.0%,12.5%,12.5%,Down,Up
+DOHMH,2a,TRUE,Adults who smoke (%) (CY),14.8%,15.5%,16.1%,13.9%,14.3%,13.5%,13.2%,Down,Neutral
+DOT,2b,TRUE,Staten Island Ferry - Customer accident injury rate (per million passengers),2.12,1.12,1.51,1.48,0.81,1.34,1.34,Down,Down
+NYPL,1a,TRUE,Total library attendance (000),"14,836","14,185","13,971","14,014","13,867","14,150","13,800",Up,Neutral
+ACS,1c,TRUE,"Number of moves in foster care per 1,000 care days",1.5,1.3,1.4,1.5,1.4,1.4,1.4,Down,Neutral
+CCRB,1a,TRUE,Average time to complete a substantiated investigation (days),384,438,394,329,178,140,140,Down,Down
+DOF,2b,TRUE,Average turnaround time to issue decision for parking ticket hearing-by-mail (days),23.2,4.2,10.3,8.3,7.0,14.0,14.0,Down,Down
+H + H,1a,FALSE,Calendar days to third next available new appointment - adult medicine,NA,NA,NA,26.0,23.0,14.0,14.0,Down,NA
+ACS,1a,TRUE,Children in substantiated investigations with repeat substantiated investigations within a year (%)(preliminary),16.2%,15.7%,16.2%,15.7%,15.2%,14.0%,14.0%,Down,Neutral
+DOE,1b,FALSE,In-person consultations with parents by PC or parent engagement designee (000),698,"1,129","1,275","1,450","1,593",759,"1,400",Up,Up
+DYCD,1b,FALSE,Runaway and homeless youth served - crisis beds,"1,346","1,478","1,744","2,193","2,539","1,400","1,400",Neutral,Up
+QPL,1a,TRUE,Library card holders (000),"1,152","1,275",929,972,841,900,"1,400",Up,Down
+DOB,2b,TRUE,Construction inspections completed,"141,237","131,444","142,222","139,323","148,162","140,000","140,000",Up,Neutral
+DOE,2a,FALSE,English language learners testing out of ELL Programs (%),16.5%,16.3%,17.4%,18.2%,13.1%,17.0%,14.1%,Up,Down
+DOE,2b,TRUE,Students with disabilities in cohort dropping out from high school in 4 years (%) (NYSED),19.9%,17.6%,15.8%,15.4%,NA,15.8%,14.4%,Down,NA
+BPL,1a,TRUE,Library card holders (000),915,"1,062","1,243","1,362","1,523","1,436","1,473",Up,Up
+BPL,1a,FALSE,Computers for public use,"1,353","1,413","1,436","1,436","1,633","1,488","1,488",Up,Up
+DCA,2a,TRUE,Licensing Center wait time (minutes),13,11,16,13,8,15,15,Down,Down
+DDC,1a,TRUE,Active design projects: Difference between projected and scheduled duration (%),1.2%,1.6%,2.0%,1.3%,-0.4%,1.5%,1.5%,Down,Down
+DORIS,1b,TRUE,Average response time to historical photo requests (days),14.0,14.1,9.0,17.2,22.9,15.0,15.0,Down,Up
+NYCHA,1b,TRUE,Average time to resolve non-emergency service requests (days),30.0,42.5,27.6,14.0,14.7,15.0,15.0,Down,Down
+DOT,3a,FALSE,Bicycle racks installed,"1,286","3,541","3,656","2,408","1,300","1,500","1,500",Up,Down
+DoITT,4a,TRUE,LinkNYC kiosks on City streets,NA,NA,NA,NA,198,510,"1,530",Neutral,NA
+HRA,4a,TRUE,Average number of days from submission of a completed application to issuance of enhanced housing benefits to HASA clients,17.3,14.5,14.1,14.2,16.3,15.5,15.5,Down,Neutral
+BPL,1a,TRUE,Circulation (000),"19,579","17,461","15,731","15,205","14,933","15,661","15,661",Up,Down
+DOE,2b,TRUE,- Math (%),38.2%,3.6%,11.4%,13.5%,14.7%,23.2%,15.7%,Up,Down
+NYCHA,3b,TRUE,Resident job placements,"1,593","1,567",874,"1,084","1,410","1,593","1,593",Up,Down
+LAW,1c,TRUE,Cases pending in federal court,NA,"1,711","1,659","1,652","1,649","1,675","1,650",Down,NA
+QPL,1a,TRUE,Circulation (000),"18,632","17,470","15,759","13,587","13,091","16,000","16,500",Up,Down
+DOE,3b,FALSE,Percent of high school cohort passing at least 1 AP exam in 4 years of high school,11.7%,13.5%,14.9%,15.6%,NA,15.9%,16.6%,Up,NA
+DoITT,2b,TRUE,Data sets available for download on NYC.gov/OpenData,778,"1,139","1,273","1,369","1,552","1,460","1,679",Up,Up
+DCA,5a,FALSE,Average customer in-person wait time (minutes),14,12,16,13,9,17,17,Down,Down
+OCME,1a,TRUE,Median time for scene arrivals by medicolegal investigators (MLIs) (hours),1.8,1.9,1.8,1.9,2.4,1.7,1.7,Down,Up
+OCME,4a,FALSE,Median time to complete toxicology sexual assault cases (days),30.5,27.0,27.0,43.0,84.0,17.0,17.0,Down,Up
+HPD,2a,TRUE,Total housing completions (New Housing Marketplace Plan and Housing New York) (units),NA,NA,"9,284","10,128","18,442","11,708","17,343",Neutral,NA
+NYPL,1a,TRUE,Program attendance,"1,058,899","1,120,064","1,209,148","1,443,213","1,713,362","1,486,500","1,750,000",Up,Up
+LAW,1a,FALSE,-  Cases commenced against the City in federal court,"2,013","1,781","1,787","1,810","1,498","1,800","1,775",Neutral,Down
+NYCEM,1b,TRUE,Tabletop exercises and simulations,23,23,19,19,27,18,18,Up,Neutral
+BIC,1b,TRUE,Average age of pending waste hauling applications (days),168,198,221,208,214,180,180,Down,Up
+DOI,1b,TRUE,Average time to complete an investigation (days),229,163,160,193,145,185,180,Down,Down
+OCME,1c,FALSE,Median time to process cremation requests (minutes),78.6,123.9,136.0,184.5,174.7,180.0,180.0,Down,Up
+FDNY,1a,FALSE,Completed inspections performed by civilian fire prevention personnel,"189,768","184,749","190,346","195,223","206,959","185,000","187,000",Up,Neutral
+DHS,2a,TRUE,Average number of adult families in shelters per day,"1,450","1,723","1,866","2,110","2,212","1,950","1,950",Down,Up
+DOE,1b,FALSE,Parents attending Fall and Spring Parent-Teacher Conferences (000),849,"1,416","1,437","1,910","1,983","1,282","1,984",Up,Up
+DOI,2a,TRUE,"Time to notify agencies of prospective childcare, home care and family care workers with criminal records after receipt from State Division of Criminal Justice Services and FBI (days)",1,1,1,1,1,2,2,Down,Neutral
+DYCD,4a,FALSE,Contracts terminated,2,4,4,2,13,2,2,Neutral,Up
+LPC,1a,TRUE,Individual landmarks and historic districts designated,36,20,11,15,20,20,20,Neutral,Down
+OATH,2a,TRUE,Average time from OATH ECB Hearings Division hearing assignment to decision (days),8,5,6,6,6,20,20,Down,Down
+DORIS,2a,TRUE,Average response time to agency requests for inactive records (days),1.3,1.2,1.0,0.9,1.2,2.0,2.0,Down,Down
+DORIS,2c,TRUE,Average time between records disposal eligibility and application sent to Law Department (months),1.1,0.6,0.6,0.5,0.6,2.0,2.0,Down,Down
+BIC,2b,TRUE,Average time to approve public wholesale market applications (days),221,151,152,382,309,200,200,Down,Up
+DOT,1c,TRUE,Average time to respond to high priority traffic signal defect and make safe (hours:minutes),NA,NA,2:05,1:47,1:50,2:00,2:00,Down,NA
+HPD,1a,TRUE,Average time to close nonemergency complaints (days),41.7,14.5,18.1,27.9,23.3,20.0,20.0,Down,Down
+NYCHA,1c,TRUE,Average time to prepare vacant apartments (days),31.8,39.6,43.7,38.2,40.7,20.0,20.0,Down,Up
+OATH,1a,TRUE,Average adjournment time at the OATH Trials Division (business days),14.8,16.6,15.7,16.9,17.5,20.0,20.0,Down,Up
+DOB,1b,FALSE,Jobs professionally certified that were audited (%),24.8%,20.3%,18.2%,13.8%,14.5%,20.0%,20.0%,Up,Down
+DCAS,1d,FALSE,"City employees participating in diversity, inclusion and equal employment opportunity e-learning sessions","24,655","5,183","1,761","9,619","30,739","15,000","20,000",Neutral,Up
+HPD,2a,TRUE,Total housing starts under Housing New York (units),NA,NA,"9,328","20,324","23,287","18,000","20,000",Neutral,NA
+DDC,1a,FALSE,Lane miles reconstructed,28.0,51.8,42.6,20.4,16.7,6.0,20.4,Neutral,Down
+DOHMH,2a,FALSE,Adults who consume one or more sugar-sweetened beverages per day (%) (CY),29.9%,28.2%,23.3%,22.5%,23.7%,21.2%,20.8%,Down,Down
+DSNY,3a,TRUE,Curbside and containerized recycling diversion rate (%),15.1%,15.1%,15.4%,16.0%,16.9%,19.0%,21.0%,Up,Up
+NYPL,1a,TRUE,Library card holders (000),"1,985","2,210","2,302","2,230","2,060","2,350","2,100",Up,Neutral
+NYPL,2a,FALSE,Program sessions,"1,983","1,741","1,501","1,953","2,060","2,010","2,100",Up,Neutral
+LAW,1b,TRUE,Cases pending in state court,"17,020","17,884","19,039","20,059","21,452","21,000","21,500",Down,Up
+BPL,1a,FALSE,Computer sessions (000),"2,288","2,270","2,152","2,188","2,164","2,167","2,188",Up,Neutral
+SCA,1a,TRUE,New schools and additions constructed,14,19,11,52,29,39,22,Neutral,Up
+DOE,1a,TRUE,Average class size - Kindergarten (end of January) (Audited),22.8,23.1,22.8,22.9,22.6,22.8,22.1,Down,Neutral
+NYPL,1a,TRUE,Circulation (000),"28,278","25,949","24,722","23,296","22,723","23,300","22,100",Up,Down
+DOE,2b,TRUE,Students in special education scoring below standards progressing into a higher level  - English Language Arts (%),32.0%,3.4%,6.7%,16.4%,21.7%,20.0%,22.7%,Up,Down
+DSNY,3a,FALSE,Recycled tons per day,"2,065","2,058","2,088","2,197",NA,"2,270","2,270",Up,NA
+CCHR,1a,TRUE,- Cases closed (%) - settlement,26%,20%,26%,22%,27%,23%,23%,Up,Neutral
+NYCHA,1b,TRUE,Average time to resolve emergency service requests (hours),7.5,13.6,11.0,14.7,13.1,24.0,24.0,Down,Up
+NYCHA,1b,TRUE,Average time to resolve heat service requests (hours),11.9,19.8,13.6,19.0,17.3,24.0,24.0,Down,Up
+DOHMH,2a,FALSE,Adults who are obese (%) (CY),23.7%,24.2%,23.4%,24.7%,24.1%,24.2%,24.0%,Down,Neutral
+DOE,1a,TRUE,- Grade 1,23.9,24.6,25.1,24.9,24.9,25.1,24.4,Down,Neutral
+DOE,1a,TRUE,- Grade 2,24.2,24.7,25.3,25.3,25.2,25.3,24.7,Down,Neutral
+DOF,2b,TRUE,Average turnaround time for in-person parking ticket hearings (minutes),18,19,25,19,14,25,25,Down,Down
+DDC,1a,TRUE,Active construction projects: Difference between projected and scheduled duration (%),1.9%,1.9%,2.4%,1.9%,-2.7%,2.5%,2.5%,Down,Down
+NYPL,2a,FALSE,Libraries open seven days per week (%),25%,25%,25%,25%,25%,25%,25%,Up,Neutral
+CCHR,2a,FALSE,School-based training sessions conducted,401,392,272,326,79,250,250,Up,Down
+DOT,2a,TRUE,Speed humps installed,184,300,274,382,395,250,250,Up,Up
+DYCD,1b,FALSE,Runaway and homeless youth served - transitional independent living beds,341,332,355,361,519,250,250,Neutral,Up
+OATH,1a,TRUE,Average time for the OATH Trials Division to issue decisions after records closed (business days),13.4,13.9,15.2,7.5,5.4,25.0,25.0,Down,Down
+DSNY,1b,TRUE,Vacant lot cleaning requests,NA,"3,056","2,539","2,367","2,779","2,500","2,500",Neutral,NA
+EDC,3b,TRUE,- Projected three-year job growth associated with closed contracts,"1,452","5,348","12,238","10,822","3,639","2,500","2,500",Up,Up
+LAW,1b,FALSE,- Cases pending on trial calendar,NA,"2,256","2,260","2,255","2,425","2,300","2,500",Neutral,NA
+NYCEM,1b,TRUE,Participants at instructor-led emergency management training sessions,"2,815","1,596","2,555","2,783","3,430","2,000","2,500",Up,Up
+DCAS,1d,TRUE,City employees/participants attending training sessions,"15,177","17,085","20,252","25,989","40,586","25,000","25,000",Up,Up
+SBS,2a,TRUE,Workforce1 systemwide job placements and promotions,"30,900","28,166","36,097","26,952","28,455","25,000","25,000",Up,Neutral
+DOE,1a,TRUE,- Grade 3,24.5,25.2,25.5,25.6,25.7,25.5,25.2,Down,Neutral
+ACS,2a,TRUE,EarlyLearn - Average center-based enrollment,NA,"25,548","24,068","23,077","23,396","25,311","25,311",Up,NA
+DOE,1a,TRUE,- Grade 4,25.3,25.5,25.9,26.1,26.1,25.9,25.6,Down,Neutral
+DOE,1a,TRUE,- Grade 5,25.8,25.9,26.0,26.0,26.3,26.0,25.8,Down,Neutral
+DOP,2a,TRUE,Adult probationers arrested citywide as a percentage of the NYPD arrest report (monthly average),2.6%,2.8%,2.9%,3.1%,3.3%,2.6%,2.6%,Down,Up
+DORIS,1a,FALSE,Records preserved and digitized,"241,515","121,955","101,033","10,651,475","7,422,426","260,000","260,000",Up,Up
+NYPL,1a,FALSE,Wireless sessions,"1,690,842","2,792,196","2,424,966","1,644,366","2,650,115","2,450,000","2,600,000",Up,Up
+DOE,1a,TRUE,- Grade 6,27.0,26.8,26.6,26.4,26.7,26.6,26.2,Down,Neutral
+DFTA,1b,FALSE,Average daily attendance at senior centers,"25,337","24,257","23,983","27,812","29,682","26,342","26,342",Up,Up
+DOE,1a,TRUE,- Grade 7,27.2,27.6,27.1,27.3,27.1,27.1,26.6,Down,Neutral
+DOE,1a,TRUE,- Grade 8,27.4,27.6,27.8,27.3,27.4,27.8,26.9,Down,Neutral
+ACS,1e,TRUE,Children in care 12-23 months discharged to permanency (%),19.4%,19.6%,21.5%,20.1%,24.4%,21.0%,27.0%,Up,Up
+ACS,1e,TRUE,Children in care 24 or more months discharged to permanency (%),22.4%,23.8%,23.2%,23.2%,24.9%,25.0%,27.0%,Up,Neutral
+DCAS,5b,TRUE,"Cumulative estimated avoided energy cost from all energy projects ($000,000)",$2.15,$4.27,$7.06,$19.52,$26.08,$24.92,$27.22,Up,Up
+DEP,1b,TRUE,Facility security checks,"263,436","275,098","289,759","278,439","293,199","263,000","275,000",Up,Neutral
+DCA,1a,TRUE,Median complaint processing time (days),17,21,20,27,28,28,28,Down,Up
+DOF,1b,TRUE,Average time to issue a property tax refund (days),26,27,37,24,24,28,28,Down,Neutral
+HPD,5a,FALSE,Average customer in-person wait time (minutes),29,30,43,36,27,29,29,Down,Neutral
+DFTA,2b,TRUE,Total recipients of home care services,"2,861","2,835","3,250","2,928","3,826","2,900","2,900",Up,Up
+DOE,3b,FALSE,Percent of high school cohort taking at least 1 AP exam in 4 years of high school,21.1%,23.9%,26.1%,28.1%,NA,27.1%,29.1%,Up,NA
+NYCHA,2a,TRUE,Active capital projects on schedule (%),29.1%,24.3%,32.3%,24.4%,64.4%,29.1%,29.1%,Up,Up
+BPL,1a,FALSE,Libraries open seven days per week (%),3%,3%,3%,3%,8%,3%,3%,Up,Up
+QPL,1a,FALSE,Libraries open seven days per week (%),3%,5%,5%,3%,3%,5%,3%,Up,Down
+DOHMH,5a,TRUE,Average response time for birth certificates by mail/online (days),3.0,4.3,1.2,1.3,1.8,4.0,3.0,Down,Down
+DOHMH,5a,TRUE,Average response time for death certificates by mail/online (days),4.1,5.2,1.9,1.7,2.0,4.0,3.0,Down,Down
+DoITT,1b,TRUE,Average time to resolve all service incidents (days),1.5,1.8,1.2,1.3,1.6,3.0,3.0,Down,Neutral
+DoITT,1b,FALSE,Average time to resolve service incidents - Medium (days),1.6,1.4,1.0,1.0,1.2,3.0,3.0,Down,Down
+DORIS,2c,TRUE,Average time for Law Department to approve records disposal application (months),1.6,2.4,1.6,0.8,2.8,3.0,3.0,Down,Up
+DOT,1c,TRUE,Average time to repair priority regulatory signs after notification (business days),1.9,2.2,1.8,1.8,1.8,3.0,3.0,Down,Neutral
+DDC,1a,FALSE,Average cost change for all completed consultant design and construction supervision projects (excluding programmatic scope changes) (%),1.1%,2.0%,2.7%,2.6%,8.4%,3.0%,3.0%,Down,Up
+DDC,1a,TRUE,Average cost change for all completed construction projects (excluding programmatic scope changes) (%),1.0%,1.8%,2.1%,2.0%,8.8%,3.0%,3.0%,Down,Up
+DOP,2a,TRUE,Adult probationer rearrest rate (monthly average) (%),3.0%,3.1%,3.2%,3.1%,3.4%,3.0%,3.0%,Down,Up
+DOP,2a,TRUE,Juvenile probationer rearrest rate (monthly average) (%),2.9%,2.7%,3.5%,3.9%,4.8%,3.0%,3.0%,Down,Up
+DOP,2a,TRUE,Average monthly violation rate for juvenile probationers (%),2.8%,2.7%,3.0%,2.7%,3.0%,3.0%,3.0%,Down,Neutral
+BIC,1b,TRUE,Waste hauling applications pending,419,331,523,762,600,300,300,Down,Up
+CCHR,1a,TRUE,Average age of complaint caseload (days),335,314,297,250,340,300,300,Down,Neutral
+DOI,1a,TRUE,Written policy and procedure recommendations to City agencies,374,564,280,370,693,300,300,Neutral,Up
+DOI,2a,FALSE,Average time to complete a background investigation (from investigation start date) (days),313,266,230,188,239,300,300,Down,Down
+DOI,2a,TRUE,Average time to complete a background investigation (from date of receipt) (days),399,356,319,275,351,300,300,Down,Down
+EDC,3b,TRUE,- Projected three-year job growth associated with closed contracts,12,491,307,211,321,300,300,Up,Up
+HRA,4a,TRUE,Average days to initiate home attendant and housekeeper services for all cases,33.1,27.5,14.1,24.6,20.4,30.0,30.0,Down,Down
+NYCHA,1c,TRUE,Average turnaround days for vacant apartments,40.0,60.3,77.9,58.1,50.0,30.0,30.0,Down,Up
+OCME,4a,FALSE,Median days to complete analysis of a DNA case,88.0,138.0,92.0,92.0,45.0,30.0,30.0,Down,Down
+OCME,4a,TRUE,"Median time to complete DNA homicide cases, from evidence submission to report (days)",111.0,161.0,100.0,62.0,39.0,30.0,30.0,Down,Down
+OCME,4a,TRUE,"Median time to complete DNA sexual assault cases, from evidence submission to report (days)",46.0,89.0,59.0,50.0,36.0,30.0,30.0,Down,Down
+OCME,4a,TRUE,"Median time to complete DNA property crime cases, from evidence submission to report (days)",68.0,139.0,119.0,188.0,57.0,30.0,30.0,Down,Neutral
+ACS,1d,TRUE,Children entering foster care who are placed with relatives (%)(preliminary),27.1%,26.6%,25.7%,28.0%,26.5%,30.0%,30.0%,Up,Neutral
+DSNY,2a,TRUE,Tons of refuse disposed (000),"3,269.5","3,262.8","3,193.8","3,176.9","3,196.2","3,150.0","3,150.0",Down,Neutral
+NYPL,1a,FALSE,Computer sessions (000),"3,052","3,093","3,306","3,287","3,214","3,290","3,180",Up,Neutral
+DOF,1b,TRUE,Average time to issue a business tax refund (days),32,30,29,31,9,32,32,Down,Down
+H + H,1a,TRUE,Emergency room revisits for pediatric asthma patients (%),3.7%,3.8%,2.9%,3.1%,3.2%,3.2%,3.2%,Down,Down
+DOP,1b,TRUE,Juvenile delinquency cases eligible for adjustment (%),37.0%,34.0%,28.0%,31.0%,28.4%,32.0%,32.0%,Up,Down
+DSNY,1b,TRUE,Lots cleaned citywide,"4,544","3,607","2,997","3,206","3,638","3,200","3,200",Neutral,Down
+CUNY,1a,TRUE,Six-year systemwide graduation rate (%) - CUNY associate degree students,29.4%,30.1%,31.7%,30.5%,31.8%,31.0%,33.0%,Up,Neutral
+ACS,2a,TRUE,Average EarlyLearn contract enrollment,"45,310","30,096","30,422","30,079","30,671","33,472","33,472",Up,Down
+DCAS,4a,TRUE,Average number of bidders per bid,3.3,3.0,3.3,3.3,3.0,3.4,3.4,Neutral,Neutral
+HRA,2a,TRUE,Cash assistance family cases participating in work or work-related activities per federal guidelines (official federal fiscal year-to-date average) (%),34.2%,34.1%,33.9%,34.1%,NA,34.0%,34.0%,Up,NA
+NYPL,1a,FALSE,Electronic visits to website (000),"32,307","32,844","32,722","30,852","29,849","30,850","34,000",Up,Neutral
+DYCD,4a,FALSE,Fiscal audits conducted,340,310,305,290,344,345,345,Neutral,Neutral
+ACS,1e,TRUE,Children discharged to permanency within a year of placement (%),36.3%,33.2%,32.6%,30.9%,32.0%,34.0%,35.0%,Up,Down
+TLC,1b,TRUE,Medallion safety and emissions failure rate  - Initial inspection (%),33.5%,32.7%,33.0%,30.9%,28.2%,35.0%,35.0%,Down,Down
+QPL,1a,FALSE,Computer sessions (000),"3,277","3,111","3,211","2,985","3,040","3,300","3,500",Up,Neutral
+DOE,3a,FALSE,Percent of high school cohort who graduate ready for college and careers,28.6%,31.4%,32.6%,34.6%,NA,33.6%,35.6%,Up,NA
+DEP,4b,FALSE,"Total revenue collected ($000,000)","$3,139.8","$3,374.6","$3,612.3","$3,808.9","$3,852.6","$3,687.0","$3,693.4",Up,Up
+DOE,1b,FALSE,School-based workshops offered to parents (000),20,33,31,39,41,25,37,Up,Up
+ACS,1c,TRUE,Children placed in foster care in their community,33.5%,33.4%,33.3%,36.9%,36.0%,37.0%,37.0%,Up,Up
+DOE,1a,TRUE,- Math (%),60.0%,29.6%,34.2%,35.2%,36.4%,36.2%,37.4%,Up,Down
+DOHMH,1a,FALSE,Male condoms distributed (000),"36,108","37,561","38,146","36,604","35,666","37,828","37,828",Neutral,Neutral
+NYPL,2a,TRUE,Total library attendance (000),"3,375","3,451","3,630","3,679","3,744","3,720","3,800",Up,Up
+SBS,3a,TRUE,City block faces receiving supplemental sanitation services through BIDs,"1,468","1,468","1,480","3,562","3,600","3,800","3,800",Up,Up
+DOE,1a,TRUE,Students in grades 3 to 8 meeting or exceeding standards - English language arts (%),46.9%,26.4%,28.4%,30.4%,38.0%,31.4%,39.0%,Up,Down
+DCA,2a,TRUE,Basic license application - Average processing time (days),5,2,3,2,2,4,4,Down,Down
+DOB,1b,FALSE,Average days to complete first plan review (Borough offices) - Minor renovation (Alterations II and III),3.9,4.2,3.8,4.1,3.2,4.0,4.0,Down,Down
+CCRB,1a,TRUE,Full investigations as a percentage of total cases closed (%),31%,32%,32%,39%,38%,40%,40%,Up,Up
+DOHMH,7a,FALSE,Letters responded to in 14 days (%),31%,21%,30%,36%,60%,40%,40%,Up,Up
+HPD,1b,TRUE,Violations issued and removed in the same fiscal year (%),43%,41%,38%,38%,45%,40%,40%,Up,Neutral
+LAW,2a,FALSE,Crime victims referred for community-based services (%),44%,36%,46%,50%,53%,40%,40%,Up,Up
+DOI,1a,TRUE,Corruption prevention and whistleblower lectures conducted,478,611,535,378,408,400,400,Up,Down
+DOB,2a,TRUE,Average time to respond to Priority B complaints (days),41.1,48.5,34.6,38.4,42.8,40.0,40.0,Down,Neutral
+QPL,1a,FALSE,Reference queries (000),"4,720","4,360","4,351","2,955","3,443","4,000","4,000",Up,Down
+CCHR,2a,FALSE,Community-based technical assistance,"17,297","22,537","53,426","56,016","34,305","40,000","40,000",Up,Up
+DOT,1a,TRUE,Bridges rated - Good or very good (%) (calendar year),41.2%,41.4%,42.0%,42.1%,41.9%,40.7%,40.7%,Up,Neutral
+FDNY,1b,TRUE,Average response time to structural fires (FDNY dispatch and travel time only) (minutes:seconds),4:01,4:06,4:08,4:11,4:11,4:10,4:12,Down,Neutral
+CCHR,1a,FALSE,Cases pending by age - less than one year,358,467,496,505,837,414,414,Down,Up
+ACS,1c,TRUE,"Children maltreated during family foster care placement per 100,000 care days",3.9,3.9,3.1,4.0,5.2,4.2,4.2,Down,Up
+DOHMH,2b,TRUE,"Infant mortality rate (per 1,000 live births) (CY)",4.7,4.7,4.6,4.2,4.3,4.2,4.2,Down,Down
+DCAS,3a,TRUE,Lease revenue generated ($000),"$66,900","$69,602","$64,979","$55,484","$52,419","$42,077","$42,077",Neutral,Down
+DOE,2b,TRUE,Students with disabilities in cohort graduating from high school in 4 years (%) (NYSED),30.5%,37.5%,40.5%,41.1%,NA,37.5%,42.1%,Up,NA
+FDNY,2a,TRUE,Average response time to life-threatening medical emergencies by fire companies (FDNY dispatch and travel time only) (minutes:seconds),4:11,4:16,4:21,4:27,4:32,4:19,4:35,Down,Neutral
+DHS,3b,TRUE,Single adults who exited to permanent housing and returned to the DHS shelter services system within one year (%),3.9%,4.5%,4.4%,3.6%,3.2%,4.4%,4.4%,Down,Down
+DOB,2a,TRUE,Residential illegal conversion complaints where access was obtained (%),46.4%,41.6%,44.1%,40.5%,38.4%,44.0%,44.0%,Up,Down
+BPL,1a,FALSE,Wireless sessions,"149,304","297,661","412,437","424,463","510,172","428,708","441,569",Up,Up
+DOB,1c,TRUE,Average wait time for a construction inspection (days),NA,4.7,3.4,3.6,3.8,4.5,4.5,Down,NA
+OCME,4a,TRUE,Median time to complete toxicology cases (days),60.0,55.0,29.0,31.0,56.0,45.0,45.0,Down,Down
+TLC,1b,TRUE,FHV safety and emissions failure rate  - Initial inspection (%),45.5%,44.9%,40.6%,36.2%,33.2%,45.0%,45.0%,Down,Down
+DCA,1a,FALSE,Restitution awarded ($000),"$5,486","$7,223","$3,588","$6,189","$3,472","$4,500","$4,500",Neutral,Down
+NYCHA,3a,TRUE,Emergency Transfer Program disposition time (days),44.18,54.25,45.91,48.17,39.60,45.00,45.00,Down,Down
+QPL,1a,TRUE,Average weekly scheduled hours,39.6,39.6,39.6,40.2,46.3,44.0,45.6,Up,Up
+DSNY,2a,TRUE,Trucks dumped on shift (%),48.1%,47.2%,43.5%,44.6%,45.8%,45.6%,45.6%,Up,Neutral
+DFTA,2b,FALSE,Hours of case management services provided,"398,013","443,404","458,432","456,838","534,769","462,112","462,112",Up,Up
+SBS,4a,TRUE,Total Minority and Women-owned Business Enterprises certified,"3,526","3,700","3,783","4,115","4,516","4,238","4,651",Up,Up
+NYPL,1a,FALSE,Computers for public use,"4,026","4,026","4,180","4,530","4,647","4,530","4,660",Up,Up
+DCAS,3a,TRUE,- Revenue generated from auto auctions ($000),"$4,997","$7,630","$7,957","$6,254","$9,770","$7,992","$4,692",Neutral,Up
+SBS,1a,TRUE,Unique businesses receiving financing awards facilitated by NYC Business Solutions,588,"1,053",440,735,432,470,470,Up,Down
+DOE,3b,FALSE,Percent of students who successfully completed approved rigorous courses or assessments,40.0%,44.0%,46.0%,46.0%,NA,46.0%,47.0%,Up,NA
+CCHR,1a,FALSE,Caseload,474,583,567,667,"1,318",474,474,Neutral,Up
+DYCD,1a,FALSE,Calls to Youth Connect,"34,609","36,867","34,191","47,281","55,538","48,000","48,000",Up,Up
+BPL,1a,FALSE,Reference queries (000),"3,190","3,525","4,053","4,406","4,008","4,759","4,806",Up,Up
+H + H,1c,TRUE,General care average length of stay (days),4.7,5.0,5.0,5.1,5.2,4.9,4.9,Down,Neutral
+BPL,1a,TRUE,Average weekly scheduled hours,43.5,43.5,42.0,45.0,49.3,45.3,49.7,Up,Up
+DCLA,1a,TRUE,Average days to issue final CDF payments,4,4,5,4,4,5,5,Down,Neutral
+DEP,7a,FALSE,Average customer in-person wait time (minutes),5,7,7,6,5,5,5,Down,Neutral
+DoITT,4a,FALSE,LinkNYC kiosks in violation (%),NA,NA,NA,NA,0%,5%,5%,Down,NA
+DOB,1c,TRUE,Average wait time for a plumbing inspection (days),NA,5.1,4.5,4.5,3.8,5.0,5.0,Down,NA
+DOT,1b,TRUE,Average time to close a pothole work order where repair was done (calendar days),2.3,1.4,5.6,5.6,3.2,5.0,5.0,Down,Up
+H + H,1a,FALSE,Calendar days to third next available new appointment - pediatric medicine,NA,NA,NA,6.5,5.0,5.0,5.0,Down,NA
+DEP,3a,TRUE,WWTPs - Critical equipment out-of-service (% below minimum),3.0%,3.1%,1.9%,2.5%,2.1%,5.0%,5.0%,Down,Down
+DEP,4a,TRUE,Estimated bills (%),6.8%,4.9%,3.7%,3.2%,3.0%,5.0%,5.0%,Down,Down
+H + H,1a,TRUE,Emergency room revisits for adult asthma patients (%),5.4%,6.0%,6.2%,6.1%,6.2%,5.0%,5.0%,Down,Up
+DCA,1a,FALSE,Complaints processed within 0-28 days (%),NA,NA,NA,51%,51%,*,50%,Up,NA
+DCP,4a,FALSE,Letters responded to in 14 days (%),52%,44%,44%,64%,72%,50%,50%,Up,Up
+DOB,4b,FALSE,Percent meeting time to first action - Elevator - Defective/Not Working (60 days),50%,49%,51%,48%,57%,50%,50%,Neutral,Up
+DYCD,3c,FALSE,Participants achieving positive outcomes in immigration assistance programs (%),51%,53%,58%,59%,58%,50%,50%,Up,Up
+ACS,1e,FALSE,Median length of stay in foster care before child is adopted (months),53.2,54.1,55.1,53.3,50.5,50.0,50.0,Down,Neutral
+DOT,2a,TRUE,"Roadway safety markings installed (000,000) (linear feet)",30.9,27.1,28.4,45.2,45.2,50.0,50.0,Up,Up
+DOT,3a,FALSE,Bicycle lane miles installed,25.8,51.9,65.9,51.2,53.9,50.0,50.0,Up,Up
+NYPL,1a,TRUE,Average weekly scheduled hours,46.6,46.6,46.6,46.6,50.0,50.0,50.0,Up,Neutral
+TLC,1e,TRUE,Average time to close a consumer complaint (calendar days): Medallion,38.0,47.0,52.0,43.8,29.8,50.0,50.0,Down,Down
+TLC,1e,TRUE,Average time to close a consumer complaint (calendar days): FHV,54.4,56.1,55.0,46.3,39.5,50.0,50.0,Down,Down
+DOE,1b,FALSE,Phone calls responded to by parent coordinator or parent engagement designee (000),"1,792","3,682","3,910","5,458","6,060","1,500","5,000",Up,Up
+QPL,1a,FALSE,Wireless sessions,"119,606","112,621","346,782","453,555","477,230","475,000","500,000",Up,Up
+DDC,1a,FALSE,Water mains (new and replaced) (miles),31.5,38.2,31.8,34.6,34.3,18.0,50.1,Neutral,Neutral
+DYCD,3b,FALSE,Participants in DYCD-funded English literacy programs,"4,647","4,643","4,306","4,068","6,003","5,100","5,100",Neutral,Up
+NYPL,2a,TRUE,Average weekly scheduled hours,46.8,46.8,46.8,46.8,51.3,51.3,513.0,Up,Neutral
+BPL,1a,FALSE,Program sessions,"43,375","38,247","41,094","47,100","64,539","49,982","51,481",Up,Up
+NYPL,2a,FALSE,Reference queries (000),348,406,467,506,514,510,515,Up,Up
+HPD,5a,FALSE,Letters responded to in 14 days (%),49%,53%,49%,47%,53%,52%,52%,Up,Neutral
+DCLA,1c,TRUE,MFTA transactions,"5,550","5,653","5,995","6,021","6,376","5,300","5,300",Up,Up
+EDC,1a,TRUE,"Private investment leveraged on the sale/long-term lease of City-owned property ($000,000)",$432.3,$331.2,"$6,020.5","$2,003.3","$1,213.6",$582.0,$534.0,Up,Up
+SBS,1a,TRUE,Financing awards to businesses facilitated by NYC Business Solutions,683,"1,200",518,805,567,540,540,Up,Down
+DOE,3a,FALSE,Percent of high school cohort who graduated from high school and enrolled in a college or other postsecondary program within 6 months,50.0%,51.0%,53.0%,NA,NA,51.0%,54.0%,Up,NA
+CCRB,1a,TRUE,Closed allegations with findings on the merits (%),46%,42%,39%,41%,46%,55%,55%,Up,Neutral
+DYCD,3b,TRUE,"Participants in DYCD-funded English literacy programs meeting federal standards of improvement in their ability to read, write, and speak English (%)",56%,59%,54%,52%,54%,55%,55%,Up,Neutral
+HPD,1b,TRUE,Emergency violations corrected by owner (%),57%,53%,51%,53%,57%,55%,55%,Up,Neutral
+LAW,2a,FALSE,Referred cases filed for prosecution (%),55%,56%,58%,54%,54%,55%,55%,Neutral,Neutral
+OATH,1a,FALSE,OATH Trials Division settlement rate (%),59%,59%,55%,57%,57%,55%,55%,Neutral,Neutral
+CUNY,1a,TRUE,Six-year systemwide graduation rate (%) - CUNY baccalaureate students,49.8%,51.0%,52.6%,52.7%,53.9%,52.0%,55.0%,Up,Neutral
+H + H,1c,TRUE,Net days of revenue for accounts receivable,56.4,48.3,54.6,57.2,51.1,56.0,56.0,Down,Neutral
+CUNY,1a,TRUE,CUNY associate degree recipients who transfer to a CUNY baccalaureate program within one year (%),51.3%,52.3%,51.5%,54.0%,54.8%,54.0%,56.0%,Up,Neutral
+DOB,4a,FALSE,E-mails responded to in 14 days (%),50%,37%,65%,51%,60%,57%,57%,Up,Up
+DOB,4a,FALSE,Letters responded to in 14 days (%),58%,54%,49%,69%,30%,57%,57%,Up,Down
+DOB,4b,FALSE,Percent meeting time to first action - Illegal Conversion of Residential Building/Space (60 days),44%,47%,62%,65%,56%,57%,57%,Neutral,Up
+DOE,3a,FALSE,Percent of high school cohort taking the SAT at least once in 4 years of high school,52.3%,53.6%,54.7%,56.4%,NA,55.7%,57.4%,Up,NA
+HPD,5a,FALSE,E-mails responded to in 14 days (%),58%,60%,56%,76%,55%,58%,58%,Up,Neutral
+QPL,1a,FALSE,Program sessions,"37,717","38,040","46,636","52,396","68,364","42,000","58,000",Up,Up
+DOE,2a,TRUE,English language learners testing out of ELL programs within 3 years (%),54.6%,54.0%,53.0%,61.3%,57.7%,55.0%,58.7%,Up,Up
+HPD,5b,FALSE,Percent meeting time to close - Pests (30 days),65%,66%,64%,55%,75%,59%,59%,Neutral,Neutral
+HRA,6a,FALSE,Average customer in-person wait time (minutes),57.8,48.2,39.9,42.2,34.8,60,60,Down,Down
+ACS,1e,FALSE,Median length of stay for children entering foster care for the first time who are returned to parent (months),5.5,6.8,7.5,6.6,7.7,6.0,6.0,Down,Up
+DEP,2a,TRUE,Average time to restore water to customers after confirming breaks (hours),4.8,4.4,4.4,5.1,4.2,6.0,6.0,Down,Neutral
+DOB,1c,TRUE,Average wait time for an electrical inspection (days),NA,6.3,6.1,5.2,6.4,6.0,6.0,Down,NA
+DOHMH,4b,FALSE,Units of supportive housing available to persons with serious mental illness (000),5.0,5.2,5.4,5.7,6.0,6.0,6.0,Up,Up
+DoITT,1b,FALSE,Average time to resolve service incidents - Low (days),1.7,1.9,1.5,1.8,2.2,6.0,6.0,Down,Up
+DOI,2a,FALSE,Background investigations closed within six months (from investigation start date) (%),52%,59%,55%,61%,58%,60%,60%,Up,Up
+DOI,2a,TRUE,Background investigations closed within 12 months (from date of receipt) (%),59%,64%,61%,65%,60%,60%,60%,Up,Neutral
+DORIS,1b,TRUE,Vital record requests responded to within 12 business days (%),76%,69%,49%,17%,62%,60%,60%,Up,Down
+DPR,6a,FALSE,E-mails routed and responded to in 14 days (%),58%,45%,38%,52%,60%,60%,60%,Up,Neutral
+DPR,6a,FALSE,Letters routed and responded to in 14 days (%),54%,37%,30%,43%,47%,60%,60%,Up,Neutral
+DYCD,3a,TRUE,Community anti-poverty program participants achieving target outcomes designated for clients in each program area (%),59%,60%,61%,67%,64%,60%,60%,Up,Up
+TLC,3b,FALSE,Percent meeting time to first action - Miscellaneous Comments (14 days),63%,67%,84%,98%,84%,60%,60%,Neutral,Up
+TLC,3b,FALSE,Percent meeting time to first action - Request for Information (14 days),76%,72%,90%,98%,83%,60%,60%,Neutral,Up
+HRA,1b,FALSE,Supplemental Nutritional Assistance Program (SNAP) Estimated Payment Error Rate (%),6.10%,5.55%,6.81%,4.01%,NA,6.00%,6.00%,Down,NA
+OCME,1b,TRUE,Median time to complete autopsy reports (days),69.5,50.0,56.0,77.0,69.0,60.0,60.0,Down,Up
+ACS,1e,FALSE,Children returned to parent(s) within 12 months (%)(preliminary),62.2%,59.8%,57.9%,59.7%,59.6%,60.0%,60.0%,Up,Neutral
+SBS,4a,TRUE,Annual M/WBE recertification rate,62.5%,59.2%,60.4%,60.4%,53.4%,60.0%,60.0%,Up,Down
+DOE,1a,FALSE,Students in the graduating class taking required Regents examinations,"60,204","61,062","58,897","57,314",NA,"60,000","60,000",Up,NA
+DYCD,2a,FALSE,Summer Youth Employment Program (SYEP) participants,"30,628","29,416","35,957","47,126","54,263","33,000","60,000",Neutral,Up
+HPD,1a,FALSE,Inspections completed,"697,736","661,206","675,760","664,960","692,943","600,000","600,000",Neutral,Neutral
+FDNY,2a,TRUE,Combined response time to life-threatening medical emergencies by ambulances & fire companies (FDNY dispatch and travel time only) (minutes:seconds),5:32,5:47,5:49,6:05,6:05,5:48,6:03,Down,Up
+DOE,6a,FALSE,E-mails responded to in 14 days (%),74.9%,NA,62%,64.3%,60.4%,75%,61.4%,Up,NA
+DSNY,3a,TRUE,Recycling tons per truck-shift,5.1,5.1,5.1,5.2,5.6,6.2,6.2,Up,Neutral
+DCA,1a,TRUE,Mediated complaints resolved to the satisfaction of the business and consumer (%),NA,62%,62%,62%,64%,62%,62%,Up,NA
+DCAS,6a,TRUE,Hybrid or alternative fuel vehicles in the citywide fleet (%),28%,41%,57%,57%,59%,60%,62%,Up,Up
+SBS,4a,TRUE,-  M/WBEs awarded contracts after receiving procurement and capacity building assistance,439,447,472,613,723,482,625,Up,Up
+DYCD,2b,FALSE,"Youth who are out-of-school, attend a DYCD-funded training or employment program, and attain a degree or certificate by the end of the 3rd quarter after exiting the program (%)",68%,66%,65%,68%,70%,63%,63%,Up,Neutral
+DYCD,2b,FALSE,Youth who attend a DYCD-funded training or employment program while in school and attain a degree or certificate by the end of the 3rd quarter after exiting the program (%),75%,77%,77%,78%,83%,63%,63%,Up,Neutral
+LAW,3a,TRUE,Families entitled to a support order that get a support order (%),NA,65%,65%,68%,71%,65%,65%,Up,NA
+DOF,2a,TRUE,Parking tickets issued that are paid within 90 days (%),65.1%,63.5%,63.2%,65.8%,66.8%,65.0%,65.0%,Up,Neutral
+H + H,1a,FALSE,Inpatient satisfaction rate (%),NA,58.0%,60.0%,63.0%,62.0%,62.0%,65.0%,Up,NA
+DPR,2a,TRUE,Street trees pruned - Block program,"29,497","46,697","59,607","97,888","87,359","95,000","65,000",Up,Up
+DCLA,1b,TRUE,Capital projects initiated (%),67%,63%,42%,85%,96%,66%,66%,Up,Up
+HPD,5b,FALSE,Percent meeting time to close - Plumbing - Water-Leaks (17 days),71%,75%,69%,60%,78%,68%,68%,Neutral,Neutral
+CUNY,1a,TRUE,One-year (fall-to-fall) retention rate of full-time first-time freshmen enrolled in CUNY associate degree programs,67.1%,66.6%,67.1%,67.9%,66.3%,67.0%,68.0%,Up,Neutral
+DOHMH,1b,FALSE,"Seniors, aged 65+, who reported receiving a flu shot in the last 12  months (%) (CY)",67.4%,61.8%,66.8%,64.2%,65.5%,72.0%,68.0%,Up,Neutral
+DCAS,3a,TRUE,Revenue generated from the sale of surplus goods ($000),"$9,315","$9,610","$9,892","$10,406","$11,026","$10,193","$6,893",Neutral,Up
+DYCD,2b,TRUE,"Youth who are out-of-school, attend a DYCD-funded training or employment program, and are placed in post-secondary education, employment, or advanced training in the 1st quarter after exiting the program (%)",68%,70%,68%,68%,68%,69%,69%,Up,Neutral
+DYCD,2b,TRUE,"Youth who attend a training program while in school and are placed in post-secondary education, employment, or advanced training during the 1st quarter after exiting the program (%)",78%,77%,78%,82%,85%,69%,69%,Up,Neutral
+HPD,5b,FALSE,Percent meeting time to close - Paint/Plaster - Walls (17 days),72%,74%,70%,61%,79%,69%,69%,Neutral,Neutral
+HPD,2a,FALSE,- New construction completions,NA,NA,"2,113","2,025","4,230","4,912","6,910",Neutral,NA
+DCLA,1a,TRUE,Average days to issue initial Cultural Development Fund (CDF) payments after complying with all City requirements,6,6,8,11,4,7,7,Down,Neutral
+DCAS,2b,TRUE,Average time to complete in-house work orders for minor repairs (days),7.6,8.2,4.3,4.2,3.6,7.0,7.0,Down,Down
+DEP,2a,TRUE,Sewer backup resolution time (hours),5.6,4.4,3.9,3.9,3.7,7.0,7.0,Down,Down
+DEP,2a,TRUE,Average time to repair or replace high-priority broken or inoperative hydrants (days),4.4,2.7,3.1,2.5,2.9,7.0,7.0,Down,Down
+ACS,1c,TRUE,Children who re-enter foster care within a year of discharge to family (%)(preliminary),8.6%,8.6%,9.3%,9.1%,7.9%,8.0%,7.0%,Down,Neutral
+DCAS,2a,TRUE,Average building cleanliness and condition rating for DCAS-managed space (non-court) (%),66%,69%,70%,69%,70%,70%,70%,Up,Neutral
+DCP,3a,TRUE,- Certified/referred within 12 months (%),NA,NA,93%,72%,68%,70%,70%,Up,NA
+DCP,3a,TRUE,- Certified/referred within 15 months (%),NA,NA,68%,63%,44%,70%,70%,Up,NA
+DCP,3a,TRUE,- Certified/referred within 6 months (%),NA,NA,87%,70%,96%,70%,70%,Up,NA
+DCP,3a,TRUE,- Certified/referred within 6 months (%),NA,NA,73%,63%,68%,70%,70%,Up,NA
+DOHMH,7b,FALSE,Percent meeting time to first action - Rodent (14 days),72%,74%,75%,73%,73%,70%,70%,Neutral,Neutral
+DOT,7a,FALSE,Calls answered in 30 seconds (%),31%,45%,73%,60%,23%,70%,70%,Up,Neutral
+LAW,2a,FALSE,Juvenile conviction rate (%),73%,73%,75%,75%,76%,70%,70%,Neutral,Neutral
+SCA,1b,TRUE,Construction bid price for school capacity projects per square foot ($),$514,$580,$630,$771,$752,$700,$700,Down,Up
+FDNY,2a,TRUE,Average response time to life-threatening medical emergencies by ambulances (FDNY dispatch and travel time only) (minutes:seconds),6:25,6:45,6:46,7:04,7:03,6:45,7:00,Down,Neutral
+NYCEM,2c,TRUE,Average time from incident to issuing of Notify NYC message (minutes:seconds),NA,NA,7:58,8:00,6:00,7:00,7:00,Down,NA
+DHS,1a,TRUE,Adults receiving preventive services who did not enter the shelter system (%),91.4%,96.7%,96.0%,93.5%,90.6%,70.0%,70.0%,Up,Neutral
+DHS,1a,TRUE,Adult families receiving preventive services who did not enter the shelter system (%),97.0%,95.5%,97.3%,91.5%,90.7%,70.0%,70.0%,Up,Neutral
+DHS,1a,TRUE,Families with children receiving preventive services who did not enter the shelter system (%),93.9%,93.0%,94.0%,94.5%,94.1%,70.0%,70.0%,Up,Neutral
+DOHMH,2b,FALSE,Adult patients with controlled blood pressure (%) (CY),67.3%,67.0%,67.4%,66.8%,67.2%,69.0%,70.0%,Up,Neutral
+HPD,5b,FALSE,Percent meeting time to close - Paint/Plaster - Ceiling (17 days),74%,76%,74%,69%,84%,71%,71%,Neutral,Neutral
+DOT,1b,TRUE,Streets maintained with a pavement rating of - Good (%),73.4%,69.6%,69.3%,70.0%,68.8%,71.0%,71.0%,Up,Neutral
+NYCHA,4a,FALSE,Customers rating service good or better (%) (As applicable),71.0%,66.0%,70.0%,68.2%,78.8%,71.0%,71.0%,Up,Up
+DOHMH,2b,FALSE,"Adults, aged 50+, who received a colonoscopy in the past ten years (%) (CY)",68.6%,68.5%,69.0%,69.9%,69.9%,70.6%,71.4%,Up,Neutral
+DOE,1a,TRUE,Students in cohort graduating from high school in 4 years (%) (NYSED),64.7%,66.0%,68.4%,70.5%,NA,68.4%,71.5%,Up,NA
+DCA,1b,FALSE,Weights and Measures Law compliance rate - fuel trucks (%),73%,80%,78%,70%,68%,72%,72%,Up,Down
+DOB,4b,FALSE,Percent meeting time to first action - General Construction/Plumbing - Contrary/Beyond Approved Plans/Permits (60 days),68%,70%,80%,81%,78%,72%,72%,Neutral,Up
+DOE,6a,FALSE,Letters responded to in 14 days (%),92.9%,NA,79%,75.1%,72.5%,85%,73.5%,Up,NA
+DOT,2a,FALSE,Accessible pedestrian signals installed,23,19,30,18,47,25,75,Up,Up
+DCAS,2b,TRUE,In-house trade shop work orders completed within 30 days (%),75%,64%,69%,70%,70%,75%,75%,Up,Neutral
+DCAS,6a,FALSE,- Hybrid or alternative fuel vehicles in the DCAS-managed fleet (%),NA,41%,56%,66%,74%,60%,75%,Up,NA
+DOHMH,7a,FALSE,E-mails responded to in 14 days (%),39%,42%,68%,58%,72%,75%,75%,Up,Up
+DOHMH,7b,FALSE,Percent meeting time to first action - Smoking complaint (14 days),77%,81%,78%,86%,81%,70%,75%,Neutral,Neutral
+DOI,1a,FALSE,Written policy and procedure recommendations accepted by City agencies (%),NA,72%,45%,74%,81%,75%,75%,Neutral,NA
+DoITT,1c,FALSE,Projects on schedule (%),NA,75%,85%,87%,88%,75%,75%,Up,NA
+DoITT,4a,TRUE,Inspected phones deemed operable (%),75%,61%,65%,63%,65%,75%,75%,Up,Down
+DOT,1b,FALSE,- Street work rated satisfactory (%),76%,77%,76%,75%,76%,75%,75%,Up,Neutral
+DYCD,1b,TRUE,Youth reunited with family or placed in a suitable environment from crisis shelters (%),80%,86%,83%,89%,77%,75%,75%,Up,Neutral
+LAW,2a,TRUE,Juveniles successfully referred to a diversion program with no new delinquency referral within one year (%),NA,85%,85%,84%,81%,75%,75%,Up,NA
+DOHMH,1b,TRUE,Children aged 19-35 months with up-to-date immunizations (%),66.4%,70.1%,72.1%,73.0%,74.7%,74.0%,75.0%,Up,Up
+DOT,1b,FALSE,Adopt-A-Highway adoption rate (%),66.3%,67.4%,76.8%,81.5%,80.7%,75.0%,75.0%,Up,Up
+QPL,1a,FALSE,Computers for public use,"1,706","1,869","1,904","1,963","1,967","1,900","7,500",Up,Up
+NYCEM,2a,TRUE,Total participants at emergency preparedness education sessions,"32,078","35,921","34,599","74,571","103,648","75,000","75,000",Up,Up
+HRA,2c,FALSE,"Child support collected ($000,000)",$748.8,$735.6,$741.7,$748.3,$762.1,$750.0,$752.0,Up,Neutral
+DEP,7a,FALSE,Calls answered in 30 seconds (%),76%,69%,79%,68%,73%,76%,76%,Up,Neutral
+NYCHA,3a,TRUE,Initial social service tenant contacts conducted within five days of referral (%),76%,64%,68%,80%,86%,76%,76%,Up,Up
+DOE,1a,FALSE,Students with 90% or better attendance rate (%),74.4%,72.7%,72.4%,74.5%,75.0%,76.0%,76.0%,Up,Neutral
+DSNY,3a,TRUE,Curbside and containerized recycled tons (000),541.9,539.2,553.2,575.4,613.8,683.3,764.4,Up,Up
+DOB,4b,FALSE,Percent meeting time to first action - General Construction/Plumbing - Failure to Maintain (60 days),77%,77%,79%,81%,93%,77%,77%,Neutral,Up
+DOB,4b,FALSE,"Percent meeting time to first action - No Permit - Construction, Plumbing, Cranes & Derricks, Building/Use, Elevator (60 days)",70%,72%,72%,63%,85%,77%,77%,Neutral,Up
+HPD,5b,FALSE,Percent meeting time to close - Heating (5 days),83%,84%,83%,82%,73%,78%,78%,Neutral,Down
+LAW,1b,TRUE,Win rate on affirmative motions (%),NA,72%,78%,74%,75%,78%,78%,Up,NA
+HRA,2c,TRUE,Child support cases with orders of support (%),70.1%,70.1%,71.5%,73.2%,76.7%,77.0%,78.0%,Up,Neutral
+DCAS,5b,TRUE,Cumulative estimated reduction in greenhouse gas emissions from all energy projects (metric tons),"6,156","11,846","19,739","60,723","75,182","73,451","79,451",Up,Up
+NYPL,1a,FALSE,Libraries open seven days per week (%),4%,4%,4%,4%,8%,8%,8%,Up,Up
+DCP,4a,FALSE,CORE customer experience rating (0 - 100),83,88,89,92,100,80,80,Up,Up
+HRA,6a,FALSE,CORE facility rating,80,83,90,90,86,80,80,Up,Neutral
+TLC,3a,FALSE,CORE customer experience rating (1-100),80,84,87,88,98,80,80,Up,Up
+HRA,4a,TRUE,Average number of days from submission of a completed application to approval or denial of enhanced housing benefits to keep HASA clients in stable housing,7.9,7.0,8.4,7.6,7.0,8.0,8.0,Down,Neutral
+CUNY,1a,TRUE,CUNY courses offered partly or totally online (%),5.3%,4.3%,4.9%,5.7%,6.8%,6.0%,8.0%,Up,Up
+DOE,1a,TRUE,Students in cohort dropping out from high school in 4 years (%) (NYSED),11.4%,10.6%,9.7%,9.0%,NA,9.7%,8.0%,Down,NA
+3-1-1,1a,TRUE,Calls answered in 30 seconds (%),71%,81%,83%,84%,89%,80%,80%,Up,Up
+DCA,1b,FALSE,Consumer Protection Law - refund and receipt compliance rate (%),80%,80%,81%,91%,91%,80%,80%,Up,Up
+DCA,1c,TRUE,Number of fines collected within 45 days of assessment (%),82%,84%,81%,82%,89%,80%,80%,Up,Neutral
+DOT,7b,FALSE,Percent meeting time to first action - Traffic Signal Condition - Controller (0.1 days),78%,71%,72%,73%,74%,80%,80%,Neutral,Neutral
+DPR,3a,TRUE,Capital projects completed on time or early (%),49%,76%,72%,90%,86%,80%,80%,Up,Up
+HRA,6a,FALSE,Calls answered in 30 seconds (%),56.6%,63.6%,69.7%,65.8%,79.7%,80%,80%,Up,Up
+SCA,1c,TRUE,Capital improvement projects constructed on time or early (%),72%,69%,72%,72%,86%,80%,80%,Up,Up
+SCA,1c,TRUE,Capital improvement projects constructed within budget (%),77%,71%,80%,83%,73%,80%,80%,Up,Neutral
+TLC,3a,FALSE,E-mails responded to in 14 days (%),78%,75%,93%,99%,NA,80%,80%,Up,NA
+DOB,2b,TRUE,Violations admitted to or upheld at the Environmental Control Board (%),77.1%,79.4%,82.1%,84.5%,85.2%,80.0%,80.0%,Up,Up
+DOE,1a,FALSE,Students passing required Regents examinations (%),68.7%,70.4%,71.0%,70.6%,NA,80.0%,80.0%,Up,NA
+H + H,1a,TRUE,Eligible women receiving a mammogram screening (%),73.0%,73.9%,75.6%,77.8%,76.4%,80.0%,80.0%,Up,Neutral
+H + H,1a,FALSE,Outpatient satisfaction rate (%),NA,76.5%,76.9%,77.6%,77.8%,80.0%,80.0%,Up,NA
+HRA,2a,TRUE,"HRA clients who obtained employment, and maintained employment or did not return to CA for 180 days (city fiscal year-to-date average) (%)",NA,NA,74.5%,73.9%,73.3%,80.0%,80.0%,Up,NA
+DOHMH,4a,FALSE,New buprenorphine patients (CY) (quarterly),"9,913","9,620","8,487","7,046","6,950","7,500","8,000",Neutral,Down
+HPD,2a,FALSE,- New construction starts,NA,NA,"2,759","8,485","6,097","7,257","8,000",Neutral,NA
+LAW,1a,FALSE,-  Cases commenced against the City in state court,"7,682","7,745","7,258","8,112","8,009","7,900","8,000",Neutral,Neutral
+QPL,1a,FALSE,Electronic visits to website (000),"5,191","6,667","6,926","7,854","7,725","7,000","8,000",Up,Up
+ACS,2a,TRUE,EarlyLearn - Average family child care enrollment,NA,"4,549","6,354","7,002","7,275","8,161","8,161",Up,NA
+DDC,1a,FALSE,Sewers constructed (miles),8.5,9.9,12.8,9.8,11.4,4.0,8.2,Neutral,Up
+DDC,1a,FALSE,Total construction projects completed early/on time (%),84%,81%,81%,84%,87%,82%,82%,Up,Neutral
+DDC,1a,TRUE,- Completed early/on time: Infrastructure (%),87%,81%,87%,88%,87%,82%,82%,Up,Neutral
+DDC,1a,TRUE,- Completed early/on time: Public buildings (%),81%,82%,76%,83%,85%,82%,82%,Up,Neutral
+DDC,1a,FALSE,- Construction completed on schedule (%),93%,83%,85%,93%,89%,82%,82%,Up,Neutral
+DDC,1a,FALSE,- Construction completed on schedule (%),92%,88%,84%,85%,84%,82%,82%,Up,Neutral
+DDC,1a,FALSE,- Construction completed on schedule (%),91%,82%,86%,84%,89%,82%,82%,Up,Neutral
+DDC,1a,FALSE,- Construction completed on schedule (%),89%,80%,88%,92%,91%,82%,82%,Up,Neutral
+DDC,1a,TRUE,Active construction projects: Early/on time (%),88%,86%,88%,84%,90%,82%,82%,Up,Neutral
+DOE,4a,FALSE,Total new seats created,"10,766","10,061","5,380","15,210","5,692","5,932","8,297",Neutral,Down
+SCA,1a,FALSE,Total new seats created,"10,766","10,061","5,380","15,210","5,692","5,932","8,297",Neutral,Down
+DCA,5a,FALSE,CORE customer experience rating (0-100),83,86,94,95,98,83,83,Up,Up
+DDC,1a,FALSE,Sewers reconstructed (miles),5.8,8.8,6.7,6.1,4.6,4.0,8.4,Neutral,Down
+DOB,4a,FALSE,CORE customer experience rating (0-100),79,83,91,90,91,85,85,Up,Up
+DOHMH,7a,FALSE,CORE facility rating,81,90,92,92,81,85,85,Up,Neutral
+DPR,3a,FALSE,Capital projects completed,132,123,114,84,97,95,85,Neutral,Down
+DPR,6a,FALSE,CORE customer experience rating (0-100),86,89,91,93,91,85,85,Up,Neutral
+HPD,5a,FALSE,CORE customer experience rating (0-100),85,87,89,90,97,85,85,Up,Up
+DOF,2b,TRUE,Average turnaround time to issue decision for parking ticket hearing-by-web (days),6.5,3.8,7.0,6.5,4.4,8.5,8.5,Down,Down
+H + H,1a,FALSE,Adult patients discharged with a principal psychiatry diagnosis who are readmitted within 30 days (%),7.0%,6.5%,7.4%,7.4%,6.8%,8.5%,8.5%,Down,Neutral
+DCA,1a,FALSE,- Within 0-50 days (%),NA,NA,NA,83%,85%,*,85%,Up,NA
+DCA,5b,FALSE,Percent meeting time to first action - Consumer Complaint - Exchange/Refund/Return (4 days),100%,97%,70%,83%,93%,85%,85%,Neutral,Down
+DCA,5b,FALSE,Percent meeting time to first action - Consumer Complaint - False Advertising (4 days),99%,97%,69%,84%,91%,85%,85%,Neutral,Down
+DCA,5b,FALSE,Percent meeting time to first action - Consumer Complaint - Non-Delivery Goods/Services (4 days),99%,96%,71%,82%,92%,85%,85%,Neutral,Down
+DCA,5b,FALSE,Percent meeting time to first action - Consumer Complaint - Overcharge (4 days),98%,96%,71%,82%,93%,85%,85%,Neutral,Down
+DCA,5b,FALSE,Percent meeting time to first action - DCA / DOHMH New License Application Request - General Street Vendor License (7 days),100%,92%,92%,65%,78%,85%,85%,Neutral,Down
+DCP,4a,FALSE,E-mails responded to in 14 days (%),75%,81%,87%,90%,85%,85%,85%,Up,Up
+DEP,5a,FALSE,Air complaints responded to within seven days (%),82%,93%,98%,95%,95%,85%,85%,Up,Up
+DEP,5a,FALSE,Noise complaints not requiring access to premises responded to within seven days (%),88%,91%,99%,97%,97%,85%,85%,Up,Up
+DEP,7b,FALSE,Percent meeting time to first action - Sewer Maintenance - Catch Basin Clogged/Flooding (6 days),81%,91%,90%,93%,91%,85%,85%,Neutral,Up
+DEP,7b,FALSE,Percent meeting time to first action - Sewer Maintenance - Sewer Backup (0.25 days),78%,84%,86%,89%,90%,85%,85%,Neutral,Up
+DEP,7b,FALSE,Percent meeting time to first action - Water Maintenance - Hydrant Running (2 days),91%,86%,86%,85%,85%,85%,85%,Neutral,Neutral
+DEP,7b,FALSE,Percent meeting time to first action - Water Maintenance - Hydrant Running Full (1 day),89%,85%,87%,88%,88%,85%,85%,Neutral,Neutral
+DEP,7b,FALSE,Percent meeting time to first action - Water Maintenance - Leak (0.7 days),83%,82%,80%,80%,79%,85%,85%,Neutral,Neutral
+DOF,7a,FALSE,E-mails responded to in 14 days (%),75%,85%,86%,83%,71%,85%,85%,Up,Neutral
+DOF,7a,FALSE,Letters responded to in 14 days (%),60%,91%,79%,90%,87%,85%,85%,Up,Up
+DOHMH,7a,FALSE,Calls answered in 30 seconds (%),65%,69%,85%,82%,78%,80%,85%,Up,Up
+DOT,7b,FALSE,Percent meeting time to first action - Street Condition - Failed Street Repair (10 days),81%,90%,92%,92%,92%,85%,85%,Neutral,Up
+DPR,1a,TRUE,Parks rated acceptable for overall condition (%),82%,85%,87%,86%,85%,85%,85%,Up,Neutral
+DPR,1a,TRUE,Recreation centers rated acceptable for overall condition (%),87%,85%,86%,83%,89%,85%,85%,Up,Neutral
+DPR,3a,FALSE,Capital projects completed within budget (%),80%,77%,78%,86%,88%,85%,85%,Up,Up
+DPR,6b,FALSE,Percent meeting time to first action - Root/Sewer/Sidewalk Condition - Trees and Sidewalks Program (30 days),74%,82%,60%,64%,71%,85%,85%,Neutral,Down
+DYCD,1a,TRUE,COMPASS NYC programs meeting target enrollment (school year) (%),98%,96%,95%,96%,94%,85%,85%,Up,Neutral
+DYCD,1a,TRUE,COMPASS NYC programs meeting target enrollment - SONYC/middle school (school year) (%),95%,93%,92%,95%,91%,85%,85%,Up,Neutral
+DYCD,1b,TRUE,Youth reunited with family or placed in a suitable environment from Transitional Independent Living (TIL) centers (%),93%,91%,93%,92%,89%,85%,85%,Up,Neutral
+DYCD,1b,TRUE,Utilization rate for transitional independent living beds (%),86%,91%,94%,96%,91%,85%,85%,Up,Neutral
+FDNY,1a,TRUE,Hazard complaints resolved within one day (%),57%,65%,59%,79%,85%,80%,85%,Up,Up
+LAW,3a,FALSE,Filing of enforcement referrals within 60 days of referral (%),NA,95%,94%,94%,95%,85%,85%,Up,NA
+LPC,1b,FALSE,Certificates of No Effect issued within 10 days (%),80%,87%,94%,91%,96%,85%,85%,Up,Up
+LPC,1d,FALSE,Archaeology applications reviewed within 10 days (%),96%,96%,98%,97%,95%,85%,85%,Up,Neutral
+ACS,2a,TRUE,Average EarlyLearn Utilization (%),NA,71.4%,82.1%,81.8%,83.4%,85.0%,85.0%,Up,NA
+ACS,2a,TRUE,Average EarlyLearn Utilization - Center-based (%),NA,76.2%,84.6%,82.0%,83.1%,85.0%,85.0%,Up,NA
+ACS,2a,TRUE,Average EarlyLearn Utilization - Family child care (%),NA,52.9%,73.9%,81.4%,84.6%,85.0%,85.0%,Up,NA
+DHS,2a,FALSE,Families placed in the shelter services system according to their youngest school-aged child's school address (%),76.5%,70.5%,65.4%,52.9%,55.0%,85.0%,85.0%,Up,Down
+H + H,1a,TRUE,HIV patients retained in care (%) (annual),87.4%,84.3%,86.6%,86.1%,85.7%,85.0%,85.0%,Up,Neutral
+HRA,4a,TRUE,Individuals referred to an APS field office visited within three working days (%),99.7%,99.8%,99.8%,94.3%,95.1%,85.0%,85.0%,Up,Neutral
+NYCHA,3a,FALSE,Utilization of senior centers (%) ages 60+,157.0%,133.5%,143.0%,145.0%,116.0%,85.0%,85.0%,Up,Down
+NYCHA,2c,TRUE,Section 8 occupied units (vouchers),"93,789","91,892","88,529","86,167","85,224","87,000","87,000",Up,Neutral
+NYCHA,1b,FALSE,Management cost per dwelling unit ($),$885,"$1,012",$913,$893,$875,$875,$875,Neutral,Neutral
+DCAS,1d,TRUE,Average rating for professional development training sessions (%),88%,88%,88%,88%,90%,88%,88%,Up,Neutral
+DCLA,3a,FALSE,E-mails responded to in 14 days (%),88%,86%,90%,92%,95%,88%,88%,Up,Neutral
+DDC,1a,FALSE,Total design projects completed early/on time (%),90%,87%,86%,84%,87%,88%,88%,Up,Neutral
+DDC,1a,TRUE,- Completed early/on time: Infrastructure (%),91%,83%,85%,84%,87%,88%,88%,Up,Neutral
+DDC,1a,TRUE,- Completed early/on time: Public buildings (%),89%,90%,87%,84%,87%,88%,88%,Up,Neutral
+DDC,1a,TRUE,Active design projects: Early/on time (%),86%,84%,86%,88%,84%,88%,88%,Up,Neutral
+CUNY,1a,TRUE,One-year (fall-to-fall) retention rate of full-time first-time freshmen enrolled in CUNY baccalaureate degree programs,86.3%,86.5%,84.8%,87.3%,86.8%,88.0%,88.0%,Up,Neutral
+DOE,1a,FALSE,Students in graduating class with a 65 to 100 passing score on the Regents Examination - English (%),89.8%,88.7%,88.5%,88.9%,NA,85.0%,88.0%,Up,NA
+DOE,1a,FALSE,- Math (%),87.2%,87.2%,87.4%,87.5%,NA,85.0%,88.0%,Up,NA
+DOE,1a,FALSE,- United States history and government (%),88.0%,87.8%,88.2%,88.0%,NA,85.0%,88.0%,Up,NA
+DOE,1a,FALSE,- Global history (%),85.0%,83.8%,84.4%,83.5%,NA,85.0%,88.0%,Up,NA
+DOE,1a,FALSE,- Science (%),88.4%,88.0%,88.4%,87.8%,NA,85.0%,88.0%,Up,NA
+DEP,3a,FALSE,Harbor survey stations meeting the fishable standard of 5mg/L for dissolved oxygen (%),87%,85%,91%,94%,90%,89%,89%,Up,Neutral
+DOE,1a,FALSE,- High school (%),86.7%,86.8%,87.0%,87.9%,88.6%,87.9%,89.6%,Up,Neutral
+DCAS,2a,FALSE,CORE customer experience rating of facilities (0-100),78,90,96,94,100,89,90,Up,Up
+DEP,7a,FALSE,CORE customer experience rating (0-100),90,91,95,95,100,90,90,Up,Up
+DOE,6a,FALSE,CORE facility rating,88,92,97,94,94,88,90,Up,Neutral
+DOF,7a,FALSE,CORE customer experience rating (0-100),82,86,92,93,81,90,90,Up,Neutral
+DOT,7a,FALSE,CORE customer experience rating (0-100),90,92,97,95,98,90,90,Up,Neutral
+DEP,2a,TRUE,Catch basin backup resolution time (days),5.1,3.1,3.9,3.1,4.0,9.0,9.0,Down,Down
+DEP,5a,TRUE,Average days to close air quality complaints,7.0,4.5,3.8,4.3,4.0,10.0,9.0,Down,Down
+DEP,5a,TRUE,Average days to close noise complaints,9.1,7.1,5.2,5.9,5.6,10.0,9.0,Down,Down
+DCA,1b,TRUE,Inspected stores complying with tobacco regulations (%),91%,91%,92%,92%,93%,90%,90%,Up,Neutral
+DCA,1c,TRUE,Decisions issued in 30 days or less (%),99%,94%,95%,89%,68%,90%,90%,Up,Down
+DCAS,6b,TRUE,Fleet in-service rate citywide (%),NA,91%,90%,90%,91%,90%,90%,Up,NA
+DCLA,3a,FALSE,Letters responded to in 14 days (%),61%,87%,100%,100%,100%,90%,90%,Up,Up
+DDC,1c,TRUE,Respondents rating a completed project as adequate or better (%),94%,95%,93%,85%,91%,90%,90%,Up,Neutral
+DDC,2a,FALSE,E-mails responded to in 14 days (%),91%,91%,94%,95%,86%,90%,90%,Up,Neutral
+DDC,2a,FALSE,Letters responded to in 14 days (%),97%,91%,96%,94%,88%,90%,90%,Up,Neutral
+DEP,5a,FALSE,Asbestos complaints responded to within three hours (%),100%,100%,100%,100%,100%,90%,90%,Up,Neutral
+DOE,6a,FALSE,Customers rating service good or better (%) (as applicable),94%,96%,95%,95%,95%,90%,90%,Up,Neutral
+DOHMH,7b,FALSE,Percent meeting time to first action - Food Establishment (14 days),94%,97%,98%,97%,92%,90%,90%,Neutral,Neutral
+DOHMH,7b,FALSE,Percent meeting time to first action - Food Poisoning (3 days),96%,96%,98%,84%,94%,90%,90%,Neutral,Neutral
+DOT,7a,FALSE,E-mails responded to in 14 days (%),93%,92%,89%,95%,98%,90%,90%,Up,Neutral
+DOT,7a,FALSE,Letters responded to in 14 days (%),94%,84%,90%,95%,98%,90%,90%,Up,Neutral
+DOT,7b,FALSE,Percent meeting time to close - Broken Muni Meter - No Receipt (14 days),87%,47%,96%,98%,68%,90%,90%,Neutral,Neutral
+DPR,1a,TRUE,Parks rated acceptable for cleanliness (%),88%,90%,91%,92%,92%,90%,90%,Up,Neutral
+DPR,6b,FALSE,Percent meeting time to first action - Dead Tree - Dead/Dying Tree (7 days),87%,87%,69%,69%,72%,90%,90%,Neutral,Down
+DPR,6b,FALSE,Percent meeting time to first action - New Tree Request - For One Address (180 days),80%,98%,98%,99%,90%,90%,90%,Neutral,Neutral
+DYCD,1a,TRUE,COMPASS NYC programs meeting target enrollment - elementary (school year) (%),100%,97%,99%,100%,99%,90%,90%,Up,Neutral
+DYCD,1a,TRUE,COMPASS NYC programs meeting target enrollment (summer) (%),97%,93%,95%,92%,80%,90%,90%,Up,Down
+DYCD,1b,TRUE,Utilization rate for crisis beds (%),98%,98%,98%,99%,96%,90%,90%,Up,Neutral
+DYCD,4a,TRUE,Agency assessments completed as a percent of total agency contracts (%),90%,97%,91%,56%,90%,90%,90%,Up,Down
+HRA,6a,FALSE,Letters responded to in 14 days (%),76.2%,77.8%,87.3%,80.5%,86.9%,90%,90%,Up,Up
+HRA,6a,FALSE,E-mails responded to in 14 days (%),93.3%,95.5%,96.2%,93.5%,92.9%,90%,90%,Up,Neutral
+TLC,3a,FALSE,Letters responded to in 14 days (%),97%,94%,92%,99%,NA,90%,90%,Up,NA
+TLC,3b,FALSE,Percent meeting time to first action - For-hire Vehicle Complaint (14 days),90%,88%,96%,61%,88%,90%,90%,Neutral,Down
+TLC,3b,FALSE,Percent meeting time to first action - Lost Property (7 days),94%,94%,87%,86%,72%,90%,90%,Neutral,Down
+TLC,3b,FALSE,Percent meeting time to first action - Taxi Complaint (14 days),93%,82%,94%,61%,86%,90%,90%,Neutral,Down
+DEP,7a,FALSE,Visitors rating customer service at borough centers as good or better (%),88.8%,90.8%,93.0%,93.0%,95.0%,90.0%,90.0%,Up,Neutral
+DOT,3a,TRUE,Staten Island Ferry - Trips that are on time (%),88.9%,88.6%,91.1%,92.1%,92.3%,90.0%,90.0%,Up,Neutral
+H + H,1b,TRUE,Prenatal patients retained in care through delivery (%),85.8%,83.0%,85.5%,87.1%,87.0%,90.0%,90.0%,Up,Neutral
+DHS,3a,FALSE,Single adults exiting to permanent housing,"7,541","8,526","10,012","8,734","8,649","9,000","9,000",Up,Up
+NYPL,1a,FALSE,Reference queries (000),"8,844","8,777","8,446","9,047","9,141","9,140","9,000",Up,Neutral
+HRA,1b,TRUE,SNAP application timeliness rate (%),93.1%,93.5%,87.2%,81.4%,93.9%,90.6%,90.6%,Up,Neutral
+NYCHA,2a,TRUE,Active capital projects in construction phase on schedule (%),91.1%,70.2%,61.0%,54.9%,94.2%,91.1%,91.1%,Up,Neutral
+SBS,4a,TRUE,Minority and Women-owned Business Enterprises awarded City contracts,633,651,684,902,"1,011",698,920,Up,Up
+DOHMH,1a,TRUE,Patients enrolled in Ryan White with current antiretroviral (ARV) prescription at last assessment (%),NA,82.6%,87.0%,87.7%,86.4%,92.0%,92.0%,Neutral,NA
+DSNY,1a,TRUE,Streets rated acceptably clean (%),95.5%,94.5%,93.3%,92.7%,95.0%,92.0%,92.0%,Up,Neutral
+DOE,1a,TRUE,Average daily attendance (%),91.6%,91.3%,91.1%,91.7%,91.9%,91.7%,92.9%,Up,Neutral
+DCA,1b,TRUE,Licensing Law compliance rate (%),94%,93%,93%,95%,95%,93%,93%,Up,Neutral
+DPR,1a,TRUE,Recreation centers rated acceptable for cleanliness (%),100%,100%,98%,100%,100%,93%,93%,Up,Neutral
+NYPL,1a,FALSE,Program sessions,"53,157","59,030","65,842","77,823","91,281","80,200","93,000",Up,Up
+CCRB,1b,TRUE,Mediation satisfaction rate (%),NA,97%,90%,90%,88%,94%,94%,Up,NA
+DOE,1a,FALSE,- Elementary/middle (%),93.8%,93.3%,92.9%,93.4%,93.6%,93.9%,94.6%,Up,Neutral
+DCAS,6a,FALSE,Vehicles with highest emission ratings purchased pursuant to Local Law 38 in the citywide fleet (%),98%,94%,99%,98%,98%,95%,95%,Up,Neutral
+DCAS,6a,FALSE,- Vehicles with highest emission ratings purchased pursuant to Local Law 38 in DCAS-managed fleet (%),NA,94%,99%,96%,100%,95%,95%,Up,NA
+DDC,1b,FALSE,Projects audited (%),100%,100%,100%,100%,100%,95%,95%,Up,Neutral
+DEP,7a,FALSE,E-mails responded to in 14 days (%),91%,94%,88%,86%,93%,95%,95%,Up,Neutral
+DEP,7a,FALSE,Letters responded to in 14 days (%),96%,97%,97%,99%,99%,95%,95%,Up,Neutral
+DOHMH,7b,FALSE,Percent meeting time to first action - Indoor Air Quality (14 days),99%,97%,99%,99%,99%,95%,95%,Neutral,Neutral
+DOI,1a,FALSE,VENDEX checks completed within 30 days (%),98%,93%,88%,99%,95%,95%,95%,Up,Neutral
+DoITT,4a,FALSE,Inspected phones passing scorecard appearance standards (%),98%,98%,97%,98%,99%,95%,95%,Up,Neutral
+DPR,1a,TRUE,Play equipment rated acceptable (%),92%,93%,93%,92%,95%,95%,95%,Up,Neutral
+DPR,1a,TRUE,Safety surfaces rated acceptable (%),92%,93%,94%,95%,95%,95%,95%,Up,Neutral
+DPR,1a,TRUE,Comfort stations in service (in season only) (%),93%,94%,95%,97%,95%,95%,95%,Up,Neutral
+DPR,1a,TRUE,Spray showers in service (in season only) (%),97%,92%,96%,94%,92%,95%,95%,Up,Neutral
+DPR,1a,TRUE,Drinking fountains in service (in season only) (%),93%,95%,95%,94%,96%,95%,95%,Up,Neutral
+DPR,2a,TRUE,- Removed within 30 days of service request (%),94%,91%,99%,97%,84%,95%,95%,Up,Neutral
+DPR,6b,FALSE,Percent meeting time to first action - Damaged Tree - Branch or Limb Has Fallen Down (8 days),94%,94%,82%,83%,94%,95%,95%,Neutral,Neutral
+DPR,6b,FALSE,Percent meeting time to first action - Overgrown Tree/Branches - Hitting Building (30 days),93%,92%,88%,57%,48%,95%,95%,Neutral,Down
+HPD,5a,FALSE,"Visitors to the Division of Tenant Resources, Client and Owner Services rating customer service as good or better (%)",99%,99%,NA,85%,83%,95%,95%,Up,NA
+DFTA,1b,TRUE,Senior center utilization rate (%),93.0%,86.0%,86.0%,85.0%,86.0%,95.0%,95.0%,Neutral,Neutral
+DOC,1e,TRUE,On-trial inmates delivered to court on-time (%),96.9%,94.9%,94.2%,90.9%,84.0%,95.0%,95.0%,Up,Down
+EDC,2a,TRUE,Occupancy rate of NYCEDC-managed property (%),95.0%,95.7%,97.3%,93.3%,93.7%,95.0%,95.0%,Up,Neutral
+DOC,1d,TRUE,Population as percent of capacity (%),92%,89%,86%,80%,80%,96%,96%,Neutral,Down
+OATH,1a,FALSE,OATH Trials Division facts and conclusions adopted by agencies (%),98%,99%,98%,99%,99%,96%,96%,Up,Neutral
+HRA,1a,TRUE,Cash assistance application timeliness rate (%),94.5%,92.6%,93.6%,94.4%,97.5%,96.0%,96.0%,Up,Neutral
+DFTA,2b,TRUE,Hours of home care services provided,"823,831","890,232","996,105","906,442","1,097,543","961,500","961,500",Up,Up
+DCAS,6b,FALSE,- Fleet in-service rate for DCAS-managed fleet (%),NA,98%,98%,98%,98%,97%,97%,Up,NA
+DOF,1a,TRUE,Property taxes billed that are paid (%),97.3%,97.5%,98.6%,98.5%,98.6%,97.0%,97.0%,Up,Neutral
+DSNY,1a,TRUE,Sidewalks rated acceptably clean (%),96.3%,96.1%,96.0%,95.5%,96.5%,97.0%,97.0%,Up,Neutral
+NYCHA,1b,TRUE,Elevator service uptime,99.4%,99.2%,99.1%,99.0%,98.6%,97.0%,97.0%,Up,Neutral
+NYCHA,2c,TRUE,Utilization rate for Section 8 vouchers (%),95.3%,93.9%,91.2%,88.1%,87.0%,97.0%,97.0%,Up,Neutral
+SBS,3a,TRUE,Average acceptably clean BID sidewalk ratings (%),99.0%,98.5%,96.5%,96.1%,96.8%,97.0%,97.0%,Up,Neutral
+NYCHA,1a,TRUE,Rent collection (%),99.2%,94.4%,94.6%,94.9%,94.9%,97.5%,97.5%,Up,Neutral
+BPL,1a,TRUE,Total library attendance (000),"12,024","10,067","8,432","8,699","8,686","9,296","9,774",Up,Down
+DCA,1b,FALSE,Weights and Measures Law compliance rate - gasoline pumps (%),95%,97%,99%,99%,100%,98%,98%,Up,Neutral
+DOT,7b,FALSE,Percent meeting time to close - Street Condition - Pothole (30 days),100%,100%,97%,98%,100%,98%,98%,Neutral,Neutral
+DOT,7b,FALSE,Percent meeting time to first action - Street Light Condition - Street Light Out (10 days),96%,99%,93%,99%,98%,98%,98%,Neutral,Neutral
+DOE,1a,FALSE,Students in grades 1 to 9 promoted (%),94.6%,94.5%,94.7%,96.0%,96.3%,98.0%,98.0%,Up,Neutral
+DoITT,3a,TRUE,Cable complaints resolved within 30 days (%),99.2%,99.3%,99.4%,99.8%,100.0%,98.0%,98.0%,Up,Neutral
+DOT,1b,TRUE,Muni-meters that are operable (%),99.2%,99.2%,99.3%,99.2%,99.2%,98.0%,98.0%,Up,Neutral
+HPD,4a,TRUE,Section 8     - Voucher utilization rate,97.1%,98.2%,98.2%,93.3%,94.5%,98.0%,98.0%,Up,Neutral
+DOHMH,1b,TRUE,Children in the public schools who are in compliance with required immunizations (%),99.1%,99.1%,99.2%,99.0%,98.8%,99.0%,99.0%,Up,Neutral
+NYCHA,2b,TRUE,Occupancy rate (%),99.2%,98.8%,99.4%,99.5%,99.5%,99.2%,99.2%,Up,Neutral
+HRA,1c,TRUE,Application timeliness rate for Medicaid administered by HRA (%),99.4%,98.3%,91.7%,96.5%,92.1%,99.4%,99.4%,Up,Neutral
+DoITT,1a,TRUE,"Average uptime of key systems (mainframe, UNIX, Wintel) (%)",99.95%,99.83%,99.72%,99.36%,99.59%,99.99%,99.99%,Up,Neutral
+DoITT,1a,FALSE,Uptime of NYC.gov (%),99.78%,99.99%,99.93%,99.99%,100.00%,99.99%,99.99%,Up,Neutral
+DoITT,1a,FALSE,Uptime of NYCWiN (%),99.99%,99.99%,100.00%,100.00%,99.99%,99.99%,99.99%,Up,Neutral
+DoITT,1a,FALSE,Uptime of 800 MHz network (%),99.98%,99.99%,100.00%,100.00%,100.00%,99.99%,99.99%,Up,Neutral
+DoITT,1a,FALSE,Uptime of Citywide Radio Network (%),99.99%,99.99%,100.00%,100.00%,100.00%,99.99%,99.99%,Up,Neutral
+DoITT,1d,TRUE,Uptime of telecommunications network (Voice over Internet Protocol) (%),NA,99.97%,100.00%,100.00%,100.00%,99.99%,99.99%,Up,NA
+BIC,1b,TRUE,Average time to approve waste hauling applications (days) - New and Renewal,238,180,96,234,235,Down,Down,Down,Up
+BIC,1b,TRUE,Average time to approve waste hauling applications (days) - New,309,212,103,235,154,Down,Down,Down,Down
+BIC,1b,TRUE,Average time to approve waste hauling applications (days) - Renewal,203,166,94,234,254,Down,Down,Down,Up
+DCA,4a,TRUE,Average time to resolve all PSL complaints (calendar days),NA,NA,NA,33,101,Down,Down,Down,NA
+DCAS,2c,TRUE,Average square feet of office space per employee,280,280,262,261,256,280,Down,Down,Neutral
+DDC,1b,TRUE,Project inspections with at least one high-risk deviation (%),50.7%,56.3%,72.7%,74.6%,69.1%,Down,Down,Down,Up
+DHS,2a,TRUE,Adult families entering the DHS shelter services system,"1,109","1,156","1,283","1,385","1,476",Down,Down,Down,Up
+DHS,2a,TRUE,Families with children entering the DHS shelter services system,"10,878","12,306","11,848","12,671","13,311",Down,Down,Down,Up
+DHS,2a,TRUE,Single adults entering the DHS shelter services system,"17,872","16,448","17,547","18,091","19,139",Down,Down,Down,Neutral
+DHS,2b,TRUE,"Adult shelter inspections with safety, maintenance or cleanliness deficiencies per 1,000 beds",0.28,0.15,0.00,0.01,0.00,Down,Down,Down,Down
+DHS,2b,TRUE,"Critical incidents in the adult shelter system, per 1,000 residents",NA,NA,NA,NA,3.2,Down,Down,Down,NA
+DHS,2b,TRUE,"Critical incidents in the adult family shelter system, per 1,000 residents",NA,NA,NA,NA,3.7,Down,Down,Down,NA
+DHS,2b,TRUE,"Critical incidents in the families with children shelter system, per 1,000 residents",NA,NA,NA,NA,1.7,Down,Down,Down,NA
+DHS,3a,TRUE,Average length of stay for single adults in shelter (days),275,293,305,329,355,Down,Down,Down,Up
+DHS,3a,TRUE,Average length of stay for adult families in shelter (days),416,469,515,534,563,Down,Down,Down,Up
+DHS,3a,TRUE,Average length of stay for families with children in shelter (days),337,375,427,430,431,Down,Down,Down,Up
+DHS,3b,TRUE,Families with children who exited to permanent housing and returned to the DHS shelter services system within one year - subsidized placement,1.1%,2.7%,2.4%,3.0%,1.4%,Down,Down,Down,Up
+DHS,3b,TRUE,Families with children who exited to permanent housing and returned to the DHS shelter services system within one year - unsubsidized placement,9.7%,10.2%,13.4%,19.9%,19.9%,Down,Down,Down,Up
+DHS,3b,TRUE,Adult Families who exited to permanent housing and returned to the DHS shelter services system within one year - subsidized placement,3.2%,1.7%,0.0%,1.0%,1.6%,Down,Down,Down,Down
+DHS,3b,TRUE,Adult families who exited to permanent housing and returned to the DHS shelter services system within one year - unsubsidized placement,9.1%,15.6%,13.0%,18.3%,11.9%,Down,Down,Down,Up
+DHS,4a,TRUE,"Unsheltered individuals who are estimated to be living on the streets, in parks, under highways, on subways, and in the public transportation stations in New York City","3,262","3,180","3,357","3,182","2,794",Down,Down,Down,Down
+DOB,2c,TRUE,Construction-related injuries,187,187,212,324,526,Down,Down,Down,Up
+DOB,2c,TRUE,Construction-related fatalities,7,5,6,10,11,Down,Down,Down,Up
+DOC,1a,TRUE,"Violent inmate-on-inmate incidents (monthly rate per 1,000 ADP)",26.9,27.2,32.9,37.8,47.8,Down,Down,Down,Up
+DOC,1a,TRUE,"Serious injury to inmate(s) as a result of violent inmate-on-inmate incidents (monthly rate per 1,000 ADP)",1.3,1.4,1.8,2.5,2.5,Down,Down,Down,Up
+DOC,1a,TRUE,"Inmate assault on staff (monthly rate per 1,000 ADP)",4.0,4.7,5.9,8.6,7.9,Down,Down,Down,Up
+DOC,1a,TRUE,"Serious injury to staff as a result of inmate assault on staff (monthly rate per 1,000 ADP)",0.27,0.20,0.39,0.35,0.20,Down,Down,Down,Neutral
+DOC,1a,TRUE,Escapes,0,1,0,0,0,Down,Down,Down,Down
+DOC,1a,TRUE,Non-natural deaths of inmates in custody,2,3,2,0,0,Down,Down,Down,Down
+DOC,1b,TRUE,"Department use of force incidents with serious injury (rate per 1,000 ADP)",1.00,0.92,1.18,1.14,0.66,Down,Down,Down,Down
+DOC,1c,TRUE,- Average clinic waiting time (minutes),28,35,41,34,28,Down,Down,Down,Neutral
+DOE,4a,TRUE,- Fair to poor condition (%),0.3%,0.3%,0.0%,0.1%,NA,Down,Down,Down,NA
+DOE,5a,TRUE,School safety - Seven major felony crimes,812,699,654,614,532,Down,Down,Down,Down
+DOE,5a,TRUE,- Other criminal categories,"3,295","2,626","2,485","2,286","2,219",Down,Down,Down,Down
+DOE,5a,TRUE,- Other incidents,"5,365","4,350","3,811","3,975","4,092",Down,Down,Down,Down
+DOF,4a,TRUE,Average time to address inquiries (days),NA,NA,NA,NA,9.0,Down,Down,Down,NA
+DOF,4a,TRUE,Average time to close a case (days),NA,NA,NA,NA,53.7,Down,Down,Down,NA
+DOHMH,1a,TRUE,New HIV diagnoses (CY Preliminary),"3,467","3,303","3,016","2,718","2,449",Down,Down,Down,Down
+DOHMH,1a,TRUE,Syphilis cases,903,"1,104","1,234","1,315","1,700",Down,Down,Down,Up
+DOHMH,1b,TRUE,New tuberculosis cases (CY),689,651,656,585,575,Down,Down,Down,Down
+DOHMH,2b,TRUE,"Asthma-related emergency department visits among children ages 5-17 (per 10,000 children) (CY) (preliminary)",NA,231.9,232.1,231.6,NA,Down,Down,Down,NA
+DOHMH,3a,TRUE,Childhood blood lead levels - new cases among children aged 6 months to less than six years with blood lead levels greater than or equal to 10 micrograms per deciliter,"1,042",844,772,818,784,Down,Down,Down,Down
+DOHMH,4a,TRUE,Deaths from unintentional drug overdose (CY),651,725,786,793,939,Down,Down,Down,Up
+DOT,2a,TRUE,Overall traffic crashes,"200,867","200,188","205,066","209,729","225,318",Down,Down,Down,Up
+DOT,2a,TRUE,Citywide traffic fatalities,291,261,285,249,236,Down,Down,Down,Down
+DPR,1b,TRUE,Major felonies reported on Parks' properties (excludes Central Park) - Crimes against persons,NA,NA,NA,488,612,Down,Down,Down,NA
+DPR,1b,TRUE,- Crimes against properties,NA,NA,NA,465,469,Down,Down,Down,NA
+DPR,2b,TRUE,Average time to close - Tree emergency service requests (days),NA,10.4,21.2,17.1,22.7,Down,Down,Down,NA
+FDNY,1a,TRUE,Structural fires,"25,254","25,278","25,902","27,189","26,922",Down,Down,Down,Neutral
+FDNY,1a,TRUE,Non-structural fires,"14,580","14,145","16,867","17,022","15,044",Down,Down,Down,Up
+FDNY,1c,TRUE,"Serious fires per 1,000 structural fires",106,103,97,93,88,Down,Down,Down,Down
+FDNY,1c,TRUE,Serious fires reaching second alarm or higher (%),6%,7%,8%,8%,8%,Down,Down,Down,Up
+FDNY,1c,TRUE,Civilian fire fatalities,70,47,81,55,64,Down,Down,Down,Neutral
+FDNY,1c,TRUE,Firefighter burns,198,233,186,215,218,Down,Down,Down,Neutral
+FDNY,1c,TRUE,Firefighter injuries,"10,738","9,273","8,663","8,926","9,416",Down,Down,Down,Down
+H + H,1b,TRUE,Uninsured patients served,"478,731","475,627","469,239","421,647","425,089",Down,Down,Down,Down
+LAW,1a,TRUE,Total citywide payout for judgments and claims ($000),"$506,048","$490,175","$579,899","$608,500","$655,873",Down,Down,Down,Up
+NYCHA,1b,TRUE,Alleged elevator injuries reported to DOB,13.0,16.0,9.0,17.0,20.0,Down,Down,Down,Up
+NYCHA,1b,TRUE,Elevator related fatalities,0,0,0,1,2,Down,Down,Down,Up
+NYCHA,1d,TRUE,Major felony crimes in public housing developments,"4,771","5,018","5,328","4,858","5,205",Down,Down,Down,Neutral
+NYPD,1a,TRUE,Major felony crime,"109,299","110,099","110,023","103,872","105,614",Down,Down,Down,Neutral
+NYPD,1a,TRUE,- Murder and non-negligent manslaughter,474,369,320,348,341,Down,Down,Down,Down
+NYPD,1a,TRUE,- Forcible rape,"1,098","1,198","1,064","1,064","1,164",Down,Down,Down,Neutral
+NYPD,1a,TRUE,- Robbery,"20,291","19,319","18,208","16,428","16,670",Down,Down,Down,Down
+NYPD,1a,TRUE,- Felonious assault,"18,762","19,616","20,517","19,544","20,877",Down,Down,Down,Neutral
+NYPD,1a,TRUE,- Burglary,"19,162","18,360","17,140","15,828","14,463",Down,Down,Down,Down
+NYPD,1a,TRUE,- Grand larceny,"40,642","43,622","45,238","43,112","45,164",Down,Down,Down,Neutral
+NYPD,1a,TRUE,- Grand larceny auto,"8,870","7,615","7,536","7,548","6,935",Down,Down,Down,Down
+NYPD,1a,TRUE,Major felony crime in housing developments,"4,771","5,018","5,328","4,858","5,205",Down,Down,Down,Neutral
+NYPD,1a,TRUE,Major felony crime in transit system,"2,741","2,535","2,488","2,283","2,520",Down,Down,Down,Down
+NYPD,1a,TRUE,School safety - Major felony crime,812,699,654,614,532,Down,Down,Down,Down
+NYPD,1c,TRUE,Average response time to all crimes in progress (dispatch and travel time only) (minutes),9.1,9.0,8.5,9.3,9.1,Down,Down,Down,Neutral
+NYPD,2a,TRUE,Traffic fatalities (motorist/passengers),115,93,113,90,84,Down,Down,Down,Down
+NYPD,2a,TRUE,Traffic fatalities (bicyclists/pedestrians),176,168,172,159,152,Down,Down,Down,Down
+3-1-1,1a,TRUE,311 Online site visits (000),"2,117","3,998","5,248","9,656","13,018",Up,Up,Up,Up
+DCAS,5c,TRUE,Cumulative installed solar capacity (kilowatts),334.2,428.5,428.5,"2,759.1","7,996.0",Up,Up,Up,Up
+DOE,1a,TRUE,Students in cohort graduating from high school in 6 years (%) (NYSED),72.7%,74.7%,NA,NA,NA,Up,Up,Up,NA
+DOE,2b,TRUE,Students with disabilities in cohort graduating from high school in 6 years (%) (NYSED),40.0%,48.2%,NA,NA,NA,Up,Up,Up,NA
+DOE,4a,TRUE,School building ratings  - Good condition (%),1.1%,0.9%,0.6%,0.7%,NA,Up,Up,Up,NA
+DOE,4a,TRUE,- Fair to good condition (%),49.2%,43.4%,43.8%,49.2%,NA,Up,Up,Up,NA
+DOHMH,3a,TRUE,Child care inspections that do not require a compliance inspection (%),70.0%,62.9%,66.9%,65.9%,62.0%,Up,Up,Up,Neutral
+DOHMH,3b,TRUE,Restaurants scoring an ÔAÕ grade (%),86.0%,86.9%,90.0%,93.0%,92.7%,Up,Up,Up,Neutral
+DOHMH,3c,TRUE,Compliance inspections found to be rat free (%),51.0%,52.6%,50.9%,46.8%,47.8%,Up,Up,Up,Neutral
+DOI,1b,TRUE,Financial recoveries to the City ordered/agreed ($000),"$523,356","$38,428","$11,144","$10,603","$3,004",Up,Up,Up,Down
+DOI,1b,TRUE,Financial recoveries to the City collected ($000),"$477,784","$6,041","$33,248","$6,034","$5,095",Up,Up,Up,Down
+DoITT,1c,TRUE,Projects completed on time (%),NA,NA,NA,75%,71%,Up,Up,Up,NA
+DoITT,2a,TRUE,NYC.gov web page views (000),NA,NA,NA,NA,"271,252.2",Up,Up,Up,NA
+DOP,2b,TRUE,Successful completion rate for adult probationers (%),64%,58%,59%,66%,68%,Up,Up,Up,Up
+DOP,2b,TRUE,Successful completion rate for juvenile probationers (%),62%,58%,60%,59%,61%,Up,Up,Up,Neutral
+DOT,3a,TRUE,In-season cycling index,390,388,422,437,NA,Up,Up,Up,NA
+DPR,2c,TRUE,Trees planted,NA,NA,NA,NA,"62,086",Up,Up,Up,NA
+DPR,3b,TRUE,New Yorkers living within walking distance of a park (%),NA,NA,NA,79.4%,81.0%,Up,Up,Up,NA
+DPR,4a,TRUE,Total recreation center memberships,"111,747","131,824","159,789","159,431","162,062",Up,Up,Up,Up
+DPR,4a,TRUE,Total recreation center attendance,"3,098,257","3,016,412","3,398,432","3,422,683","4,277,349",Up,Up,Up,Up
+EDC,3a,TRUE,Businesses served by industry-focused programmatic initiatives,NA,"1,070","1,290","1,366","2,722",Up,Up,Up,NA
+EDC,3b,TRUE,"- Projected net City tax revenues generated in connection with closed contracts ($000,000)",$302.1,$576.4,"$1,370.4","$1,435.6",$312.6,Up,Up,Up,Up
+EDC,3b,TRUE,"- Projected net City tax revenues generated in connection with closed contracts ($000,000)",NA,$173.6,$250.9,$515.6,$411.2,Up,Up,Up,NA
+FDNY,2b,TRUE,Cardiac arrest patients revived (%),NA,26%,25%,26%,24%,Up,Up,Up,NA
+FDNY,2b,TRUE,- Witnessed cardiac arrest patients revived (%),NA,45%,45%,45%,46%,Up,Up,Up,NA
+H + H,1b,TRUE,Number of unique patients,NA,"1,169,326","1,176,275","1,172,405","1,168,663",Up,Up,Up,NA
+H + H,1b,TRUE,MetroPlus membership,NA,"429,931","468,020","472,251","501,134",Up,Up,Up,NA
+HPD,1a,TRUE,Emergency complaints closed within 12 days of receipt (%),NA,73%,72%,70%,71%,Up,Up,Up,NA
+HRA,2a,TRUE,Clients whom HRA helped obtain employment (000),NA,NA,48.1,46.6,47.0,Up,Up,Up,NA
+HRA,2a,TRUE,Safety Net Assistance (SNA) cases engaged in training or education in accordance with New York City guidelines (%),NA,16.2%,19.0%,20.7%,25.5%,Up,Up,Up,NA
+HRA,2a,TRUE,Family cases engaged in training or education in accordance with New York City guidelines (%),NA,23.7%,24.3%,25.5%,27.4%,Up,Up,Up,NA
+HRA,2c,TRUE,Support cases with active orders receiving current payments (%),NA,59.7%,58.4%,59.9%,60.0%,Up,Up,Up,NA
+HRA,5a,TRUE,"Medicaid recoveries and cost avoidance for fraud, waste & abuse ($000,000)",$197.88,$205.09,$224.89,$186.26,$159.86,Up,Up,Up,Down
+SBS,1a,TRUE,Number of businesses opened by NYC Business Acceleration,NA,563,757,854,915,Up,Up,Up,NA
+SBS,2a,TRUE,Customers enrolled in training,NA,NA,NA,NA,"3,649",Up,Up,Up,NA
