@@ -12,13 +12,12 @@ output: html_notebook
 rm(list = ls())
 
 # load all packages here
+JonSnow <- read.csv("nyc-social-media-usage-csv_csv.csv")
+NYC_Performance <- read.csv("FY16_MMR_Agency_Performance_Indicators.csv")
 
 # user-defined functions here (if any)
 
 ```
 
-```{r}
-JonSnow <- read.csv("file:///C:/Users/bball/Downloads/nyc-social-media-usage-csv_csv.csv")
-JonSnow
-```
+
 
