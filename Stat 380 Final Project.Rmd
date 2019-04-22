@@ -17,3 +17,8 @@ rm(list = ls())
 
 ```
 
+```{r}
+JonSnow <- read.csv("file:///C:/Users/bball/Downloads/nyc-social-media-usage-csv_csv.csv")
+JonSnow
+```
+
