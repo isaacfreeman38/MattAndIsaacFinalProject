@@ -14,6 +14,10 @@ rm(list = ls())
 # load all packages here
 library("httr")
 library("readxl")
+library(dplyr)
+library(tidyr)
+library(rvest)
+
 GET("https://query.data.world/s/r7tdedfpzdgrras4zhjswl7pdi733r", write_disk(tf <- tempfile(fileext = ".xlsx")))
 state_incomes <- read_excel(tf)
 
@@ -23,19 +27,24 @@ state_incomes <- read_excel(tf)
 ```
 
 ```{r}
-<<<<<<< HEAD
-JonSnow <- read.csv("nyc-social-media-usage-csv_csv.csv")
-JonSnow
 
-NYCPerformance <- read.csv("FY16_MMR_Agency_Performance_Indicators.csv")
-NYCPerformance
+
+
+url <- "https://wallethub.com/edu/happiest-states/6959/" 
+tables <- 
+  url %>%
+    read_html() %>% 
+      html_nodes("table")
+
+Happiness <- html_table(tables[[1]])
+
+Happiness
 ```
 
 ```{r}
 
-=======
 state_incomes
->>>>>>> caf4bdecc06999c971c294da29c25910f145b562
+
 ```
 
 
