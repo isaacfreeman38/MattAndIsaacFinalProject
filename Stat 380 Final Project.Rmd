@@ -23,19 +23,7 @@ state_incomes <- read_excel(tf)
 ```
 
 ```{r}
-<<<<<<< HEAD
-JonSnow <- read.csv("nyc-social-media-usage-csv_csv.csv")
-JonSnow
-
-NYCPerformance <- read.csv("FY16_MMR_Agency_Performance_Indicators.csv")
-NYCPerformance
-```
-
-```{r}
-
-=======
 state_incomes
->>>>>>> caf4bdecc06999c971c294da29c25910f145b562
 ```
 
 
