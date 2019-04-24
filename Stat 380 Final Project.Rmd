@@ -12,11 +12,18 @@ output: html_notebook
 rm(list = ls())
 
 # load all packages here
-JonSnow <- read.csv("nyc-social-media-usage-csv_csv.csv")
-NYC_Performance <- read.csv("FY16_MMR_Agency_Performance_Indicators.csv")
+library("httr")
+library("readxl")
+GET("https://query.data.world/s/r7tdedfpzdgrras4zhjswl7pdi733r", write_disk(tf <- tempfile(fileext = ".xlsx")))
+state_incomes <- read_excel(tf)
+
 
 # user-defined functions here (if any)
 
+```
+
+```{r}
+state_incomes
 ```
 
 
