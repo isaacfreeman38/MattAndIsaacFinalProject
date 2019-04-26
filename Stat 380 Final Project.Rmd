@@ -41,6 +41,10 @@ Happiness
 ```
 
 ```{r}
+state_incomes = rename(state_incomes, State = `Table with row headers in column A and column headers in rows 4 and 5`)
+```
+
+```{r}
 state_incomes
 ```
 
@@ -55,6 +59,12 @@ Use the standard error to create buffers for the lines
 Show the happiness compared to the same years median income and see if there is a correlation between the two. (geomscatter)
 
 Perform a simulation to see what type of happiness correlates best with overall happiness.
+
+```{r}
+JoinedTablesRaw <-
+  merge(Happiness, state_incomes, by = "State")
+JoinedTablesRaw
+```
 
 
 
