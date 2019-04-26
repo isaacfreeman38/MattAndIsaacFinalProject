@@ -44,5 +44,19 @@ Happiness
 state_incomes
 ```
 
+Fix the second table so the columns have the correct names.
+Join the two tables together. Gather the median and standard error of incomes by state and/or year.
+Use a user defined function and/ or loop to change the column names.
+Use a loop to test the happiness and income for each state.
+Use a vectorized function
+
+Visualization for each states median income and the change over time.
+Use the standard error to create buffers for the lines
+Show the happiness compared to the same years median income and see if there is a correlation between the two. (geomscatter)
+
+Perform a simulation to see what type of happiness correlates best with overall happiness.
+
+
+
 
 
