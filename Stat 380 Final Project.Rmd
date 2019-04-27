@@ -108,11 +108,11 @@ TableWYears %>%
 graph1 <- 
   TableWYears %>%
   select(OverallRank, EPRank) %>%
-  ggplot(aes(x = OverallRank, y = EPRank)) + 
+  ggplot(aes(y = OverallRank, x = EPRank)) + 
   geom_point() + 
   geom_smooth(method = "lm", se = 0) + 
-  xlab("Overall Happiness Ranking") + 
-  ylab("Emotional/Physical Well-Being Ranking")
+  ylab("Overall Happiness Ranking") + 
+  xlab("Emotional/Physical Well-Being Ranking")
 graph1
 ```
 
@@ -120,11 +120,11 @@ graph1
 graph2 <- 
   TableWYears %>%
   select(OverallRank, WERank) %>%
-  ggplot(aes(x = OverallRank, y = WERank)) + 
+  ggplot(aes(y = OverallRank, x = WERank)) + 
   geom_point() + 
   geom_smooth(method = "lm", se = 0) + 
-  xlab("Overall Happiness Ranking") + 
-  ylab("Work Environment Ranking")
+  ylab("Overall Happiness Ranking") + 
+  xlab("Work Environment Ranking")
 graph2
 ```
 
@@ -132,11 +132,11 @@ graph2
 graph3 <- 
   TableWYears %>%
   select(OverallRank, CERank) %>%
-  ggplot(aes(x = OverallRank, y = CERank)) + 
+  ggplot(aes(y = OverallRank, x = CERank)) + 
   geom_point() + 
   geom_smooth(method = "lm", se = 0) + 
-  xlab("Overall Happiness Ranking") + 
-  ylab("Community Environment Ranking")
+  ylab("Overall Happiness Ranking") + 
+  xlab("Community Environment Ranking")
 graph3
 ```
 ```
