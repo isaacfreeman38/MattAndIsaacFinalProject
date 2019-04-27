@@ -66,6 +66,21 @@ JoinedTablesRaw <-
 JoinedTablesRaw
 ```
 
+```{r}
+# Rename a column in R
+
+startofyear <- names(JoinedTablesRaw)[7]<- 2014
+startofyear <- names(JoinedTablesRaw)[8]<- 2014
+
+for(i in 9:66) 
+  #year <- 2017 - trunc(i/2)
+  
+  startofyear <- names(JoinedTablesRaw)[i]<- 2017 - trunc((i+1)/2)
+  #endyear <- names(JoinedTablesRaw)[i]<- 2019 - trunc((i+1)/2)
+
+JoinedTablesRaw
+
+```
 
 
 
