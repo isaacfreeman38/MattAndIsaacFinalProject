@@ -144,6 +144,17 @@ graph3 <-
   xlab("Community Environment Ranking")
 graph3
 ```
+
+```{r}
+require(rpart)
+decision_tree_model <-
+  rpart(OverallRank ~ CERank, WERank, data = TableWYears)
+decision_tree_model
+```
+
+```{r}
+require(partykit)
+plot(as.party(decision_tree_model))
 ```
 
 
