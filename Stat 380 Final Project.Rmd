@@ -102,5 +102,42 @@ TableWYears %>%
  select("1988")
 ```
 
+```{r}
+graph1 <- 
+  TableWYears %>%
+  select(OverallRank, EPRank) %>%
+  ggplot(aes(x = OverallRank, y = EPRank)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0) + 
+  xlab("Overall Happiness Ranking") + 
+  ylab("Emotional/Physical Well-Being Ranking")
+graph1
+```
+
+```{r}
+graph2 <- 
+  TableWYears %>%
+  select(OverallRank, WERank) %>%
+  ggplot(aes(x = OverallRank, y = WERank)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0) + 
+  xlab("Overall Happiness Ranking") + 
+  ylab("Work Environment Ranking")
+graph2
+```
+
+```{r}
+graph3 <- 
+  TableWYears %>%
+  select(OverallRank, CERank) %>%
+  ggplot(aes(x = OverallRank, y = CERank)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0) + 
+  xlab("Overall Happiness Ranking") + 
+  ylab("Community Environment Ranking")
+graph3
+```
+```
+
 
 
