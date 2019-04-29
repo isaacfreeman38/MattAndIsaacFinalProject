@@ -129,49 +129,19 @@ GatheredIncome %>%
 
 ```{r}
 
-makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank)  + ylab("Overall Happiness Ranking") + 
-  xlab("Emotional/Physical Well-Being Ranking")
-
-makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank)
-```
-
-
-
-```{r}
-graph1 <- 
-  TableWYears %>%
-  select(OverallRank, EPRank) %>%
-  ggplot(aes(y = OverallRank, x = EPRank)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0) + 
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
   ylab("Overall Happiness Ranking") + 
   xlab("Emotional/Physical Well-Being Ranking")
-graph1
-```
 
-```{r}
-graph2 <- 
-  TableWYears %>%
-  select(OverallRank, WERank) %>%
-  ggplot(aes(y = OverallRank, x = WERank)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0) + 
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank) +
   ylab("Overall Happiness Ranking") + 
   xlab("Work Environment Ranking")
-graph2
-```
 
-```{r}
-graph3 <- 
-  TableWYears %>%
-  select(OverallRank, CERank) %>%
-  ggplot(aes(y = OverallRank, x = CERank)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0) + 
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
   ylab("Overall Happiness Ranking") + 
   xlab("Community Environment Ranking")
-graph3
 ```
+
 
 ```{r}
 require(rpart)
@@ -188,7 +158,7 @@ plot(as.party(decision_tree_model))
 ```{r}
 avgIncomeTable <-
   TableWYears %>%
-    mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`)+ as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
+    mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`) + as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
 avgIncomeTable  
 ```
 
