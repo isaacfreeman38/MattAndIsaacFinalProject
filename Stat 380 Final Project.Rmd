@@ -185,5 +185,20 @@ require(partykit)
 plot(as.party(decision_tree_model))
 ```
 
+```{r}
+avgIncomeTable <-
+  TableWYears %>%
+    mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`)+ as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
+avgIncomeTable  
+```
+
+```{r}
+avgIncomeTable <-
+  avgIncomeTable %>%
+  mutate(avgIncome = totalIncome/30)
+avgIncomeTable$incomeRank <- NA
+avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
+avgIncomeTable
+```
 
 
