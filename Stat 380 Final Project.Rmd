@@ -237,6 +237,25 @@ barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T)
 
 ```
 
+```{r}
+RankDiffSims <- 
+  mosaic::do(1000) * 
+    avgIncomeTable %>%
+    mutate(State = shuffle(State)) %>%
+    group_by(State) %>%
+    summarise(meanRankDiff = sqrt(mean((as.numeric(incomeRank) - as.numeric(OverallRank))**2, na.rm = TRUE)))
+
+# results after `shuffle( )`
+favstats(meanRankDiff ~ State, data = RankDiffSims)
+```
+
+```{r}
+# how many states have the letter "y" in them?
+RegexText <-
+  grepl("y", avgIncomeTable$State)
+count(RegexText)
+```
+
 
 
 
