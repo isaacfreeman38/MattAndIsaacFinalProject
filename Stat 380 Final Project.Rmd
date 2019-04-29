@@ -29,12 +29,16 @@ tables <-
   url %>%
     read_html() %>% 
       html_nodes("table")
-
 Happiness <- html_table(tables[[1]])
 
-
 # user-defined functions here (if any)
-
+makeGraph <- function(df, yaxis, xaxis) {
+  df %>%
+  select(yaxis, xaxis) %>%
+  ggplot(aes(y = yaxis, x = xaxis)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0)
+}
 ```
 
 ```{r}
@@ -66,25 +70,31 @@ JoinedTablesRaw <-
   merge(Happiness, state_incomes, by = "State")
 JoinedTablesRaw
 ```
-TableWYears %>%
-  if(colnames() == "SE") {
-    #colnames("Hi")
-  }
+for(i in 9:66)
+  names(df)[i]<- 2017 - trunc((i+1)/2)
+for(j in 4:33)
+  names(df)[(j)*2]<- j - 3
+
+
+
+for(i in 9:66)
+  names(TableWYears)[i]<- 2017 - trunc((i+1)/2)
+for(j in 4:33)
+  names(TableWYears)[(j)*2]<- j - 3
 ```{r}
 # Rename a column in R
-
 names(JoinedTablesRaw)[7]<- 2014
 names(JoinedTablesRaw)[8]<- 2014
 
-for(i in 9:66)
-  names(JoinedTablesRaw)[i]<- 2017 - trunc((i+1)/2)
+
 
 TableWYears <- JoinedTablesRaw
-TableWYears
+#TableWYears
 
+for(i in 9:66)
+  names(TableWYears)[i]<- 2017 - trunc((i+1)/2)
 for(j in 4:33)
   names(TableWYears)[(j)*2]<- j - 3
-
 
 names(TableWYears)[2]<- "OverallRank"
 names(TableWYears)[3]<- "TotalScore"
@@ -93,8 +103,6 @@ names(TableWYears)[5]<- "WERank"
 names(TableWYears)[6]<- "CERank"
 
 TableWYears
-
-
 ```
 
 ```{r}
@@ -121,6 +129,10 @@ GatheredIncome %>%
 
 ```{r}
 
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank)  + ylab("Overall Happiness Ranking") + 
+  xlab("Emotional/Physical Well-Being Ranking")
+
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank)
 ```
 
 
