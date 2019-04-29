@@ -164,5 +164,5 @@ avgIncomeTable$incomeRank <- NA
 avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
 avgIncomeTable
 ```
-
+ 
 
