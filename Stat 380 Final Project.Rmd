@@ -70,17 +70,8 @@ JoinedTablesRaw <-
   merge(Happiness, state_incomes, by = "State")
 JoinedTablesRaw
 ```
-for(i in 9:66)
-  names(df)[i]<- 2017 - trunc((i+1)/2)
-for(j in 4:33)
-  names(df)[(j)*2]<- j - 3
-
-
-
-for(i in 9:66)
-  names(TableWYears)[i]<- 2017 - trunc((i+1)/2)
-for(j in 4:33)
-  names(TableWYears)[(j)*2]<- j - 3
+  
+  j - 3
 ```{r}
 # Rename a column in R
 names(JoinedTablesRaw)[7]<- 2014
@@ -92,8 +83,9 @@ TableWYears <- JoinedTablesRaw
 for(i in 9:66)
   names(TableWYears)[i]<- 2017 - trunc((i+1)/2)
 for(j in 4:33)
-  names(TableWYears)[(j)*2]<- j - 3
+  names(TableWYears)[(j)*2]<- -2017 + j
 
+names(TableWYears)[8]<- -2014
 names(TableWYears)[2]<- "OverallRank"
 names(TableWYears)[3]<- "TotalScore"
 names(TableWYears)[4]<- "EPRank"
