@@ -164,5 +164,21 @@ avgIncomeTable$incomeRank <- NA
 avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
 avgIncomeTable
 ```
+<<<<<<< HEAD
  
+=======
 
+```{r}
+avgIncomeTable <-
+  avgIncomeTable %>%
+  mutate(HappinessDecile = (as.numeric(OverallRank) %/% 5) + 1)
+avgIncomeTable
+```
+
+```{r}
+barGraphData <- rbind(avgIncomeTable$OverallRank, avgIncomeTable$incomeRank)
+>>>>>>> 0b482b7dd9ec01c23c8f2ebfa8e728facb42ac4e
+
+barplot(barGraphData, names.arg = avgIncomeTable$State, beside=T) +
+  facet_wrap(~ avgIncomeTable$HappinessDecile)
+```
