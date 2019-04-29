@@ -86,8 +86,6 @@ for(j in 4:33)
 names(JoinedTablesRaw)[7]<- 2014
 names(JoinedTablesRaw)[8]<- 2014
 
-
-
 TableWYears <- JoinedTablesRaw
 #TableWYears
 
@@ -140,6 +138,10 @@ makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank) +
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
   ylab("Overall Happiness Ranking") + 
   xlab("Community Environment Ranking")
+
+cor(TableWYears$OverallRank, TableWYears$EPRank)
+cor(TableWYears$OverallRank, TableWYears$WERank)
+cor(TableWYears$OverallRank, TableWYears$CERank)
 ```
 
 
