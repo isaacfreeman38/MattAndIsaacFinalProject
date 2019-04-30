@@ -42,7 +42,7 @@ makeGraph <- function(df, yaxis, xaxis) {
 }
 
 happinessGraph <- function(newdf, df, column, value, binded) {
-  newdf
+  newdf 
     df %>%
      filter(column == value)
     binded <- rbind(df$OverallRank, df$incomeRank)
@@ -98,14 +98,17 @@ Here we were able to use the gather function to look at the median income of dif
 GatheredIncome <-
   TableWYears %>% 
     gather(key = year, value = median, "1984", "1985", "1986", "1987", "1988", "1989", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2014") %>%
-    select(State, year, median) %>%
+    select(State, year, median, OverallRank) 
+
+GatheredIncomeFiltered <-
+  GatheredIncome %>%
     filter(State == "Pennsylvania" | State == "West Virginia" | 
            State == "Hawaii" | State == "Kansas")
 
 #as.numeric(GatheredIncome$year)
 #as.numeric(GatheredIncome$median)
 
-GatheredIncome %>%
+GatheredIncomeFiltered %>%
   ggplot(aes(x = year, y = median, color = State, group = 
                as.factor(State))) + 
   geom_line() + 
@@ -133,6 +136,27 @@ makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
 cor(TableWYears$OverallRank, TableWYears$EPRank)
 cor(TableWYears$OverallRank, TableWYears$WERank)
 cor(TableWYears$OverallRank, TableWYears$CERank)
+```
+
+We used the same technique as above but this time we compared the median income in 2014 for all 50 states and their Happiness rating to see if there was a correlation between the 2. The is a positive correlation with an r value of .608.
+```{r}
+GatheredIncome2014 <-
+  GatheredIncome %>%
+    filter(year == "2014") %>%
+      mutate(median = as.numeric(median),
+             OverallRank = rank(-OverallRank))
+
+GatheredIncome2014
+
+GatheredIncome2014 %>%
+  select(OverallRank, median) %>%
+  ggplot(aes(y = OverallRank, x = median)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0) +
+  ylab("Overall Happiness Ranking") + 
+  xlab("Median Income in 2014 for All 50 States")
+
+cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
 ```
 
 
