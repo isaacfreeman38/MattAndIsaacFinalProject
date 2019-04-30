@@ -7,6 +7,7 @@ output: html_notebook
 
 # Front matter
 
+Here we get our project started by downloading the necessary packages and uploading the data we will be analyzing. We got our median income data from the data world website and the happiness rating from wallethub. In the front matter we also added some user defined functions such as when we were making the graphs.
 ```{r echo=TRUE, message=FALSE}
 # always clean up R environment
 rm(list = ls())
@@ -18,7 +19,6 @@ library(dplyr)
 library(tidyr)
 library(rvest)
 library(ggplot2)
-library(DataComputing)
 
 # upload data here
 
@@ -50,37 +50,26 @@ happinessGraph <- function(newdf, df, column, value, binded) {
 }
 ```
 
+Here is a look at the happiness dataset that we uploaded from wallethub. It includes the overall rank of each states happiness along with a total score and different types of happiness that help make up the final score.
 ```{r}
 Happiness
 ```
 
+Here we changed the name of one of the columns in the state_incomes dataset. We uploaded this data set from dataworld and it contains the median and standard deviations of each state ranging from 1984-2014
 ```{r}
 state_incomes = rename(state_incomes, State = `Table with row headers in column A and column headers in rows 4 and 5`)
-```
 
-```{r}
 state_incomes
 ```
 
-Fix the second table so the columns have the correct names.
-Join the two tables together. Gather the median and standard error of incomes by state and/or year.
-Use a user defined function and/ or loop to change the column names.
-Use a loop to test the happiness and income for each state.
-Use a vectorized function
-
-Visualization for each states median income and the change over time.
-Use the standard error to create buffers for the lines
-Show the happiness compared to the same years median income and see if there is a correlation between the two. (geomscatter)
-
-Perform a simulation to see what type of happiness correlates best with overall happiness.
-
+This is where we joined the two tables together by "State" using the merge function. This way we can compare how (median) income affects happiness and try to answer the question "Can money buy you happiness?"
 ```{r}
 JoinedTablesRaw <-
   merge(Happiness, state_incomes, by = "State")
 JoinedTablesRaw
 ```
   
-  j - 3
+We clean up the joined data table by changing the column names to match the year the column belongs to. A loop was useful here to change most of them as the columns were in order by year but some of them did need to be handled individually as they did not fit the pattern.
 ```{r}
 # Rename a column in R
 names(JoinedTablesRaw)[7]<- 2014
@@ -104,6 +93,7 @@ names(TableWYears)[6]<- "CERank"
 TableWYears
 ```
 
+Here we were able to use the gather function to look at the median income of different states over the years. We chose Hawaii, Kansas, and West Virginia because they were the 1st, 25th, and 50th happiest ranked state respectively. We wanted to see if there were big differences between the extremes and looking at the graph income does play a role in predicting happiness.
 ```{r}
 GatheredIncome <-
   TableWYears %>% 
@@ -126,8 +116,8 @@ GatheredIncome %>%
   theme(axis.text.x = element_text(angle = 60, hjust = 1)) 
 ```
 
+Here we used the user-defined function created earlier to make the base of the graphs looking at how different types of happiness affect overall happiness. We also tested the correlation and determined that Emotional and Physical Well Being plays the biggest role in determining overall happiness, while all three were positively correlated.
 ```{r}
-
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
   ylab("Overall Happiness Ranking") + 
   xlab("Emotional/Physical Well-Being Ranking")
@@ -174,7 +164,7 @@ avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeT
 avgIncomeTable
 ```
 
-
+To make it easier to read the graphs we split them up into groups of ten and then reversed the ranks so the greatest happiness and income have the tallest bars.
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
@@ -189,6 +179,8 @@ avgIncomeTable
 barplot(barGraphData, names.arg = avgIncomeTable$State, beside=T) +
   facet_wrap(~ avgIncomeTable$HappinessQuantile)
   
+  
+This is where we created the bargraphs comparing the median income and happiness rank of each state individually. We tried to see how good of a predictor money is to happiness and for the most part it does do a good job. While there are some exceptions we think that median income does have a sizeable influence on how happy you are.
 ```{r}
 avgIncomeTable1 <-
   avgIncomeTable %>%
@@ -256,6 +248,16 @@ RegexText <-
 count(RegexText)
 ```
 
+Fix the second table so the columns have the correct names.
+Join the two tables together. Gather the median and standard error of incomes by state and/or year.
+Use a user defined function and/ or loop to change the column names.
+Use a loop to test the happiness and income for each state.
+Use a vectorized function
 
+Visualization for each states median income and the change over time.
+Use the standard error to create buffers for the lines
+Show the happiness compared to the same years median income and see if there is a correlation between the two. (geomscatter)
+
+Perform a simulation to see what type of happiness correlates best with overall happiness.
 
 
