@@ -176,6 +176,16 @@ avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeT
 avgIncomeTable
 ```
 
+Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
+```{r}
+avgIncomeTable <-
+  avgIncomeTable %>%
+    mutate(avgIncome = totalIncome/30)
+avgIncomeTable$incomeRank <- NA
+avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
+avgIncomeTable
+```
+
 Another visual we created was a decision tree using average income to predict overall happinness rank.  The initial branch off was at 47,641.80 dollars, with further splits at 59,335.13 dollars and 53,059 dollars.
 ```{r}
 require(rpart)
@@ -189,20 +199,6 @@ require(partykit)
 plot(as.party(decision_tree_model))
 ```
 
-<<<<<<< HEAD
-=======
-
-Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
-```{r}
-avgIncomeTable <-
-  avgIncomeTable %>%
-    mutate(avgIncome = totalIncome/30)
-avgIncomeTable$incomeRank <- NA
-avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
-avgIncomeTable
-```
-
->>>>>>> 6cceded327e0dabbe5736a995cdafd6b63708e59
 To make it easier to read the graphs we split them up into groups of ten and then reversed the ranks so the greatest happiness and income have the tallest bars.
 ```{r}
 avgIncomeTable <-
