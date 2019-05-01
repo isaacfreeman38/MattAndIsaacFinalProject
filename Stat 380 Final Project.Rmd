@@ -5,7 +5,9 @@ date: "Due: May 1, 2019"
 output: html_notebook
 ---
 
-# Front matter
+# Can Money Buy You Happiness?
+
+### Front matter
 
 Here we get our project started by downloading the necessary packages and uploading the data we will be analyzing. We got our median income data from the data world website and the happiness rating from wallethub. In the front matter we also added some user defined functions such as when we were making the graphs.
 ```{r echo=TRUE, message=FALSE}
@@ -138,32 +140,19 @@ cor(TableWYears$OverallRank, TableWYears$WERank)
 cor(TableWYears$OverallRank, TableWYears$CERank)
 ```
 
-We used the same technique as above but this time we compared the median income in 2014 for all 50 states and their Happiness rating to see if there was a correlation between the 2. The is a positive correlation with an r value of .608.
+The original data table we obtained had the incomes for each year as a string, so we also needed to make them all numeric in order to perform mathematical operations on them.
 ```{r}
-GatheredIncome2014 <-
-  GatheredIncome %>%
-    filter(year == "2014") %>%
-      mutate(median = as.numeric(median),
-             OverallRank = rank(-OverallRank))
-
-GatheredIncome2014
-
-GatheredIncome2014 %>%
-  select(OverallRank, median) %>%
-  ggplot(aes(y = OverallRank, x = median)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0) +
-  ylab("Overall Happiness Ranking") + 
-  xlab("Median Income in 2014 for All 50 States")
-
-cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
+avgIncomeTable <-
+  TableWYears %>%
+    mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`) + as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
+avgIncomeTable  
 ```
 
-
+Another visual we created was a decision tree using average income to predict overall happinness rank.  The initial branch off was at 47,641.80 dollars, with further splits at 59,335.13 dollars and 53,059 dollars.
 ```{r}
 require(rpart)
 decision_tree_model <-
-  rpart(OverallRank ~ CERank, WERank, data = TableWYears)
+  rpart(OverallRank ~ avgIncome, data = avgIncomeTable)
 decision_tree_model
 ```
 
@@ -172,13 +161,8 @@ require(partykit)
 plot(as.party(decision_tree_model))
 ```
 
-```{r}
-avgIncomeTable <-
-  TableWYears %>%
-    mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`) + as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
-avgIncomeTable  
-```
 
+Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
@@ -200,8 +184,6 @@ avgIncomeTable <-
              rank(-OverallRank))
 avgIncomeTable
 ```
-barplot(barGraphData, names.arg = avgIncomeTable$State, beside=T) +
-  facet_wrap(~ avgIncomeTable$HappinessQuantile)
   
   
 This is where we created the bargraphs comparing the median income and happiness rank of each state individually. We tried to see how good of a predictor money is to happiness and for the most part it does do a good job. While there are some exceptions we think that median income does have a sizeable influence on how happy you are.
@@ -241,18 +223,30 @@ avgIncomeTable5 <-
 barGraphData5<- rbind(avgIncomeTable5$OverallRank, avgIncomeTable5$incomeRank)
 barplot(barGraphData5, names.arg = avgIncomeTable1$State, beside=T)
 ```
-
+## Conclusion
+We used the same technique as an earlier graph but this time we compared the median income in 2014 for all 50 states and their Happiness rating to see if there was a correlation between the 2. The is a positive correlation with an r value of .608.  Therefore, money DOES buy you happiness! (To an extent)
 ```{r}
-avgIncomeTable1 <-
-  avgIncomeTable %>%
-    filter(HappinessQuantile == 1) %>%
-      arrange(OverallRank)
-barGraphData1 <- rbind(avgIncomeTable1$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T)
+GatheredIncome2014 <-
+  GatheredIncome %>%
+    filter(year == "2014") %>%
+      mutate(median = as.numeric(median),
+             OverallRank = rank(-OverallRank))
 
+GatheredIncome2014
 
+GatheredIncome2014 %>%
+  select(OverallRank, median) %>%
+  ggplot(aes(y = OverallRank, x = median)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", se = 0) +
+  ylab("Overall Happiness Ranking") + 
+  xlab("Median Income in 2014 for All 50 States")
+
+cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
 ```
 
+## Additional exploration of the data
+Upon reaching our conclusion, we still had some requirements to fill, so we explored the data a little further just for fun.  First, we did a random simulation to find the difference in income ranking and happiness ranking for the states.  It wasn't all that useful, but the average number hovered around 10 for what it's worth.   
 ```{r}
 RankDiffSims <- 
   mosaic::do(1000) * 
@@ -265,23 +259,24 @@ RankDiffSims <-
 favstats(meanRankDiff ~ State, data = RankDiffSims)
 ```
 
+We also did some text analysis to find the answer to some specific questions about states.  For example, how many states have the letter "y" in their name?  5 of course!  And how many states are "New"?  Obviously 4.  And lastly, how many states have a cardinal direction in their name?  5.
 ```{r}
 # how many states have the letter "y" in them?
 RegexText <-
   grepl("y", avgIncomeTable$State)
 count(RegexText)
+
+# how many states are "New" in them?
+RegexText <-
+  grepl("New ", avgIncomeTable$State)
+count(RegexText)
+
+# how many states have a cardinal direction in their name?
+RegexText <-
+  grepl("West|North|South|East", avgIncomeTable$State)
+count(RegexText)
 ```
 
-Fix the second table so the columns have the correct names.
-Join the two tables together. Gather the median and standard error of incomes by state and/or year.
-Use a user defined function and/ or loop to change the column names.
-Use a loop to test the happiness and income for each state.
-Use a vectorized function
 
-Visualization for each states median income and the change over time.
-Use the standard error to create buffers for the lines
-Show the happiness compared to the same years median income and see if there is a correlation between the two. (geomscatter)
-
-Perform a simulation to see what type of happiness correlates best with overall happiness.
 
 
