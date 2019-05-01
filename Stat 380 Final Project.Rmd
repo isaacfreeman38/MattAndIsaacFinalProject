@@ -41,12 +41,10 @@ makeGraph <- function(df, yaxis, xaxis) {
   geom_smooth(method = "lm", se = 0)
 }
 
-happinessGraph <- function(newdf, df, column, value, binded) {
-  newdf 
-    df %>%
-     filter(column == value)
-    binded <- rbind(df$OverallRank, df$incomeRank)
-  barplot(binded, names.arg = df1$State, beside=T)
+happinessGraph <- function(df, column1, x, column2) {
+df %>%
+  filter(df$column1 == x) %>%
+    arrange(df$column2)
 }
 ```
 
@@ -192,7 +190,7 @@ To make it easier to read the graphs we split them up into groups of ten and the
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
-  mutate(HappinessQuantile = (as.numeric(OverallRank-1) %/% 10) + 1)
+  mutate(HappinessDecile = (as.numeric(OverallRank-1) %/% 5) + 1)
 
 avgIncomeTable <-
   avgIncomeTable %>%
@@ -200,57 +198,43 @@ avgIncomeTable <-
              rank(-OverallRank))
 avgIncomeTable
 ```
-barplot(barGraphData, names.arg = avgIncomeTable$State, beside=T) +
-  facet_wrap(~ avgIncomeTable$HappinessQuantile)
-  
   
 This is where we created the bargraphs comparing the median income and happiness rank of each state individually. We tried to see how good of a predictor money is to happiness and for the most part it does do a good job. While there are some exceptions we think that median income does have a sizeable influence on how happy you are.
 ```{r}
 avgIncomeTable1 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 1) %>%
+    filter(HappinessDecile == 1) %>%
       arrange(OverallRank)
 barGraphData1 <- rbind(avgIncomeTable1$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T)
+barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T, las=2)
 
 avgIncomeTable2 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 2) %>%
+    filter(HappinessDecile == 2) %>%
       arrange(OverallRank)
 barGraphData2 <- rbind(avgIncomeTable2$OverallRank, avgIncomeTable2$incomeRank)
-barplot(barGraphData2, names.arg = avgIncomeTable2$State, beside=T)
-
-avgIncomeTable3 <-
-  avgIncomeTable %>%
-    filter(HappinessQuantile == 3) %>%
-      arrange(OverallRank)
-barGraphData3 <- rbind(avgIncomeTable3$OverallRank, avgIncomeTable3$incomeRank)
-barplot(barGraphData3, names.arg = avgIncomeTable3$State, beside=T)
-
-avgIncomeTable4 <-
-  avgIncomeTable %>%
-    filter(HappinessQuantile == 4) %>%
-      arrange(OverallRank)
-barGraphData4 <- rbind(avgIncomeTable4$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData4, names.arg = avgIncomeTable4$State, beside=T)
+barplot(barGraphData2, names.arg = avgIncomeTable2$State, beside=T, las=2)
 
 avgIncomeTable5 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 5) %>%
+    filter(HappinessDecile == 5) %>%
       arrange(OverallRank)
-barGraphData5<- rbind(avgIncomeTable5$OverallRank, avgIncomeTable5$incomeRank)
-barplot(barGraphData5, names.arg = avgIncomeTable1$State, beside=T)
-```
+barGraphData5 <- rbind(avgIncomeTable5$OverallRank, avgIncomeTable5$incomeRank)
+barplot(barGraphData5, names.arg = avgIncomeTable5$State, beside=T, las=2)
 
-```{r}
-avgIncomeTable1 <-
+avgIncomeTable9 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 1) %>%
+    filter(HappinessDecile == 9) %>%
       arrange(OverallRank)
-barGraphData1 <- rbind(avgIncomeTable1$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T)
+barGraphData9 <- rbind(avgIncomeTable9$OverallRank, avgIncomeTable1$incomeRank)
+barplot(barGraphData9, names.arg = avgIncomeTable9$State, beside=T, las=2)
 
-
+avgIncomeTable10 <-
+  avgIncomeTable %>%
+    filter(HappinessDecile == 10) %>%
+      arrange(OverallRank)
+barGraphData10<- rbind(avgIncomeTable10$OverallRank, avgIncomeTable10$incomeRank)
+barplot(barGraphData10, names.arg = avgIncomeTable10$State, beside=T,  las = 2)
 ```
 
 ```{r}
