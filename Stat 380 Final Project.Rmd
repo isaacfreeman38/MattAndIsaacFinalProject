@@ -21,6 +21,7 @@ library(dplyr)
 library(tidyr)
 library(rvest)
 library(ggplot2)
+library(mosaic)
 
 # upload data here
 
@@ -37,18 +38,16 @@ Happiness <- html_table(tables[[1]])
 # user-defined functions here (if any)
 makeGraph <- function(df, yaxis, xaxis) {
   df %>%
-  select(yaxis, xaxis) %>%
-  ggplot(aes(y = yaxis, x = xaxis)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0)
+    select(yaxis, xaxis) %>%
+      ggplot(aes(y = yaxis, x = xaxis)) + 
+        geom_point() + 
+          geom_smooth(method = "lm", se = 0)
 }
 
-happinessGraph <- function(newdf, df, column, value, binded) {
-  newdf 
-    df %>%
-     filter(column == value)
-    binded <- rbind(df$OverallRank, df$incomeRank)
-  barplot(binded, names.arg = df1$State, beside=T)
+happinessGraph <- function(df, column1, x, column2) {
+df %>%
+  filter(df$column1 == x) %>%
+    arrange(df$column2)
 }
 ```
 
@@ -114,26 +113,26 @@ GatheredIncomeFiltered %>%
   ggplot(aes(x = year, y = median, color = State, group = 
                as.factor(State))) + 
   geom_line() + 
-  geom_point() + 
-  ylab("Median Income") + 
-  xlab("Year") + 
-  theme(axis.text.y = element_blank()) +
-  theme(axis.text.x = element_text(angle = 60, hjust = 1)) 
+    geom_point() + 
+      ylab("Median Income") + 
+        xlab("Year") + 
+          theme(axis.text.y = element_blank()) +
+            theme(axis.text.x = element_text(angle = 60, hjust = 1)) 
 ```
 
 Here we used the user-defined function created earlier to make the base of the graphs looking at how different types of happiness affect overall happiness. We also tested the correlation and determined that Emotional and Physical Well Being plays the biggest role in determining overall happiness, while all three were positively correlated.
 ```{r}
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Emotional/Physical Well-Being Ranking")
+    xlab("Emotional/Physical Well-Being Ranking")
 
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Work Environment Ranking")
+    xlab("Work Environment Ranking")
 
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Community Environment Ranking")
+    xlab("Community Environment Ranking")
 
 cor(TableWYears$OverallRank, TableWYears$EPRank)
 cor(TableWYears$OverallRank, TableWYears$WERank)
@@ -142,6 +141,25 @@ cor(TableWYears$OverallRank, TableWYears$CERank)
 
 The original data table we obtained had the incomes for each year as a string, so we also needed to make them all numeric in order to perform mathematical operations on them.
 ```{r}
+
+GatheredIncome2014 <-
+  GatheredIncome %>%
+    filter(year == "2014") %>%
+      mutate(median = as.numeric(median),
+             OverallRank = rank(-OverallRank))
+
+GatheredIncome2014
+
+GatheredIncome2014 %>%
+  select(OverallRank, median) %>%
+    ggplot(aes(y = OverallRank, x = median)) + 
+      geom_point() + 
+        geom_smooth(method = "lm", se = 0) +
+          ylab("Overall Happiness Ranking") + 
+            xlab("Median Income in 2014 for All 50 States")
+
+cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
+
 avgIncomeTable <-
   TableWYears %>%
     mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`) + as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
@@ -171,11 +189,25 @@ require(partykit)
 plot(as.party(decision_tree_model))
 ```
 
+<<<<<<< HEAD
+=======
+
+Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
+```{r}
+avgIncomeTable <-
+  avgIncomeTable %>%
+    mutate(avgIncome = totalIncome/30)
+avgIncomeTable$incomeRank <- NA
+avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
+avgIncomeTable
+```
+
+>>>>>>> 6cceded327e0dabbe5736a995cdafd6b63708e59
 To make it easier to read the graphs we split them up into groups of ten and then reversed the ranks so the greatest happiness and income have the tallest bars.
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
-  mutate(HappinessQuantile = (as.numeric(OverallRank-1) %/% 10) + 1)
+    mutate(HappinessDecile = (as.numeric(OverallRank-1) %/% 5) + 1)
 
 avgIncomeTable <-
   avgIncomeTable %>%
@@ -184,43 +216,42 @@ avgIncomeTable <-
 avgIncomeTable
 ```
   
-  
 This is where we created the bargraphs comparing the median income and happiness rank of each state individually. We tried to see how good of a predictor money is to happiness and for the most part it does do a good job. While there are some exceptions we think that median income does have a sizeable influence on how happy you are.
 ```{r}
 avgIncomeTable1 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 1) %>%
+    filter(HappinessDecile == 1) %>%
       arrange(OverallRank)
 barGraphData1 <- rbind(avgIncomeTable1$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T)
+barplot(barGraphData1, names.arg = avgIncomeTable1$State, beside=T, las=2)
 
 avgIncomeTable2 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 2) %>%
+    filter(HappinessDecile == 2) %>%
       arrange(OverallRank)
 barGraphData2 <- rbind(avgIncomeTable2$OverallRank, avgIncomeTable2$incomeRank)
-barplot(barGraphData2, names.arg = avgIncomeTable2$State, beside=T)
-
-avgIncomeTable3 <-
-  avgIncomeTable %>%
-    filter(HappinessQuantile == 3) %>%
-      arrange(OverallRank)
-barGraphData3 <- rbind(avgIncomeTable3$OverallRank, avgIncomeTable3$incomeRank)
-barplot(barGraphData3, names.arg = avgIncomeTable3$State, beside=T)
-
-avgIncomeTable4 <-
-  avgIncomeTable %>%
-    filter(HappinessQuantile == 4) %>%
-      arrange(OverallRank)
-barGraphData4 <- rbind(avgIncomeTable4$OverallRank, avgIncomeTable1$incomeRank)
-barplot(barGraphData4, names.arg = avgIncomeTable4$State, beside=T)
+barplot(barGraphData2, names.arg = avgIncomeTable2$State, beside=T, las=2)
 
 avgIncomeTable5 <-
   avgIncomeTable %>%
-    filter(HappinessQuantile == 5) %>%
+    filter(HappinessDecile == 5) %>%
       arrange(OverallRank)
-barGraphData5<- rbind(avgIncomeTable5$OverallRank, avgIncomeTable5$incomeRank)
-barplot(barGraphData5, names.arg = avgIncomeTable1$State, beside=T)
+barGraphData5 <- rbind(avgIncomeTable5$OverallRank, avgIncomeTable5$incomeRank)
+barplot(barGraphData5, names.arg = avgIncomeTable5$State, beside=T, las=2)
+
+avgIncomeTable9 <-
+  avgIncomeTable %>%
+    filter(HappinessDecile == 9) %>%
+      arrange(OverallRank)
+barGraphData9 <- rbind(avgIncomeTable9$OverallRank, avgIncomeTable1$incomeRank)
+barplot(barGraphData9, names.arg = avgIncomeTable9$State, beside=T, las=2)
+
+avgIncomeTable10 <-
+  avgIncomeTable %>%
+    filter(HappinessDecile == 10) %>%
+      arrange(OverallRank)
+barGraphData10<- rbind(avgIncomeTable10$OverallRank, avgIncomeTable10$incomeRank)
+barplot(barGraphData10, names.arg = avgIncomeTable10$State, beside=T,  las = 2)
 ```
 ## Conclusion
 We used the same technique as an earlier graph but this time we compared the median income in 2014 for all 50 states and their Happiness rating to see if there was a correlation between the 2. The is a positive correlation with an r value of .608.  Therefore, money DOES buy you happiness! (To an extent)
@@ -250,9 +281,9 @@ Upon reaching our conclusion, we still had some requirements to fill, so we expl
 RankDiffSims <- 
   mosaic::do(1000) * 
     avgIncomeTable %>%
-    mutate(State = shuffle(State)) %>%
-    group_by(State) %>%
-    summarise(meanRankDiff = sqrt(mean((as.numeric(incomeRank) - as.numeric(OverallRank))**2, na.rm = TRUE)))
+      mutate(State = shuffle(State)) %>%
+        group_by(State) %>%
+          summarise(meanRankDiff = sqrt(mean((as.numeric(incomeRank) - as.numeric(OverallRank))**2, na.rm = TRUE)))
 
 # results after `shuffle( )`
 favstats(meanRankDiff ~ State, data = RankDiffSims)
