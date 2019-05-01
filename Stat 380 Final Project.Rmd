@@ -35,10 +35,10 @@ Happiness <- html_table(tables[[1]])
 # user-defined functions here (if any)
 makeGraph <- function(df, yaxis, xaxis) {
   df %>%
-  select(yaxis, xaxis) %>%
-  ggplot(aes(y = yaxis, x = xaxis)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0)
+    select(yaxis, xaxis) %>%
+      ggplot(aes(y = yaxis, x = xaxis)) + 
+        geom_point() + 
+          geom_smooth(method = "lm", se = 0)
 }
 
 happinessGraph <- function(df, column1, x, column2) {
@@ -110,26 +110,26 @@ GatheredIncomeFiltered %>%
   ggplot(aes(x = year, y = median, color = State, group = 
                as.factor(State))) + 
   geom_line() + 
-  geom_point() + 
-  ylab("Median Income") + 
-  xlab("Year") + 
-  theme(axis.text.y = element_blank()) +
-  theme(axis.text.x = element_text(angle = 60, hjust = 1)) 
+    geom_point() + 
+      ylab("Median Income") + 
+        xlab("Year") + 
+          theme(axis.text.y = element_blank()) +
+            theme(axis.text.x = element_text(angle = 60, hjust = 1)) 
 ```
 
 Here we used the user-defined function created earlier to make the base of the graphs looking at how different types of happiness affect overall happiness. We also tested the correlation and determined that Emotional and Physical Well Being plays the biggest role in determining overall happiness, while all three were positively correlated.
 ```{r}
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Emotional/Physical Well-Being Ranking")
+    xlab("Emotional/Physical Well-Being Ranking")
 
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Work Environment Ranking")
+    xlab("Work Environment Ranking")
 
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
   ylab("Overall Happiness Ranking") + 
-  xlab("Community Environment Ranking")
+    xlab("Community Environment Ranking")
 
 cor(TableWYears$OverallRank, TableWYears$EPRank)
 cor(TableWYears$OverallRank, TableWYears$WERank)
@@ -148,11 +148,11 @@ GatheredIncome2014
 
 GatheredIncome2014 %>%
   select(OverallRank, median) %>%
-  ggplot(aes(y = OverallRank, x = median)) + 
-  geom_point() + 
-  geom_smooth(method = "lm", se = 0) +
-  ylab("Overall Happiness Ranking") + 
-  xlab("Median Income in 2014 for All 50 States")
+    ggplot(aes(y = OverallRank, x = median)) + 
+      geom_point() + 
+        geom_smooth(method = "lm", se = 0) +
+          ylab("Overall Happiness Ranking") + 
+            xlab("Median Income in 2014 for All 50 States")
 
 cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
 ```
@@ -180,7 +180,7 @@ avgIncomeTable
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
-  mutate(avgIncome = totalIncome/30)
+    mutate(avgIncome = totalIncome/30)
 avgIncomeTable$incomeRank <- NA
 avgIncomeTable$incomeRank[order(-avgIncomeTable$avgIncome)] <- 1:nrow(avgIncomeTable)
 avgIncomeTable
@@ -190,7 +190,7 @@ To make it easier to read the graphs we split them up into groups of ten and the
 ```{r}
 avgIncomeTable <-
   avgIncomeTable %>%
-  mutate(HappinessDecile = (as.numeric(OverallRank-1) %/% 5) + 1)
+    mutate(HappinessDecile = (as.numeric(OverallRank-1) %/% 5) + 1)
 
 avgIncomeTable <-
   avgIncomeTable %>%
@@ -241,9 +241,9 @@ barplot(barGraphData10, names.arg = avgIncomeTable10$State, beside=T,  las = 2)
 RankDiffSims <- 
   mosaic::do(1000) * 
     avgIncomeTable %>%
-    mutate(State = shuffle(State)) %>%
-    group_by(State) %>%
-    summarise(meanRankDiff = sqrt(mean((as.numeric(incomeRank) - as.numeric(OverallRank))**2, na.rm = TRUE)))
+      mutate(State = shuffle(State)) %>%
+        group_by(State) %>%
+          summarise(meanRankDiff = sqrt(mean((as.numeric(incomeRank) - as.numeric(OverallRank))**2, na.rm = TRUE)))
 
 # results after `shuffle( )`
 favstats(meanRankDiff ~ State, data = RankDiffSims)
