@@ -10,7 +10,7 @@ output: html_notebook
 ### Front matter
 
 Here we get our project started by downloading the necessary packages and uploading the data we will be analyzing. We got our median income data from the data world website and the happiness rating from wallethub. In the front matter we also added some user defined functions such as when we were making the graphs.
-```{r echo=TRUE, message=FALSE}
+```{r message=FALSE, include=FALSE}
 # always clean up R environment
 rm(list = ls())
 
@@ -52,26 +52,26 @@ df %>%
 ```
 
 Here is a look at the happiness dataset that we uploaded from wallethub. It includes the overall rank of each states happiness along with a total score and different types of happiness that help make up the final score.
-```{r}
+```{r echo=FALSE}
 Happiness
 ```
 
 Here we changed the name of one of the columns in the state_incomes dataset. We uploaded this data set from dataworld and it contains the median and standard deviations of each state ranging from 1984-2014
-```{r}
+```{r echo=FALSE}
 state_incomes = rename(state_incomes, State = `Table with row headers in column A and column headers in rows 4 and 5`)
 
 state_incomes
 ```
 
 This is where we joined the two tables together by "State" using the merge function. This way we can compare how (median) income affects happiness and try to answer the question "Can money buy you happiness?"
-```{r}
+```{r echo=FALSE}
 JoinedTablesRaw <-
   merge(Happiness, state_incomes, by = "State")
 JoinedTablesRaw
 ```
   
 We clean up the joined data table by changing the column names to match the year the column belongs to. A loop was useful here to change most of them as the columns were in order by year but some of them did need to be handled individually as they did not fit the pattern.
-```{r}
+```{r include=FALSE}
 # Rename a column in R
 names(JoinedTablesRaw)[7]<- 2014
 names(JoinedTablesRaw)[8]<- 2014
@@ -95,7 +95,7 @@ TableWYears
 ```
 
 Here we were able to use the gather function to look at the median income of different states over the years. We chose Hawaii, Kansas, and West Virginia because they were the 1st, 25th, and 50th happiest ranked state respectively. We wanted to see if there were big differences between the extremes and looking at the graph income does play a role in predicting happiness.
-```{r}
+```{r echo=FALSE}
 GatheredIncome <-
   TableWYears %>% 
     gather(key = year, value = median, "1984", "1985", "1986", "1987", "1988", "1989", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2014") %>%
@@ -121,7 +121,7 @@ GatheredIncomeFiltered %>%
 ```
 
 Here we used the user-defined function created earlier to make the base of the graphs looking at how different types of happiness affect overall happiness. We also tested the correlation and determined that Emotional and Physical Well Being plays the biggest role in determining overall happiness, while all three were positively correlated.
-```{r}
+```{r include=FALSE}
 makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
   ylab("Overall Happiness Ranking") + 
     xlab("Emotional/Physical Well-Being Ranking")
@@ -139,27 +139,33 @@ cor(TableWYears$OverallRank, TableWYears$WERank)
 cor(TableWYears$OverallRank, TableWYears$CERank)
 ```
 
+
+```{r echo=FALSE}
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$EPRank) +
+  ylab("Overall Happiness Ranking") + 
+    xlab("Emotional/Physical Well-Being Ranking")
+
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$WERank) +
+  ylab("Overall Happiness Ranking") + 
+    xlab("Work Environment Ranking")
+
+makeGraph(TableWYears, TableWYears$OverallRank, TableWYears$CERank) +
+  ylab("Overall Happiness Ranking") + 
+    xlab("Community Environment Ranking")
+
+cor(TableWYears$OverallRank, TableWYears$EPRank)
+cor(TableWYears$OverallRank, TableWYears$WERank)
+cor(TableWYears$OverallRank, TableWYears$CERank)
+```
+
+
+
+
+
+
+
 The original data table we obtained had the incomes for each year as a string, so we also needed to make them all numeric in order to perform mathematical operations on them.
-```{r}
-
-GatheredIncome2014 <-
-  GatheredIncome %>%
-    filter(year == "2014") %>%
-      mutate(median = as.numeric(median),
-             OverallRank = rank(-OverallRank))
-
-GatheredIncome2014
-
-GatheredIncome2014 %>%
-  select(OverallRank, median) %>%
-    ggplot(aes(y = OverallRank, x = median)) + 
-      geom_point() + 
-        geom_smooth(method = "lm", se = 0) +
-          ylab("Overall Happiness Ranking") + 
-            xlab("Median Income in 2014 for All 50 States")
-
-cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
-
+```{r echo=FALSE}
 avgIncomeTable <-
   TableWYears %>%
     mutate(totalIncome = as.numeric(TableWYears$`1984`) + as.numeric(TableWYears$`1985`) + as.numeric(TableWYears$`1986`) + as.numeric(TableWYears$`1987`) + as.numeric(TableWYears$`1988`) + as.numeric(TableWYears$`1989`) + as.numeric(TableWYears$`1990`) + as.numeric(TableWYears$`1991`) + as.numeric(TableWYears$`1992`) + as.numeric(TableWYears$`1993`) + as.numeric(TableWYears$`1994`) + as.numeric(TableWYears$`1995`) + as.numeric(TableWYears$`1996`) + as.numeric(TableWYears$`1997`) + as.numeric(TableWYears$`1998`) + as.numeric(TableWYears$`1999`) + as.numeric(TableWYears$`2000`) + as.numeric(TableWYears$`2001`) + as.numeric(TableWYears$`2002`) + as.numeric(TableWYears$`2003`) + as.numeric(TableWYears$`2004`) + as.numeric(TableWYears$`2005`) + as.numeric(TableWYears$`2006`) + as.numeric(TableWYears$`2007`) + as.numeric(TableWYears$`2008`) + as.numeric(TableWYears$`2009`) + as.numeric(TableWYears$`2010`) + as.numeric(TableWYears$`2011`) + as.numeric(TableWYears$`2012`) + as.numeric(TableWYears$`2014`))
@@ -167,7 +173,7 @@ avgIncomeTable
 ```
 
 Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
-```{r}
+```{r include=FALSE}
 avgIncomeTable <-
   avgIncomeTable %>%
   mutate(avgIncome = totalIncome/30)
@@ -177,7 +183,7 @@ avgIncomeTable
 ```
 
 Since the income for each state tended to vary somewhat unpredictably over time, we figured taking the average income over the last 30 years would be a good way to consolidate all the data into one number.
-```{r}
+```{r include=FALSE}
 avgIncomeTable <-
   avgIncomeTable %>%
     mutate(avgIncome = totalIncome/30)
@@ -187,20 +193,20 @@ avgIncomeTable
 ```
 
 Another visual we created was a decision tree using average income to predict overall happinness rank.  The initial branch off was at 47,641.80 dollars, with further splits at 59,335.13 dollars and 53,059 dollars.
-```{r}
+```{r include=FALSE}
 require(rpart)
 decision_tree_model <-
   rpart(OverallRank ~ avgIncome, data = avgIncomeTable)
 decision_tree_model
 ```
 
-```{r}
+```{r echo=FALSE}
 require(partykit)
 plot(as.party(decision_tree_model))
 ```
 
 To make it easier to read the graphs we split them up into groups of ten and then reversed the ranks so the greatest happiness and income have the tallest bars.
-```{r}
+```{r echo=FALSE}
 avgIncomeTable <-
   avgIncomeTable %>%
     mutate(HappinessDecile = (as.numeric(OverallRank-1) %/% 5) + 1)
@@ -213,7 +219,7 @@ avgIncomeTable
 ```
   
 This is where we created the bargraphs comparing the median income and happiness rank of each state individually. We tried to see how good of a predictor money is to happiness and for the most part it does do a good job. While there are some exceptions we think that median income does have a sizeable influence on how happy you are.
-```{r}
+```{r echo=FALSE}
 avgIncomeTable1 <-
   avgIncomeTable %>%
     filter(HappinessDecile == 1) %>%
@@ -251,7 +257,7 @@ barplot(barGraphData10, names.arg = avgIncomeTable10$State, beside=T,  las = 2)
 ```
 ## Conclusion
 We used the same technique as an earlier graph but this time we compared the median income in 2014 for all 50 states and their Happiness rating to see if there was a correlation between the 2. The is a positive correlation with an r value of .608.  Therefore, money DOES buy you happiness! (To an extent)
-```{r}
+```{r echo=FALSE}
 GatheredIncome2014 <-
   GatheredIncome %>%
     filter(year == "2014") %>%
@@ -273,7 +279,7 @@ cor(GatheredIncome2014$OverallRank, GatheredIncome2014$median)
 
 ## Additional exploration of the data
 Upon reaching our conclusion, we still had some requirements to fill, so we explored the data a little further just for fun.  First, we did a random simulation to find the difference in income ranking and happiness ranking for the states.  It wasn't all that useful, but the average number hovered around 10 for what it's worth.   
-```{r}
+```{r echo=FALSE}
 RankDiffSims <- 
   mosaic::do(1000) * 
     avgIncomeTable %>%
@@ -286,7 +292,7 @@ favstats(meanRankDiff ~ State, data = RankDiffSims)
 ```
 
 We also did some text analysis to find the answer to some specific questions about states.  For example, how many states have the letter "y" in their name?  5 of course!  And how many states are "New"?  Obviously 4.  And lastly, how many states have a cardinal direction in their name?  5.
-```{r}
+```{r echo=TRUE}
 # how many states have the letter "y" in them?
 RegexText <-
   grepl("y", avgIncomeTable$State)
